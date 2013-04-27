@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Evernote Web
+Exec=/opt/google/chrome/google-chrome --app-id=lbfehkoinhhcknnbdgnnmjhiladcgbol
+Terminal=false
+Icon=chrome-https___www.evernote.com_Home.action
+Type=Application
+Categories=Network;WebBrowser;
+StartupWMClass=crx_lbfehkoinhhcknnbdgnnmjhiladcgbol
+OnlyShowIn=Old;

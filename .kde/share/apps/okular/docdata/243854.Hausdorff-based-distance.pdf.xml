@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/zach/Dropbox/Research/HUSL/Conflict Measures/Hausdorff-based-distance.pdf">
+ <pageList>
+  <page number="0">
+   <annotationList>
+    <annotation type="1">
+     <base creationDate="2012-02-21T20:46:25" uniqueName="okular-0-1" author="Zachary Sunberg" contents="test" modifyDate="2012-02-21T20:46:25" color="#ffff00">
+      <boundary l="0.483456" r="0.513456" b="0.338049" t="0.314867"/>
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0"/>
+     </base>
+     <text icon="Note"/>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2012-02-21T20:47:02" uniqueName="okular-0-2" author="Zachary Sunberg" modifyDate="2012-02-21T20:47:02" color="#00ff00">
+      <boundary l="0.295343" r="0.49326" b="0.384943" t="0.357008"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.295343" y="0.359848"/>
+       <point x="0.29902" y="0.359848"/>
+       <point x="0.30576" y="0.358902"/>
+       <point x="0.316176" y="0.358902"/>
+       <point x="0.327819" y="0.358902"/>
+       <point x="0.340074" y="0.358902"/>
+       <point x="0.35049" y="0.357955"/>
+       <point x="0.360294" y="0.357955"/>
+       <point x="0.365809" y="0.357955"/>
+       <point x="0.368873" y="0.357955"/>
+       <point x="0.367647" y="0.359375"/>
+       <point x="0.365809" y="0.362216"/>
+       <point x="0.363358" y="0.366004"/>
+       <point x="0.362132" y="0.369318"/>
+       <point x="0.36152" y="0.372633"/>
+       <point x="0.36152" y="0.374527"/>
+       <point x="0.36152" y="0.37642"/>
+       <point x="0.36152" y="0.376894"/>
+       <point x="0.36152" y="0.377841"/>
+       <point x="0.36152" y="0.378314"/>
+       <point x="0.36152" y="0.378788"/>
+       <point x="0.36152" y="0.379261"/>
+       <point x="0.362132" y="0.379735"/>
+       <point x="0.363358" y="0.380208"/>
+       <point x="0.365196" y="0.381155"/>
+       <point x="0.369485" y="0.381629"/>
+       <point x="0.376225" y="0.382576"/>
+       <point x="0.384804" y="0.383523"/>
+       <point x="0.395221" y="0.383523"/>
+       <point x="0.40625" y="0.383523"/>
+       <point x="0.416667" y="0.383523"/>
+       <point x="0.425858" y="0.383523"/>
+       <point x="0.433824" y="0.383523"/>
+       <point x="0.439338" y="0.383523"/>
+       <point x="0.439951" y="0.383523"/>
+       <point x="0.440564" y="0.383523"/>
+       <point x="0.441176" y="0.383523"/>
+       <point x="0.443015" y="0.383523"/>
+       <point x="0.445466" y="0.383523"/>
+       <point x="0.449142" y="0.382576"/>
+       <point x="0.454657" y="0.382576"/>
+       <point x="0.460784" y="0.382576"/>
+       <point x="0.466299" y="0.382576"/>
+       <point x="0.472426" y="0.382576"/>
+       <point x="0.477328" y="0.381629"/>
+       <point x="0.481618" y="0.381629"/>
+       <point x="0.485907" y="0.381629"/>
+       <point x="0.488358" y="0.381629"/>
+       <point x="0.489583" y="0.381629"/>
+       <point x="0.490196" y="0.382102"/>
+       <point x="0.490809" y="0.382576"/>
+       <point x="0.491422" y="0.383523"/>
+       <point x="0.492034" y="0.383523"/>
+       <point x="0.492034" y="0.383996"/>
+      </path>
+     </ink>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="2.19771"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

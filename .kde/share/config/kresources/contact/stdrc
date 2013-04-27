@@ -1,0 +1,12 @@
+[General]
+PassiveResourceKeys=
+ResourceKeys=NBaUSHnAsF
+Standard=NBaUSHnAsF
+
+[Resource_NBaUSHnAsF]
+FileFormat=vcard
+ResourceIdentifier=NBaUSHnAsF
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Default Address Book
+ResourceType=file

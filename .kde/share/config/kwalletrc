@@ -1,0 +1,11 @@
+[Auto Allow]
+kdewallet=kwalletmanager,KDE Daemon,Kopete,Chromium,Google Chrome,Subversion,Plasma Desktop Shell,kdesvn,everpad
+
+[Auto Deny]
+kdewallet=
+
+[Wallet]
+Close on Screensaver=false
+Default Wallet[$d]
+Enabled=false
+Prompt on Open=false

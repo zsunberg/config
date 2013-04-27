@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/zach/Dropbox/Documents/Papers/A new distance between two bodies of evidence - Jousselme, Grenier, Bossé - 2001.pdf">
+ <pageList>
+  <page number="1">
+   <annotationList>
+    <annotation type="4">
+     <base creationDate="2012-02-02T16:36:58" uniqueName="okular-1-1" author="Zachary Sunberg" modifyDate="2012-02-02T16:36:58" color="#ffff00">
+      <boundary l="0.0846154" r="0.660684" b="0.307495" t="0.245996"/>
+     </base>
+     <hl>
+      <quad dx="0.0850871" cx="0.48694" dy="0.246501" bx="0.48694" cy="0.246501" ax="0.0850871" by="0.262812" ay="0.262812" feather="1"/>
+      <quad dx="0.0850871" cx="0.486841" dy="0.261566" bx="0.486841" cy="0.261566" ax="0.0850871" by="0.277878" ay="0.277878" feather="1"/>
+      <quad dx="0.0850871" cx="0.48689" dy="0.276632" bx="0.48689" cy="0.276632" ax="0.0850871" by="0.292944" ay="0.292944" feather="1"/>
+      <quad dx="0.0850871" cx="0.341107" dy="0.291698" bx="0.341107" cy="0.291698" ax="0.0850871" by="0.308009" ay="0.308009" feather="1"/>
+      <quad dx="0.527098" cx="0.661043" dy="0.246496" bx="0.661043" cy="0.246496" ax="0.527098" by="0.262807" ay="0.262807" feather="1"/>
+      <quad dx="0.527098" cx="0.647395" dy="0.276985" bx="0.647395" cy="0.276985" ax="0.527098" by="0.293296" ay="0.293296" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.796639:0.384131:1"/>
+   <oldPage viewport="8;C2:0.27563:0.84194:1"/>
+   <oldPage viewport="0;C2:0.499332:0.962963:1"/>
+   <oldPage viewport="1;C2:0.499332:0.971972:1"/>
+   <oldPage viewport="2;C2:0.499332:0.980981:1"/>
+   <oldPage viewport="3;C2:0.499332:0.98999:1"/>
+   <oldPage viewport="4;C2:0.499656:0.0183273:1"/>
+   <oldPage viewport="3;C2:0.499656:0.0952504:1"/>
+   <oldPage viewport="2;C2:0.499656:0.0172948:1"/>
+   <oldPage viewport="1;C2:0.499656:0.00129066:1"/>
+   <current viewport="0;C2:0.499656:0.75684:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="2.44034"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

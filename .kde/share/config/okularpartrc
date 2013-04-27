@@ -1,0 +1,26 @@
+[$Version]
+update_info=okular.upd:sep_settings
+
+[Core General]
+ExternalEditor=Custom
+ExternalEditorCommand=echo %f:%l
+ObeyDRM=false
+
+[Core Performance]
+MemoryLevel=Aggressive
+
+[General]
+ExternalEditor=Custom
+ExternalEditorCommand=gvim -c ":RemoteOpen +%l %f"
+ObeyDRM[$d]
+UseKTTSD=false
+
+[Main View]
+SplitterSizes=168,712
+
+[Nav Panel]
+CurrentPageOnly=true
+
+[Search]
+SearchCaseSensitive=true
+SearchFromCurrentPage=true

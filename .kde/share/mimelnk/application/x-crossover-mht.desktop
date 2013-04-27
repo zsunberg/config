@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=application/x-crossover-mht
+Comment=MHTML Document
+Icon=/opt/cxoffice/share/icons/32x32/crossover.png
+Patterns=*.MHT;*.mht
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=message_rfc822::edit;message_rfc822::print
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=message_rfc822::edit;message_rfc822::print

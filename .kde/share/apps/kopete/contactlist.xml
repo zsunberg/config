@@ -1,0 +1,1506 @@
+<kopete-contact-list version="1.2">
+    <kopete-group groupId="1" view="expanded" type="top-level">
+        <display-name>Top Level</display-name>
+    </kopete-group>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:khube89@gmail.com" contactId="{f39b7110-e893-41e1-8f13-6e7c1beafd3c}">
+        <display-name>Kevin Hubert</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="khube89@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="khube89@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">khube89@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">khube89@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Kevin Hubert</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:56:51</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Kevin Hubert</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Kevin Hubert</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/khube89@gmail.com_72a5f53dab074797c820bcf8b1039546.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:egentert@gmail.com" contactId="{b5865209-b3aa-4316-a35a-aba4b5ba93f9}">
+        <display-name>Ethan Gentert</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="egentert@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="egentert@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">egentert@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">egentert@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Ethan Gentert</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:56:55</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Ethan Gentert</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Ethan Gentert</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/egentert@gmail.com_d0feab12655b0ee797fa903c90b7895b.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:jrogers8@gmail.com" contactId="{705aad2c-fce4-4201-b91a-7389975aac9e}">
+        <display-name>Jonathan Rogers</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="jrogers8@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="jrogers8@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">jrogers8@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">jrogers8@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Jonathan Rogers</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:56:59</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Jonathan Rogers</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Jonathan Rogers</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:bwtaylor89@gmail.com" contactId="{46200bc0-477d-4102-8e2a-ef984adeb701}">
+        <display-name>Bradley Taylor</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="bwtaylor89@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="bwtaylor89@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">bwtaylor89@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">bwtaylor89@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Bradley Taylor</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:03</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Brad Taylor</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Bradley Taylor</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/bwtaylor89@gmail.com_cabd5caf63930fd588e8d3039c3aaf5c.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:jim.may.jr@gmail.com" contactId="{35da80bc-e65f-4a1b-a4cb-4f947b1559b4}">
+        <display-name>jim.may.jr</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="jim.may.jr@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="jim.may.jr@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">jim.may.jr@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">jim.may.jr@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">jim.may.jr</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:07</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Jim May</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">jim.may.jr</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/jim.may.jr@gmail.com_010a3e99c5f8d0984dc508a709c4eedd.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:rebeccalincecum@gmail.com" contactId="{ef153a54-502f-46b1-b587-46fe3d50bfee}">
+        <display-name>Rebecca Lincecum</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="rebeccalincecum@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="rebeccalincecum@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">rebeccalincecum@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">rebeccalincecum@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Rebecca Lincecum</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:12</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Rebecca Lincecum</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Rebecca Lincecum</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/rebeccalincecum@gmail.com_41f6aec645d68e98e7982a5dbedefb63.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:maoshun1987@gmail.com" contactId="{e23d168b-0788-4a2b-966c-65c8cc8cb960}">
+        <display-name>Shun Mao</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="maoshun1987@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="maoshun1987@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">maoshun1987@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">maoshun1987@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Shun Mao</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-26T12:51:34</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:16</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">毛顺</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Shun Mao</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:woodbury.tim@gmail.com" contactId="{99c1fa7b-6afd-463a-92a4-61273bd49829}">
+        <display-name>Tim Woodbury</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="woodbury.tim@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="woodbury.tim@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">woodbury.tim@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">woodbury.tim@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Tim Woodbury</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:19</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Tim Woodbury</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Tim Woodbury</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/woodbury.tim@gmail.com_71bec729efd04fded61637a6a74a1bf1.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:micahdameron@gmail.com" contactId="{803f305c-939a-4342-9256-e36815b8e9f7}">
+        <display-name>Micah Dameron</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="micahdameron@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="micahdameron@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">micahdameron@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">micahdameron@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Micah Dameron</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:23</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Micah Dameron</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Micah Dameron</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/micahdameron@gmail.com_d0e8851dc07eeef8ad686d4532850702.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:acefool28@gmail.com" contactId="{8c4502d8-0195-4be2-97cb-fe39cd9201b0}">
+        <display-name>Spencer Hawkins</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="acefool28@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="acefool28@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">acefool28@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">acefool28@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Spencer Hawkins</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:27</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Spencer Hawkins</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Spencer Hawkins</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/acefool28@gmail.com_4a07d29ea6a76dda04065a44e5269aec.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:albertsotojr@gmail.com" contactId="{78c29606-0dfb-418c-b15c-95353b7e04bf}">
+        <display-name>Albert Soto</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="albertsotojr@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="albertsotojr@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">albertsotojr@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">albertsotojr@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Albert Soto</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-30T14:45:48</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:32</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Albert Soto</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Albert Soto</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:b.daniel.stovall@gmail.com" contactId="{f030d8ad-8493-4bd8-b03f-807ed562564b}">
+        <display-name>Daniel Stovall</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="b.daniel.stovall@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="b.daniel.stovall@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">b.daniel.stovall@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">b.daniel.stovall@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Daniel Stovall</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:37</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Daniel Stovall</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Daniel Stovall</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/b.daniel.stovall@gmail.com_291609efcadde37793296006a5710518.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:bales.kelsey@gmail.com" contactId="{cb4e4489-afc6-414a-99dc-801652553bf3}">
+        <display-name>bales.kelsey</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="bales.kelsey@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="bales.kelsey@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">bales.kelsey@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">bales.kelsey@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">bales.kelsey</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:39</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Kelsey Bales</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">bales.kelsey</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/bales.kelsey@gmail.com_bed95f29d90521278b03be419cabf96b.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:jam4375@gmail.com" contactId="{e676a3db-b88f-4160-a636-30cc1bdcb8a5}">
+        <display-name>Jason Monschke</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="jam4375@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="jam4375@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">jam4375@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">jam4375@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Jason Monschke</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:43</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Jason Monschke</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Jason Monschke</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:jamesdoebbler@gmail.com" contactId="{91fc1445-45bd-4d01-934d-93a860184618}">
+        <display-name>James Doebbler</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="jamesdoebbler@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="jamesdoebbler@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">jamesdoebbler@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">jamesdoebbler@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">James Doebbler</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:47</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">James Doebbler</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">James Doebbler</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:jnellbell@gmail.com" contactId="{a8ab8747-485b-440e-8da3-655e503d247e}">
+        <display-name>Janelle Johnson</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="jnellbell@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="jnellbell@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">jnellbell@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">jnellbell@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Janelle Johnson</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:51</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Janelle Johnson</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Janelle Johnson</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/jnellbell@gmail.com_6f37f05444526c8b17b2562f62188471.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:johntgraves@gmail.com" contactId="{0a9fae41-5c41-46ac-bf30-b44152be7a0b}">
+        <display-name>John Thomas Graves</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="johntgraves@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="johntgraves@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">johntgraves@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">johntgraves@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">John Thomas Graves</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-30T14:45:48</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:55</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">John Thomas Graves</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">John Thomas Graves</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:knsunberg@gmail.com" contactId="{185e68c8-1fb0-4721-b56a-14feef63352c}">
+        <display-name>Kent Sunberg</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="knsunberg@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="knsunberg@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">knsunberg@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">knsunberg@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Kent Sunberg</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:57:59</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Kent Sunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Kent Sunberg</plugin-data-field>
+        </plugin-contact-data>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">ksunberg@us.ibm.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">ksunberg@us.ibm.com</plugin-data-field>
+            <plugin-data-field key="displayName">Kent Sunberg</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_firstName">ksunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberAuthorizationStatus">Waiting for authorization</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You cannot see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:03</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCompanyName">us.ibm.com</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Kent Sunberg</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:ljmdn1@gmail.com" contactId="{c85a6d43-3997-46dd-bc3e-fd61d4d388e0}">
+        <display-name>Luis Medina</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="ljmdn1@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="ljmdn1@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">ljmdn1@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">ljmdn1@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Luis Medina</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:07</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Luis Medina</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Luis Medina</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:michael.j.ellsworth@gmail.com" contactId="{13dbdad9-1807-4de1-8c84-7a3273dd8035}">
+        <display-name>Michael Ellsworth</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="michael.j.ellsworth@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="michael.j.ellsworth@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">michael.j.ellsworth@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">michael.j.ellsworth@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Michael Ellsworth</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:11</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Michael Ellsworth</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Michael Ellsworth</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/michael.j.ellsworth@gmail.com_0d7db0945bc8340f43d34e75711df4c8.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:olalahmad@gmail.com" contactId="{43626526-ef2e-4549-8aa4-0f75e733ab83}">
+        <display-name>Ahmad Bani Younes</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="olalahmad@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="olalahmad@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">olalahmad@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">olalahmad@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Ahmad Bani Younes</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:15</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Ahmad Bani Younes</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Ahmad Bani Younes</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/olalahmad@gmail.com_afa3b485546230e5d2b8bdd388f3add5.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:rhodgin@gmail.com" contactId="{8accb6e1-7ee8-48ac-b4af-8ce87992be1f}">
+        <display-name>Ryan Hodgin</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="rhodgin@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="rhodgin@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">rhodgin@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">rhodgin@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Ryan Hodgin</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:19</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Ryan Hodgin</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Ryan Hodgin</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/rhodgin@gmail.com_4151afb5a31f09f142499d373b8ff3ce.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:sarahnelson89@gmail.com" contactId="{3bae046b-e776-4355-ab03-eaba8b82ea94}">
+        <display-name>Sarah Nelson</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="sarahnelson89@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="sarahnelson89@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">sarahnelson89@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">sarahnelson89@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Sarah Nelson</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-27T12:33:10</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:24</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Sarah Nelson</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Sarah Nelson</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:sgs8810@gmail.com" contactId="{f57d8745-4b63-43b2-8fb8-5d1108f5c172}">
+        <display-name>Samuel Gonzalez</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="sgs8810@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="sgs8810@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">sgs8810@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">sgs8810@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Samuel Gonzalez</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-30T14:45:48</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:28</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">sam gonzales</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Samuel Gonzalez</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:sunberghannah@gmail.com" contactId="{094f3cd5-ed9f-4819-92e3-75fde8217cc3}">
+        <display-name>Hannah Sunberg</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="sunberghannah@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="sunberghannah@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">sunberghannah@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">sunberghannah@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Hannah Sunberg</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:31</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Hannah Sunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Hannah Sunberg</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:tkennedy988@gmail.com" contactId="{b6122fee-4916-40de-880a-f7e20e9bf5cb}">
+        <display-name>Tommy Kennedy</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="tkennedy988@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="tkennedy988@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">tkennedy988@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">tkennedy988@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Tommy Kennedy</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-27T11:22:50</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:36</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Tommy Kennedy</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Tommy Kennedy</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/tkennedy988@gmail.com_41900f9c9a99e7c045a75edcf53f4f8b.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:kentnsunberg@aol.com" contactId="{0338243d-2191-4157-a642-08f5554d176e}">
+        <display-name></display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="kentnsunberg@aol.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="kentnsunberg@aol.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">kentnsunberg@aol.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">kentnsunberg@aol.com</plugin-data-field>
+            <plugin-data-field key="displayName"></plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:40</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/kentnsunberg@aol.com_b0209dd7289fafeb89ff7c6a44134d9c.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:a.elhamad@gmail.com" contactId="{0f95c563-df95-4788-ac56-a87278a5b168}">
+        <display-name>a.elhamad</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom"/>
+            <photo source="contact"/>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:abprobe88@gmail.com" contactId="{cf14e602-49fd-4da1-b18d-2aba47defeae}">
+        <display-name>abprobe88</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="abprobe88@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="abprobe88@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">abprobe88@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">abprobe88@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">abprobe88</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-30T14:45:48</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:43</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Austin Probe</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">abprobe88</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/abprobe88@gmail.com_b28cbf420954985ec314a792d4c87c61.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:bm.allen1988@gmail.com" contactId="{4a45a5e8-cef3-4e56-9178-f4ae65c58386}">
+        <display-name>Brian Allen</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="bm.allen1988@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="bm.allen1988@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">bm.allen1988@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">bm.allen1988@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Brian Allen</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-23T01:51:14</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:47</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Brian Allen</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Brian Allen</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/bm.allen1988@gmail.com_9a6e95a4fc0c4111789dbd0a5b0c6f37.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:brianfreno@gmail.com" contactId="{8387b5c7-2a74-466b-b266-91eba30159ef}">
+        <display-name>Brian Freno</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="brianfreno@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="brianfreno@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">brianfreno@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">brianfreno@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Brian Freno</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:51</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Brian Freno</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Brian Freno</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/brianfreno@gmail.com_9e2456d1b6c2343ffa475776c327d7be.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:chrysler.andrew@gmail.com" contactId="{ce97c8f5-fa5c-480d-acb2-d22c173354ba}">
+        <display-name>Andrew Chrysler</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="chrysler.andrew@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="chrysler.andrew@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">chrysler.andrew@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">chrysler.andrew@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Andrew Chrysler</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-27T00:56:07</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:58:55</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Andrew Chrysler</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Andrew Chrysler</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:daniel.d.steck@gmail.com" contactId="{67d00a00-50b8-418b-839d-13179337d04e}">
+        <display-name>Daniel Steck</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="daniel.d.steck@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="daniel.d.steck@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">daniel.d.steck@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">daniel.d.steck@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Daniel Steck</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:00</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Daniel Steck</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Daniel Steck</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:grantstein@gmail.com" contactId="{e140e14b-bf6a-42b5-b2d2-3788c18a93ef}">
+        <display-name>Grant Stein</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="grantstein@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="grantstein@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">grantstein@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">grantstein@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Grant Stein</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2011-11-30T14:41:38</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:03</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Grant Stein</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Grant Stein</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/grantstein@gmail.com_d6618dc7e2cd61d50add9a88210d1057.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:jacobemmett@gmail.com" contactId="{0ab68ab9-0cad-4104-95e5-e9e041627bca}">
+        <display-name>Jacob Emmett</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="jacobemmett@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="jacobemmett@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">jacobemmett@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">jacobemmett@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Jacob Emmett</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:07</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Jake Emmett</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Jacob Emmett</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/jacobemmett@gmail.com_3dca11dbc2639334f6fa7939522af1dc.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:pwcking@gmail.com" contactId="{6139e4b5-55bc-4cf1-b7f3-cc89929c3b55}">
+        <display-name>Wonchang Park</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="pwcking@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="pwcking@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">pwcking@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">pwcking@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Wonchang Park</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:11</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">박원창</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Wonchang Park</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:sdstephens@gmail.com" contactId="{d5652318-4e79-496e-9695-86fd88daba7b}">
+        <display-name>Sam Stephens</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="sdstephens@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="sdstephens@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">sdstephens@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">sdstephens@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Sam Stephens</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:16</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Sam Stephens</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Sam Stephens</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/sdstephens@gmail.com_5b88b41dc4a0f9902dec6ff3fb42d83c.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:shane.miles@gmail.com" contactId="{ba424e58-7aaa-4d45-a968-25cf5f06cc23}">
+        <display-name>Shane Miles</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="shane.miles@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="shane.miles@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">shane.miles@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">shane.miles@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Shane Miles</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:19</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Shane Miles</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Shane Miles</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/shane.miles@gmail.com_b01f5a5bdfe436781d0f48076f8216c5.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:vonbraunguy@gmail.com" contactId="{89cc3b99-f415-4acb-ab2b-7e99796ed419}">
+        <display-name>Grant Atkinson</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="vonbraunguy@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="vonbraunguy@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">vonbraunguy@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">vonbraunguy@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Grant Atkinson</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:23</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Grant Atkinson</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Grant Atkinson</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/vonbraunguy@gmail.com_0f575b3918e717dabf2860f0340ffd74.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:winniejlung@gmail.com" contactId="{b45027b1-82cf-4638-b675-c95b16129dc1}">
+        <display-name>Winnie Lung</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom"/>
+            <photo source="contact"/>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:kent-n-sunberg@aol.com" contactId="{21dd36f0-a7c4-4ee9-b426-191c24073d94}">
+        <display-name></display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="kent-n-sunberg@aol.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="kent-n-sunberg@aol.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">kent-n-sunberg@aol.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">kent-n-sunberg@aol.com</plugin-data-field>
+            <plugin-data-field key="displayName"></plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see this contact's status, but he/she cannot see your status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:27</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:waffers@aol.com" contactId="{73e161e4-2fd7-4c0b-aceb-b809b7c73531}">
+        <display-name></display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="waffers@aol.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="waffers@aol.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">waffers@aol.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">waffers@aol.com</plugin-data-field>
+            <plugin-data-field key="displayName"></plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see this contact's status, but he/she cannot see your status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:31</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/waffers@aol.com_993c716c416bd6f2df188a0803a1fae3.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:lflyguy81@gmail.com" contactId="{5867478e-0912-4aea-8323-a33372c50aa6}">
+        <display-name>Lee Fowler</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="lflyguy81@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="lflyguy81@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">lflyguy81@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">lflyguy81@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Lee Fowler</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:36</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Tenby Davies</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Lee Fowler</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/lflyguy81@gmail.com_7a90ae11e1aa8e711c5bb040a7b26337.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:nmiller08@gmail.com" contactId="{fe0683ba-9e6c-4574-9a7c-a2dc10f453f9}">
+        <display-name>Nate Miller</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="nmiller08@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="nmiller08@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">nmiller08@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">nmiller08@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Nate Miller</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:40</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Nate Miller</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Nate Miller</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:ratman9021@gmail.com" contactId="{ba2bf673-c1e1-472f-aa91-5c33ecd87f3c}">
+        <display-name>Ian Neel</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="ratman9021@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="ratman9021@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">ratman9021@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">ratman9021@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Ian Neel</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:43</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Ian Neel</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Ian Neel</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:afmaqui@gmail.com" contactId="{0b400d6e-402d-4993-b2e7-c7bea0f0188f}">
+        <display-name>agustin maqui</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="afmaqui@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="afmaqui@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">afmaqui@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">afmaqui@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">agustin maqui</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:47</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">agustin maqui</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">agustin maqui</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/afmaqui@gmail.com_149a1dcc7c6daf6ed82109dbe869dbd2.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:konduri.adi@gmail.com" contactId="{9949aa99-e652-466b-bf78-b8e713c54167}">
+        <display-name>konduri.adi</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="konduri.adi@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="konduri.adi@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">konduri.adi@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">konduri.adi@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">konduri.adi</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:51</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">konduri aditya</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">konduri.adi</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/konduri.adi@gmail.com_ad95e1f32617ca656034687131a68c13.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:0fi8ghgm8ufoa0svbt0jco7pji@public.talk.google.com" contactId="{8a6fe566-96fe-4fc8-9216-4b720fdb0da7}">
+        <display-name>Rex Rosandich</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="0fi8ghgm8ufoa0svbt0jco7pji@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="0fi8ghgm8ufoa0svbt0jco7pji@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">0fi8ghgm8ufoa0svbt0jco7pji@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">0fi8ghgm8ufoa0svbt0jco7pji@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Rex Rosandich</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T14:59:55</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Rex Rosandich</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Rex Rosandich</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/0fi8ghgm8ufoa0svbt0jco7pji@public.talk.google.com_ae049d1f55ee3d451c61ceb47e7819ef.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:bowens1@gmail.com" contactId="{76f25b84-807a-4319-a85c-d090e458c966}">
+        <display-name>Brian Owens</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="bowens1@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="bowens1@gmail.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">bowens1@gmail.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">bowens1@gmail.com</plugin-data-field>
+            <plugin-data-field key="displayName">Brian Owens</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:00</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Brian Owens</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Brian Owens</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/bowens1@gmail.com_22cbefa07f18400ff70d94eb0fc32aec.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:0528p6jjetqe33fj07dcm6zfn4@public.talk.google.com" contactId="{c5e9af31-4a45-40cc-bcdb-4f1e0b2f2a10}">
+        <display-name>Zach Edens</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="0528p6jjetqe33fj07dcm6zfn4@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="0528p6jjetqe33fj07dcm6zfn4@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">0528p6jjetqe33fj07dcm6zfn4@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">0528p6jjetqe33fj07dcm6zfn4@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Zach Edens</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:04</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Zach Edens</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Zach Edens</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:0pay0tfnp53xs19l3vsce3s8z1@public.talk.google.com" contactId="{986582cf-3011-426e-b35c-7f3ca389d32a}">
+        <display-name>stuart kennedy</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="0pay0tfnp53xs19l3vsce3s8z1@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="0pay0tfnp53xs19l3vsce3s8z1@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">0pay0tfnp53xs19l3vsce3s8z1@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">0pay0tfnp53xs19l3vsce3s8z1@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">stuart kennedy</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:08</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">stuart kennedy</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">stuart kennedy</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/0pay0tfnp53xs19l3vsce3s8z1@public.talk.google.com_d61b18d8119bf7e873ef96456df977ad.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:0zz9xe3lh5tuo38f4jkhau6q8f@public.talk.google.com" contactId="{e2edaa24-9bef-4f5d-9e99-dbf31a0b769a}">
+        <display-name>Renée Sunberg</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="0zz9xe3lh5tuo38f4jkhau6q8f@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="0zz9xe3lh5tuo38f4jkhau6q8f@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">0zz9xe3lh5tuo38f4jkhau6q8f@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">0zz9xe3lh5tuo38f4jkhau6q8f@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Renée Sunberg</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:11</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Renée Sunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Renée Sunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/0zz9xe3lh5tuo38f4jkhau6q8f@public.talk.google.com_34132ee1b04aa30a0e6c2cbf5c5647d9.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:217jzktfslqo91jl4636m5bxzq@public.talk.google.com" contactId="{e63c098b-020c-4d32-83bc-dde24fa5775d}">
+        <display-name>Jeremy Davis</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="217jzktfslqo91jl4636m5bxzq@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="217jzktfslqo91jl4636m5bxzq@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">217jzktfslqo91jl4636m5bxzq@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">217jzktfslqo91jl4636m5bxzq@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Jeremy Davis</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QDateTime_lastSeen">2012-05-16T15:03:56</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:15</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Jeremy Davis</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Jeremy Davis</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/217jzktfslqo91jl4636m5bxzq@public.talk.google.com_ca52ed92fba6af4fce580cea79930115.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:2ovr7gpn3474b1ym9dox2ixtg6@public.talk.google.com" contactId="{01323dbc-b800-4a00-80cb-076fc2eec165}">
+        <display-name>Jeff Piersol</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="2ovr7gpn3474b1ym9dox2ixtg6@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="2ovr7gpn3474b1ym9dox2ixtg6@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">2ovr7gpn3474b1ym9dox2ixtg6@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">2ovr7gpn3474b1ym9dox2ixtg6@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Jeff Piersol</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:20</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Jeff Piersol</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Jeff Piersol</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:2roe05tt33y2k1vl1gm6jsdjg4@public.talk.google.com" contactId="{405a5322-90de-4f16-927d-40d644ac904e}">
+        <display-name>Austin Rice</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="2roe05tt33y2k1vl1gm6jsdjg4@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="2roe05tt33y2k1vl1gm6jsdjg4@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">2roe05tt33y2k1vl1gm6jsdjg4@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">2roe05tt33y2k1vl1gm6jsdjg4@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Austin Rice</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:23</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Austin Rice</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Austin Rice</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/2roe05tt33y2k1vl1gm6jsdjg4@public.talk.google.com_5b6079ca10bdacd6217518caa76dcb7e.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+    <meta-contact kabcId="JabberProtocol:sunbergzach@gmail.com:31penypxf4iab0dxq11cd433ed@public.talk.google.com" contactId="{0d564a2e-ba5b-4b5d-a2d1-28fbb384d949}">
+        <display-name>Ryan Sunberg</display-name>
+        <photo syncWithKABC="false"></photo>
+        <property-sources>
+            <name source="custom">
+                <contact-source nameSourceContactId="31penypxf4iab0dxq11cd433ed@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </name>
+            <photo source="contact">
+                <contact-source nameSourceContactId="31penypxf4iab0dxq11cd433ed@public.talk.google.com" nameSourcePluginId="JabberProtocol" nameSourceAccountId="sunbergzach@gmail.com"/>
+            </photo>
+        </property-sources>
+        <groups>
+            <group id="1"/>
+        </groups>
+        <plugin-contact-data plugin-id="JabberProtocol">
+            <plugin-data-field key="JID">31penypxf4iab0dxq11cd433ed@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="accountId">sunbergzach@gmail.com</plugin-data-field>
+            <plugin-data-field key="contactId">31penypxf4iab0dxq11cd433ed@public.talk.google.com</plugin-data-field>
+            <plugin-data-field key="displayName">Ryan Sunberg</plugin-data-field>
+            <plugin-data-field key="groups"></plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberSubscriptionStatus">You can see each others' status.</plugin-data-field>
+            <plugin-data-field key="prop_QString_jabberVCardCacheTimeStamp">2012-05-16T15:00:28</plugin-data-field>
+            <plugin-data-field key="prop_QString_lastName">Ryan Sunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_nickName">Ryan Sunberg</plugin-data-field>
+            <plugin-data-field key="prop_QString_photo">/home/zach/.kde/share/apps/kopete/avatars/Contacts/JabberProtocol/sunbergzach@gmail.com/31penypxf4iab0dxq11cd433ed@public.talk.google.com_3f98afc53c20b85acf623bcc464a7e00.png</plugin-data-field>
+        </plugin-contact-data>
+    </meta-contact>
+</kopete-contact-list>

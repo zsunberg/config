@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Google Tasks widget. Works best if GMail autologins in Konqueror.
+Icon=/home/zach/.kde/share/apps/plasma/plasmoids//org.orbitalibre.google-tasks-advanced/
+Name=Google Tasks Advanced
+ServiceTypes=Plasma/Applet,Plasma/PopupApplet
+Type=Service
+X-KDE-PluginInfo-Author=David Palacio
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=dpalacio@orbitalibre.org
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.orbitalibre.google-tasks-advanced
+X-KDE-PluginInfo-Version=1.4
+X-Plasma-API=javascript
+X-Plasma-DefaultSize=200,400
+X-Plasma-MainScript=code/main.js
+X-Plasma-NotificationArea=true

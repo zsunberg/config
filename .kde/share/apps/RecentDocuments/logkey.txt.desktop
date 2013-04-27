@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=logkey.txt
+Type=Link
+URL[$e]=file://$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/logkey.txt
+X-KDE-LastOpenedWith=gvim-4

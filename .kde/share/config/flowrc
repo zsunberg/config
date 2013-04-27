@@ -1,0 +1,85 @@
+datafile=/usr/share/kde4/apps/calligra/thesaurus/thesaurus.txt
+
+[DockWidget sharedtooldocker]
+Locked=true
+TabbedMode=false
+
+[Interface]
+ShowRulers=false
+
+[MainWindow]
+Height 1080=1081
+Width 1920=1280
+ko_x=1920
+ko_y=35
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME/Dropbox/Documents,$HOME/Documents
+
+[TemplateChooserDialog]
+AlwaysUseTemplate=
+DetailsPaneSplitterSizes=708,302
+FullTemplateName[$e]=/usr/share/kde4/apps/flow/templates/Basic/.source/empty.otg
+LastReturnType=Template
+
+[calligra]
+ColorSpacePlugins=kolcmsengine
+ColorSpacePluginsDisabled=
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers
+DockerPluginsDisabled=
+FlakePlugins=formulashape,vectorshape,textshape
+FlakePluginsDisabled=
+ShapePlugins=artistictextshape,chartshape,commentshape,treeshape,musicshape,pathshapes,pictureshape,pluginshape,videoshape
+ShapePluginsDisabled=
+TextEditingPlugins=autocorrect,changecase,spellcheck,thesaurustool
+TextEditingPluginsDisabled=
+TextInlinePlugins=textvariables
+TextInlinePluginsDisabled=
+ToolPlugins=defaulttools,karbontools,kopabackgroundtool
+ToolPluginsDisabled=
+
+[flow]
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADnAAADgvwCAAAABPsAAAAkAEYAbABvAHcAUwBoAGEAcABlAEIAbwB4AEQAbwBjAGsAZQByAQAAAJwAAAIZAAAAAAAAAAD7AAAADgBUAG8AbwBsAEIAbwB4AQAAADIAAABsAAAAUAEAAAX7AAAAKABGAGwAbwB3AFMAdABlAG4AYwBpAGwAQgBvAHgARABvAGMAawBlAHIBAAAAoQAAAi0AAACFAAgAGfsAAAAqAGQAbwBjAHUAbQBlAG4AdAAgAHMAZQBjAHQAaQBvAG4AIAB2AGkAZQB3AQAAAtEAAADjAAAAgQEAAAUAAAABAAABEgAAA4L8AgAAAAb7AAAAIABzAGgAYQByAGUAZAB0AG8AbwBsAGQAbwBjAGsAZQByAQAAADIAAAJfAAAAYgEAAAX7AAAAFgBTAHQAeQBsAGUARABvAGMAawBlAHIBAAAClAAAAE8AAABPAAAAT/wAAALmAAAAzgAAAM4AAADO+gAAAAABAAAAA/sAAAAiAFMAdAByAG8AawBlACAAUAByAG8AcABlAHIAdABpAGUAcwEAAAAA/////wAAANEACAAF+wAAACIAUwBoAGEAZABvAHcAIABQAHIAbwBwAGUAcgB0AGkAZQBzAQAAAAD/////AAAArgAIAAX7AAAAIABTAGgAYQBwAGUAIABQAHIAbwBwAGUAcgB0AGkAZQBzAQAABBMAAAESAAAAmQEAAAX7AAAAMABEAGUAZgBhAHUAbAB0AFQAbwBvAGwAQQByAHIAYQBuAGcAZQBXAGkAZABnAGUAdAEAAAAVAAAAggAAAAAAAAAA+wAAACoAUwBuAGEAcABHAHUAaQBkAGUAQwBvAG4AZgBpAGcAVwBpAGQAZwBlAHQBAAAAmgAAAEsAAAAAAAAAAPsAAAAiAEQAZQBmAGEAdQBsAHQAVABvAG8AbABXAGkAZABnAGUAdAEAAADoAAAAWwAAAAAAAAAAAAAAAgAABR8AAAB0/AEAAAAC+wAAABoAVABvAG8AbABCAGEAcgBEAG8AYwBrAGUAcgAAAAAAAAAAvgAAAAwBAAAF+wAAACoAUwBoAGEAcABlAEMAbwBsAGwAZQBjAHQAaQBvAG4ARABvAGMAawBlAHIAAAAETQAAAQkAAAEJAAABCQAAAwEAAAOCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[flow][DockWidget FlowStencilBoxDocker]
+Collapsed=false
+DockArea=1
+
+[flow][DockWidget Shadow Properties]
+Collapsed=false
+DockArea=2
+
+[flow][DockWidget Shape Properties]
+Collapsed=false
+DockArea=2
+
+[flow][DockWidget ShapeCollectionDocker]
+Collapsed=false
+DockArea=4
+
+[flow][DockWidget Stroke Properties]
+Collapsed=false
+DockArea=2
+
+[flow][DockWidget StyleDocker]
+Collapsed=false
+DockArea=2
+
+[flow][DockWidget ToolBarDocker]
+Collapsed=false
+DockArea=4
+
+[flow][DockWidget ToolBox]
+Collapsed=false
+DockArea=1
+
+[flow][DockWidget document section view]
+Collapsed=false
+DockArea=1
+
+[flow][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2

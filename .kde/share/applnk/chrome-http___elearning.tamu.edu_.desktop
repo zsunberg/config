@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=eLearning at Texas A&M University
+Exec=/opt/google/chrome/google-chrome --app=http://elearning.tamu.edu/
+Terminal=false
+Icon=chrome-http___elearning.tamu.edu_
+Type=Application
+Categories=Network;WebBrowser;
+StartupWMClass=elearning.tamu.edu
+OnlyShowIn=Old;

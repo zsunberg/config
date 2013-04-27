@@ -1,0 +1,35 @@
+[$Version]
+update_info=konsole.upd:2.9.0-global-options
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=/home/zach/.kde/share/apps/konsole/Shell.profile,/home/zach/.kde/share/apps/konsole/Outside.profile
+
+[MainWindow]
+Height 1024=1025
+Height 1050=1051
+Height 1080=1081
+Height 1280=1281
+Height 768=769
+Height 800=801
+Height 864=865
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAAAxgAAAMHAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1025
+Width 1152=568
+Width 1280=944
+Width 1440=712
+Width 1600=792
+Width 1680=832
+Width 1920=952
+Width 3200=3201
+
+[TabBar]
+TabBarPosition=0
+TabBarVisibility=1

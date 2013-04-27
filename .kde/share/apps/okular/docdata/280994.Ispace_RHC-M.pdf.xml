@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/zach/Dropbox/Research/ABQ/doc/I-RHC-M Conference Paper/Ispace_RHC-M.pdf">
+ <pageList>
+  <page number="2">
+   <annotationList>
+    <annotation type="4">
+     <base creationDate="2012-02-16T17:50:33" uniqueName="okular-2-1" author="Zachary Sunberg" modifyDate="2012-02-16T17:50:33" color="#ffff00">
+      <boundary l="0.0796569" r="0.490196" b="0.638731" t="0.597064"/>
+     </base>
+     <hl>
+      <quad dx="0.21732" cx="0.490196" dy="0.597222" bx="0.490196" cy="0.597222" ax="0.21732" by="0.608586" ay="0.608586" feather="1"/>
+      <quad dx="0.0800654" cx="0.490196" dy="0.612374" bx="0.490196" cy="0.612374" ax="0.0800654" by="0.623737" ay="0.623737" feather="1"/>
+      <quad dx="0.0800654" cx="0.416667" dy="0.627525" bx="0.416667" cy="0.627525" ax="0.0800654" by="0.638889" ay="0.638889" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0"/>
+   <oldPage viewport="2;C2:0.499694:0.954309:1"/>
+   <oldPage viewport="3;C2:0.499694:0.999763:1"/>
+   <oldPage viewport="4;C2:0.499694:0.846354:1"/>
+   <oldPage viewport="5;C2:0.499694:0.948627:1"/>
+   <current viewport="6;C2:0.666462:0.365215:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="4"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

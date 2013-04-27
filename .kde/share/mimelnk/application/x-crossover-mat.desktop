@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=application/x-crossover-mat
+Comment=Microsoft Access Table Shortcut
+Icon=/home/zach/.cxoffice/Microsoft Office 2010/windata/Associations/7e0ce193_accicons.5.xpm
+Patterns=*.MAT;*.mat
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=application_x-crossover-mat;application_x-crossover-mat::design;application_x-crossover-mat::preview;application_x-crossover-mat::print
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=application_x-crossover-mat;application_x-crossover-mat::design;application_x-crossover-mat::preview;application_x-crossover-mat::print

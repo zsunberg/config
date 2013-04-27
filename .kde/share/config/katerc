@@ -1,0 +1,651 @@
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=file:///home/zach/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/crash_console.txt
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+ReadWrite=true
+URL=file:///home/zach/HUSLSVN/ACM/mavlink/pymavlink/examples/nmdebug.py
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.horizontalTail
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.initialConditions
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.mainRotor
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.tailRotor
+
+[Document 6]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.verticalTail
+
+[Filelist]
+Sort Type=
+
+[General]
+Days Meta Infos=30
+Last Session=
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Status Bar=true
+
+[KFileDialog Settings]
+Height 1024=630
+Height 1080=630
+Height 900=433
+Recent Files[$e]=$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/crash_console.txt,$HOME/Research/HUSL/Helicopter Theory and Modeling Notes/Big Equation.pdf
+Width 1280=1008
+Width 1600=800
+Width 1920=1008
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+Automatically Insert Closing Brackets=false
+BOM=false
+Backup Config Flags=1
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=
+Indentation Width=2
+Keep Extra Spaces=false
+Line Length Limit=1024
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=false
+RemoveTrailingDyn=false
+ReplaceTabsDyn=false
+Search Dir Config Depth=3
+Show Spaces=false
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=8
+Word Wrap=false
+Word Wrap Column=80
+Wrap Cursor=true
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katectagsplugin=false
+kateexternaltoolsplugin=false
+katefilebrowserplugin=false
+katefiletemplates=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+katemailfilesplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=true
+katequickdocumentswitcherplugin=false
+katesearchplugin=false
+katesnippets_tngplugin=false
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katetabbarextensionplugin=false
+katetabifyplugin=false
+katetextfilterplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+pateplugin=false
+
+[Kate Print Settings][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Kate Print Settings][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=kate - Printing
+
+[Kate Print Settings][Margins]
+bottom=3.52777777777944
+left=3.52777777777944
+right=3.52777777777944
+top=3.52777777777944
+
+[Kate Print Settings][Text]
+Legend=false
+LineNumbers=false
+
+[Kate Renderer Defaults]
+Schema=kate - Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=true
+Icon Bar=false
+Line Modification=true
+Line Numbers=false
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=
+Search/Replace Flags=140
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Hide Status Bar=false
+Vi Input Mode Steal Keys=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+
+[MainWindow]
+Height 1024=1025
+Height 1080=984
+Height 1280=1281
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=952
+Width 1280=952
+Width 1600=792
+Width 1920=1920
+
+[MainWindow0]
+Active ViewSpace=0
+Characters Count Visible=false
+Cursor Position Visible=true
+Document Name Visible=true
+Encoding Visible=true
+Height 1024=1025
+Height 1080=1081
+Height 1280=1281
+Height 900=901
+Insertion Mode Visible=true
+Kate-MDI-H-Splitter=200,1689,200
+Kate-MDI-Sidebar-0-Splitter=933
+Kate-MDI-Sidebar-3-Splitter=
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=false
+Kate-MDI-ToolView-katefindinfilesplugin_1-Persistent=false
+Kate-MDI-ToolView-katefindinfilesplugin_1-Position=3
+Kate-MDI-ToolView-katefindinfilesplugin_1-Sidebar-Position=1
+Kate-MDI-ToolView-katefindinfilesplugin_1-Visible=false
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=0
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,933,200
+Selection Mode Visible=true
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=952
+Width 1280=952
+Width 1600=792
+Width 1920=1921
+
+[MainWindow0 Settings]
+Height 1024=1025
+Height 1080=1081
+Height 1280=1281
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=952
+Width 1280=952
+Width 1600=792
+Width 1920=1921
+WindowState=2
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Sizes=1689
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/zach/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/crash_console.txt
+Count=1
+View 0=file:///home/zach/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/crash_console.txt
+View 1=file:///home/zach/HUSLSVN/ACM/mavlink/pymavlink/examples/nmdebug.py
+View 2=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.fuselage
+View 3=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.heli
+View 4=file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.mainRotor
+
+[MainWindow0-ViewSpace 0 file:///etc/X11/xorg.conf]
+CursorColumn=13
+CursorLine=6
+
+[MainWindow0-ViewSpace 0 file:///home/zach/.local/share/wineprefixes/office2007pro/drive_c/run-word2007.bat]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/.local/share/wineprefixes/office2007pro/winetricks.log]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/.local/share/wineprefixes/office2007pro/wrapper.cfg]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Desktop/AndroidManifest.xml]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Desktop/GetPodcastRSS.ashx]
+CursorColumn=0
+CursorLine=9
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Desktop/hausmainbackup]
+CursorColumn=14
+CursorLine=36
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Desktop/kevin response]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Documents/fbmsg.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Documents/jmail.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Documents/letter.txt]
+CursorColumn=634
+CursorLine=2
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Documents/mar24msg.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Classes/AERO 626 (Estimation)/final projects/Particle Report.tex]
+CursorColumn=19
+CursorLine=11
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Classes/AERO 626 (Estimation)/hw5/hw5.tex]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Classes/AERO_625_(Modern_Controls)/run_script.m]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Classes/zOld/AERO 423 (Orbital Mechanics 'Space Magic')/HW_6_Attitude.m]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Documents/NSF - GRFP - Zach/Research Title.txt]
+CursorColumn=99
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Documents/Tri-head ASCII Art.txt]
+CursorColumn=17
+CursorLine=12
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Documents/Zach 2011 Christmas Paragraph.txt]
+CursorColumn=1174
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Documents/email to rep gardner regarding sopa.txt]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Documents/for_consideration_of_evolution.txt]
+CursorColumn=100
+CursorLine=6
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/MATLAB/DERIVESTsuite/doc/DERIVEST.tex]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Research/ABQ/doc/I-RHC-M Conference Paper/reviews.txt]
+CursorColumn=18
+CursorLine=57
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Research/HUSL/Autorotation/Thesis/SimulationResults.tex]
+CursorColumn=0
+CursorLine=129
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Research/HUSL/Conflict Measures/Examples.tex]
+CursorColumn=24
+CursorLine=126
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Research/HUSL/Conflict Measures/configurations.txt]
+CursorColumn=13
+CursorLine=4
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Research/HUSL/Simulation Tools/README.txt]
+CursorColumn=76
+CursorLine=55
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Util/certification_path.txt]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Dropbox/Util/fifa.txt]
+CursorColumn=5
+CursorLine=11
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/ACM/mavlink/message_definitions/v1.0/ardupilotmega.xml]
+CursorColumn=68
+CursorLine=361
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/ACM/mavlink/pymavlink/examples/mavlogdump.py]
+CursorColumn=0
+CursorLine=16
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/ACM/mavlink/pymavlink/examples/nmdebug.py]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.fuselage]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.heli]
+CursorColumn=5
+CursorLine=37
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.mainRotor]
+CursorColumn=53
+CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.tailRotor]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Input Files/Align T-Rex 600/HUSL_TREX600.verticalTail]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Helicopter_Simulator/Input_Files/Airfoils/NACA_0012.lut]
+CursorColumn=12
+CursorLine=188
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/HUSLSVN/HUSL_Software/Simulation Tools/pend_example.hist]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Research/ABQ/doc/I-RHC Journal Paper/Only Highlights and Abstracts Changed/Ispace_RHC.tex]
+CursorColumn=630
+CursorLine=31
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Research/ABQ/doc/I-RHC Journal Paper/Working Version/drop]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Research/HUSL/Helicopter Theory and Modeling Notes/thrust.m]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Research/HUSL/Multi-model/mail]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Reviews/ACC 2013 Hypersonic Glider Control/2013_ACC_0884_MS_Review_Comments.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/crash_console.txt]
+CursorColumn=7
+CursorLine=421
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/text.txt]
+CursorColumn=86
+CursorLine=8
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zach/xorg.conf.new]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///media/26E2-0B05/SpeedSoftware/Extracted/AndroidManifest.xml]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///media/PENDRIVE/1/The Mathworks - Matlab R2011b - SN.txt]
+CursorColumn=0
+CursorLine=12
+
+[MainWindow0-ViewSpace 0 file:///media/Windows_7/Users/Zach/SendTo/bluetooth.btwsendto]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///media/XPLANE10/How To Install.rtf]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///usr/share/doc/texlive-doc/latex/IEEEtran/README.testflow]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 smb://aero-it02%5Cadministrator@aero-it02/Y$/install]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 1]
+Active View=file:///etc/X11/xorg.conf
+Count=1
+View 0=file:///etc/X11/xorg.conf
+View 1=file:///etc/X11/xorg.conf
+
+[MainWindow0-ViewSpace 1 file:///etc/X11/xorg.conf]
+CursorColumn=25
+CursorLine=144
+
+[MainWindow0-ViewSpace 1 file:///home/zach/xorg.conf.new]
+CursorColumn=0
+CursorLine=4
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katefindinfilesplugin::find-in-files]
+CaseSensitive=true
+FollowDirectorySymlinks=false
+IncludeHiddenFiles=false
+LastSearchFiles=*,*.h\\,*.hxx\\,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.idl\\,*.c,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.c,*.h\\,*.hxx\\,*.idl
+LastSearchItems=
+LastSearchPaths=
+Recursive=true
+RegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Dropbox/Util/fifa.txt
+File2[$e]=$HOME/HUSLSVN/HUSL_Software/Helicopter_Simulator/Input_Files/Airfoils/NACA_0012.lut
+File3[$e]=$HOME/HUSLSVN/ACM/mavlink/pymavlink/examples/mavlogdump.py
+File4[$e]=$HOME/HUSLSVN/ACM/mavlink/pymavlink/examples/nmdebug.py
+File5[$e]=$HOME/Dropbox/Research/HUSL/Autorotation/Thesis/SimulationResults.tex
+File6[$e]=$HOME/HUSLSVN/ACM/mavlink/message_definitions/v1.0/ardupilotmega.xml
+File7[$e]=$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/crash_console.txt
+Name1[$e]=fifa.txt
+Name2[$e]=NACA_0012.lut
+Name3[$e]=mavlogdump.py
+Name4[$e]=nmdebug.py
+Name5[$e]=SimulationResults.tex
+Name6[$e]=ardupilotmega.xml
+Name7[$e]=crash_console.txt
+
+[filetree]
+editShade=99,49,6
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=81,54,49

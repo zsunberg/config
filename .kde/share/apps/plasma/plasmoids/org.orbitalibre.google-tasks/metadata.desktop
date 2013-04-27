@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Google Tasks
+Name[x-test]=xxGoogle Tasksxx
+Comment=Google Tasks web widget
+Comment[x-test]=xxGoogle Tasks web widgetxs
+Type=Service
+ServiceTypes=Plasma/Applet
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-Plasma-DefaultSize=200,200
+
+X-KDE-PluginInfo-Author=David Palacio
+X-KDE-PluginInfo-Email=dpalacio@orbitalibre.org
+X-KDE-PluginInfo-Name=org.orbitalibre.google-tasks
+X-KDE-PluginInfo-Version=1.1
+#X-KDE-PluginInfo-Website=http://src.orbitalibre.org/dpalacio/
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/tmp/samplems.pdf">
+ <pageList/>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499242:0.961358:1"/>
+   <oldPage viewport="1;C2:0.499242:0.0175644:1"/>
+   <oldPage viewport="0;C2:0.499592:1.00126:1"/>
+   <current viewport="1;C2:0.499592:0.679924:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="2"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

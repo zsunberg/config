@@ -1,0 +1,55 @@
+# Xorg configuration file for using a tri-head display setup with a Thinkpad W520 in linux 
+
+Section "ServerLayout"
+    Identifier     "Layout0"
+    Screen         "VGA Screen" 0 0
+    Screen         "Thinkpad Screen" RightOf "VGA Screen"
+    Option         "Xinerama" "on"
+EndSection
+
+Section "Monitor"
+    Identifier     "VGA Monitor"
+    # Option         "DPMS"
+EndSection
+
+Section "Monitor"
+    Identifier     "Thinkpad Display"
+    # Option         "DPMS"
+EndSection
+
+Section "Device"
+    Identifier     "Nvidia Device 0"
+    Driver         "nvidia"
+    VendorName     "NVIDIA Corporation"
+    BoardName      "Quadro 1000M"
+    BusID          "PCI:1:0:0"
+EndSection
+
+Section "Device"
+    Identifier     "Intel Device"
+    Driver         "intel"
+    BusID          "PCI:00:02:0"
+    VendorName     "Intel Corporation"
+    BoardName      "2nd Generation Core Processor Family"
+EndSection
+
+Section "Screen"
+    Identifier     "VGA Screen"
+    Device         "Nvidia Device 0"
+    Monitor        "VGA Monitor"
+    DefaultDepth    24
+    Option         "TwinView" "0"
+    SubSection     "Display"
+        Depth       24
+    EndSubSection
+EndSection
+
+Section "Screen"
+    Identifier     "Thinkpad Screen"
+    Device         "Intel Device"
+    Monitor        "Thinkpad Display"
+    DefaultDepth    24
+    SubSection     "Display"
+    Depth       24
+    EndSubSection
+EndSection

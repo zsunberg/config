@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-pdf
+Name=output.pdf
+Type=Link
+URL[$e]=file://$HOME/Classes/AERO_628_Spacecraft_Control/proj9/output.pdf
+X-KDE-LastOpenedWith=okular

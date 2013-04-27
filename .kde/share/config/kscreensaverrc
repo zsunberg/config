@@ -1,0 +1,7 @@
+[ScreenSaver]
+ActionBottomLeft=0
+ActionBottomRight=0
+ActionTopLeft=0
+ActionTopRight=0
+PlasmaEnabled=false
+Saver=KSwarm.desktop

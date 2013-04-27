@@ -1,0 +1,8 @@
+[System] K3b Version: 2.0.2
+[System] KDE Version: 4.8.2 (4.8.2)
+[System] QT Version:  4.8.1
+[System] Kernel:      3.0.0-17-generic
+[Devices] MATSHITA DVD-RAM UJ8A0A SB02 (/dev/sr0, CD-R, CD-RW, CD-ROM, DVD-ROM, DVD-R, DVD-RW, DVD-R DL, DVD+R, DVD+RW, DVD+R DL) [DVD-ROM, DVD-R Sequential, DVD-R Dual Layer Sequential, DVD-R Dual Layer Jump, DVD-RAM, DVD-RW Restricted Overwrite, DVD-RW Sequential, DVD+RW, DVD+R, DVD+R Dual Layer, CD-ROM, CD-R, CD-RW] [SAO, TAO, RAW, RAW/R16, RAW/R96P, RAW/R96R, Restricted Overwrite, Layer Jump] [%7]
+[K3b::DataTrackReader] reading sectors 0 to 2238831 with sector size 2048. Length: 2238832 sectors, 4585127936 bytes.
+[K3b::DataTrackReader] using buffer size of 128 blocks.
+[K3b::DataTrackReader] Read a total of 2238832 sectors (4585127936 bytes)

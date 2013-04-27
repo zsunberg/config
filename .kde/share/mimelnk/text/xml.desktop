@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=text/xml
+Comment=XML Document
+Icon=/opt/cxoffice/share/icons/32x32/crossover.png
+Patterns=
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=text_xml::edit;text_xml:infopath.document.3;text_xml:infopath.document.3:edit;text_xml:vsta.xml.8.0;text_xml:vsta.xsl.8.0
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=text_xml::edit;text_xml:infopath.document.3;text_xml:infopath.document.3:edit;text_xml:vsta.xml.8.0;text_xml:vsta.xsl.8.0

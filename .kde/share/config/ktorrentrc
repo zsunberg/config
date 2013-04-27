@@ -1,0 +1,100 @@
+[ChunkDownloadView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAzgAAAAFAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAABkAAAAAQAAAAAAAABqAAAAAEAAAAA
+
+[DownloadOrderPlugin]
+DownloadOrderPluginEnabled=true
+
+[FileSelectDlg]
+download_location_history=/home/zach/
+file_view=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01;\x00\x00\x00\x02\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00◊\x00\x00\x00\x01\x00\x00\x00\x00
+move_on_completion_location_history=
+show_file_tree=true
+size=453,497
+
+[FileView]
+show_list_of_files=false
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAlwAAAAFAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAABkAAAAAQAAAAAAAAAzAAAAAEAAAAA
+
+[GroupView]
+Active Torrents=true
+All Torrents=true
+Downloads=true
+Passive Torrents=true
+Uploads=true
+visible=false
+
+[InfoWidgetPlugin]
+InfoWidgetPluginEnabled=true
+
+[MagnetView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASwAAAADAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAABLAAAAAMAAAAA
+
+[MainTabWidget]
+current_tab=0
+
+[MainWindow]
+Height 1080=530
+Height 900=385
+State=AAAA/wAAAAD9AAAAAAAAAsMAAAE2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHgBTAGgAdQB0AGQAbwB3AG4AVABvAG8AbABCAGEAcgEAAAHK/////wAAAAAAAAAAAAAAHgBUAG8AcgByAGUAbgB0AHMAVABvAG8AbABCAGEAcgEAAAIy/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=707
+Width 1920=1308
+current_activity=0
+hidden_on_exit=true
+menubar_hidden=false
+statusbar_hidden=false
+
+[PeerView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAABkAAAAAQAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAAGQAAAABAAAAAA
+
+[PrefDialog]
+size=546,424
+
+[QueueManager]
+suspended=false
+
+[QueueManagerWidget]
+search_bar_visible=false
+search_text=
+view_state=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAp8AAAAEAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAABLAAAAAMAAAAAAAABcwAAAAEAAAAA
+
+[Scripting]
+running=
+scripts=/usr/share/kde4/apps/ktorrent/scripts/auto_remove/auto_remove.py,/usr/share/kde4/apps/ktorrent/scripts/auto_resume/auto_resume.py,/usr/share/kde4/apps/ktorrent/scripts/email_notifications/email_notifications.py,/usr/share/kde4/apps/ktorrent/scripts/tracker_groups/tracker_groups.py
+
+[ScriptingPlugin]
+ScriptingPluginEnabled=true
+
+[SearchActivity]
+current_search=0
+
+[SearchPlugin]
+SearchPluginEnabled=true
+
+[ShutdownPlugin]
+ShutdownPluginEnabled=true
+
+[TorrentActivityBottomTabBar]
+current_tab=Queue Manager
+shrunken=true
+
+[TorrentActivitySplitters]
+hsplit=AAAA/wAAAAAAAAACAAABAAAAAwwBAAAAAwEAAAAB
+vsplit=AAAA/wAAAAAAAAACAAACpgAAAKsBAAAAAwEAAAAC
+
+[TrackerView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAnYAAAAGAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAB9AAAAAUAAAAAAAAAggAAAAEAAAAA
+
+[View0]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAABkAAAAAQAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAAGQAAAABAAAAAA
+
+[ViewManager]
+current_views=All Torrents
+
+[WebSeedsTab]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAEAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAABkAAAAAQAAAAA
+
+[downloads]
+lastSaveDir=/home/zach/
+oldTorrentsImported=true
+tempDir=file:///home/zach/.kde/share/apps/ktorrent/

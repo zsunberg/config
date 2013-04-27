@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Google Calendar
+Exec=/usr/bin/chromium-browser "--app=https://www.google.com/calendar/render?pli=1"
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=chrome-https___www.google.com_calendar_render_pli=1
+Categories=Network;WebBrowser;
+StartupNotify=true
+StartupWMClass=www.google.com__calendar_render
+OnlyShowIn=Old;

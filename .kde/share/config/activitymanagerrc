@@ -1,0 +1,25 @@
+[activities]
+1d970207-0bf3-4d8b-b061-653869ee37cf=Desktop Icons
+a4e21157-8722-49f3-99a4-9c6905e7882c=Photos Activity
+a8e57f16-1de3-4b05-bc3d-f379f5485982=Bible Study
+b1c0dfd2-b942-48d7-9994-00a742bbbd81=Desktop Icons
+cf5d3747-27bc-4a15-b858-a5365cc8e2f7=Thesis
+cf64fb16-4548-43ad-9863-3f7d813f06a2=Home
+db36925e-4c7d-4ad1-be40-372db89475a5=Search and Launch
+
+[activities-icons]
+1d970207-0bf3-4d8b-b061-653869ee37cf=user-desktop
+
+[activitiesDesktops]
+1d970207-0bf3-4d8b-b061-653869ee37cf=1
+602b4ad7-5cd8-43f5-a922-4d6e57655a41=1
+a4e21157-8722-49f3-99a4-9c6905e7882c=1
+a8e57f16-1de3-4b05-bc3d-f379f5485982=1
+b1c0dfd2-b942-48d7-9994-00a742bbbd81=1
+cf5d3747-27bc-4a15-b858-a5365cc8e2f7=3
+cf64fb16-4548-43ad-9863-3f7d813f06a2=1
+
+[main]
+currentActivity=1d970207-0bf3-4d8b-b061-653869ee37cf
+lastUnlockedActivity=1d970207-0bf3-4d8b-b061-653869ee37cf
+runningActivities=cf64fb16-4548-43ad-9863-3f7d813f06a2,1d970207-0bf3-4d8b-b061-653869ee37cf

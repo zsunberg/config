@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Cloud Reader
+Exec=/opt/google/chrome/google-chrome --app-id=icdipabjmbhpdkjaihfjoikhjjeneebd
+Terminal=false
+Icon=chrome-https___read.amazon.com_
+Type=Application
+Categories=Network;WebBrowser;
+StartupWMClass=crx_icdipabjmbhpdkjaihfjoikhjjeneebd
+OnlyShowIn=Old;

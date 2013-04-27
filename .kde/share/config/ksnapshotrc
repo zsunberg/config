@@ -1,0 +1,25 @@
+[GENERAL]
+delay=0
+filename[$e]=file://$HOME/Util/alt_characterization/baseline_pic_3.png
+includeDecorations=true
+includePointer=false
+mode=2
+
+[KFileDialog Settings]
+Height 1024=503
+Height 1080=504
+Height 1280=523
+Height 900=433
+Recent Files[$e]=$HOME/HUSLSVN/HUSL_Software/Helicopter_Simulator/good_from_600/7258surf.png,$HOME/Util/alt_characterization/baseline_pic_2.png,$HOME/Util/alt_characterization/baseline_pic_1.png,$HOME/HeysonFig3.png,$HOME/Research/HUSL/Autorotation/Thesis/figures/HeysonFig2.png,$HOME/Research/HUSL/Autorotation/ASM_2013_Paper/Flowchart Images/h.png
+Width 1024=960
+Width 1280=960
+Width 1600=800
+Width 1920=960
+
+[MainWindow]
+Height 1024=499
+Height 1080=935
+Height 900=499
+Width 1280=483
+Width 1600=430
+Width 1920=1016

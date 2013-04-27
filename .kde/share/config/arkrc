@@ -1,0 +1,63 @@
+[AddDialog]
+LastMimeType=application/zip
+
+[Extraction]
+openDestinationFolderAfterExtraction=true
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Height 1024=630
+Height 1080=630
+Height 900=433
+Recent Files[$e]=Zach_Sunberg_AERO_625_Final_Project.zip,$HOME/Classes/AERO_625_(Modern_Controls)/Zach_Sunberg_AERO_625_Final_Project.zip
+Width 1280=1008
+Width 1600=800
+Width 1920=1008
+
+[MainWindow]
+Height 1024=641
+Height 1080=641
+Height 1280=641
+Height 900=615
+State=AAAA/wAAAAD9AAAAAAAABPgAAAI2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1025
+Width 1280=1281
+Width 1600=1240
+Width 1920=1272
+splitterSizes=846,423
+
+[Recent Dirs]
+ArkAddFiles[$e]=file://$HOME/MATLAB/zsim,$HOME/
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/cnijfilter-mp495series-3.40-1-deb.tar.gz
+File10[$e]=$HOME/Downloads/Komodo-Edit-8.0.1-12353-linux-x86_64.tar.gz
+File2[$e]=$HOME/Downloads/android-sdk_r21.0.1-linux.tgz
+File3[$e]=$HOME/Downloads/BellAH-1Z_12_11_06.zip
+File4[$e]=$HOME/Downloads/ac3dlx7011.tgz
+File5[$e]=$HOME/Downloads/eclipse-cpp-juno-SR1-linux-gtk-x86_64.tar.gz
+File6[$e]=$HOME/HUSLSVN/Conflict_Measures/Revised_Paper/Submission.zip
+File7[$e]=$HOME/Downloads/fsv-0.9.tar.gz
+File8[$e]=$HOME/Downloads/en.dict.gz
+File9[$e]=$HOME/Downloads/XPlane_VAPS_Driver.rar
+Name1[$e]=cnijfilter-mp495series-3.40-1-deb.tar.gz
+Name10[$e]=Komodo-Edit-8.0.1-12353-linux-x86_64.tar.gz
+Name2[$e]=android-sdk_r21.0.1-linux.tgz
+Name3[$e]=BellAH-1Z_12_11_06.zip
+Name4[$e]=ac3dlx7011.tgz
+Name5[$e]=eclipse-cpp-juno-SR1-linux-gtk-x86_64.tar.gz
+Name6[$e]=Submission.zip
+Name7[$e]=fsv-0.9.tar.gz
+Name8[$e]=en.dict.gz
+Name9[$e]=XPlane_VAPS_Driver.rar
+
+[Viewer]
+Height 1080=974
+Height 1280=400
+Height 900=423
+Width 1024=560
+Width 1600=560
+Width 1920=952

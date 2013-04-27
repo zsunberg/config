@@ -1,0 +1,78 @@
+datafile=/usr/share/kde4/apps/calligra/thesaurus/thesaurus.txt
+
+[DockWidget sharedtooldocker]
+Locked=true
+TabbedMode=false
+
+[Interface]
+LayerDockerMode=minimal
+
+[MainWindow]
+Height 1080=1081
+Width 1920=1280
+ko_x=350
+ko_y=35
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME/Dropbox/Documents,$HOME/Documents
+
+[TemplateChooserDialog]
+AlwaysUseTemplate=
+DetailsPaneSplitterSizes=708,302
+FullTemplateName[$e]=/usr/share/kde4/apps/karbon/templates/Basic/.source/empty.odg
+LastReturnType=Template
+
+[calligra]
+ColorSpacePlugins=kolcmsengine
+ColorSpacePluginsDisabled=
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers
+DockerPluginsDisabled=
+FlakePlugins=formulashape,vectorshape,textshape
+FlakePluginsDisabled=
+ShapePlugins=artistictextshape,chartshape,commentshape,musicshape,pathshapes,pictureshape,pluginshape,videoshape
+TextEditingPlugins=autocorrect,changecase,spellcheck,thesaurustool
+TextEditingPluginsDisabled=
+ToolPlugins=defaulttools,karbontools
+ToolPluginsDisabled=kopabackgroundtool
+
+[karbon]
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAA6AAADevwCAAAAAfsAAAAOAFQAbwBvAGwAQgBvAHgBAAAAMwAAA3oAAACYAQAABQAAAAEAAAEJAAADevwCAAAAC/sAAAAgAFMAaABhAHAAZQAgAFAAcgBvAHAAZQByAHQAaQBlAHMAAAAAAP////8AAAAYAQAABfsAAAAiAFMAaABhAGQAbwB3ACAAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAKoACAAX+wAAACQAUwBpAG0AcABsAGUAIABUAGUAeAB0ACAARQBkAGkAdABvAHIAAAAAAP////8AAAAAAAAAAPwAAAAzAAAATwAAAE8AAABP+gAAAAABAAAAAvsAAAAWAFMAdAB5AGwAZQBEAG8AYwBrAGUAcgEAAAAA/////wAAAQIACAAF+wAAAC4ASwBvAFMAaABhAHAAZQBDAG8AbABsAGUAYwB0AGkAbwBuAEQAbwBjAGsAZQByAQAABGsAAAENAAAAAAAAAAD7AAAAFABMAGEAeQBlAHIAIAB2AGkAZQB3AQAAAIUAAAFoAAAAgQEAAAX7AAAAIgBTAHQAcgBvAGsAZQAgAFAAcgBvAHAAZQByAHQAaQBlAHMBAAAB8AAAALYAAAC2AAAAtvsAAAAwAEQAZQBmAGEAdQBsAHQAVABvAG8AbABBAHIAcgBhAG4AZwBlAFcAaQBkAGcAZQB0AQAAAi0AAAB+AAAAAAAAAAD7AAAAIgBEAGUAZgBhAHUAbAB0AFQAbwBvAGwAVwBpAGQAZwBlAHQBAAACrgAAAI4AAAAAAAAAAPsAAAAqAFMAbgBhAHAARwB1AGkAZABlAEMAbwBuAGYAaQBnAFcAaQBkAGcAZQB0AQAAAz8AAACAAAAAAAAAAAD7AAAAIABzAGgAYQByAGUAZAB0AG8AbwBsAGQAbwBjAGsAZQByAQAAAqkAAACyAAAAYgEAAAX7AAAAKgBTAGgAYQBwAGUAQwBvAGwAbABlAGMAdABpAG8AbgBEAG8AYwBrAGUAcgEAAANeAAAATwAAAE8ACAAZAAAAAgAAAAAAAAAA/AEAAAAB+wAAABoAVABvAG8AbABCAGEAcgBEAG8AYwBrAGUAcgAAAAAA/////wAAAAwBAAAFAAADtwAAA3oAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAABQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAGUAZABpAHQAXwB0AG8AbwBsAGIAYQByAQAAAMP/////AAAAAAAAAAAAAAAcAG8AYgBqAGUAYwB0AF8AdABvAG8AbABiAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBhAGwAaQBnAG4AXwB0AG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAAAAAAOAEUAZgBmAGUAYwB0AHMAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[karbon][DockWidget Layer view]
+Collapsed=false
+DockArea=2
+
+[karbon][DockWidget Shadow Properties]
+Collapsed=false
+DockArea=2
+
+[karbon][DockWidget Shape Properties]
+Collapsed=false
+DockArea=2
+
+[karbon][DockWidget ShapeCollectionDocker]
+Collapsed=false
+DockArea=2
+
+[karbon][DockWidget Stroke Properties]
+Collapsed=false
+DockArea=2
+
+[karbon][DockWidget StyleDocker]
+Collapsed=false
+DockArea=2
+
+[karbon][DockWidget ToolBarDocker]
+Collapsed=false
+DockArea=4
+
+[karbon][DockWidget ToolBox]
+Collapsed=false
+DockArea=1
+
+[karbon][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2

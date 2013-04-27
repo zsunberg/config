@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=dotfiles
+Type=Link
+URL[$e]=file://$HOME/dotfiles
+X-KDE-LastOpenedWith=

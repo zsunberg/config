@@ -1,0 +1,32 @@
+SCALE ON
+IMAGE 0 0 background.jpg
+SCALEX ON
+SCALEY ON
+ANIM_REL 1 CT -590 100 LT 10 lamps0.png 10 1
+ANIM_REL 2 CT 125 185 LT 10 lights0.png 10 1
+ANIM_REL 3 CT 410 860 LT 10 gauge0.png 10 1
+
+ANIM_REL 7 CT -290 195 LT 24 gears.png 5
+ANIM_REL 4 CT -655 768 LT 30 indicator.jpg 10 1
+ANIM_REL 6 CT -690 390 LT 12 dynamo.png 5
+ANIM_REL 5 CT -370 800 LT 10 plating.png 10 1
+
+WAIT_STATE initial
+WAIT_STATE kded
+ANIM_REL 8 CT -590 100 LT 10 lamps.png 10
+ANIM_REL 9 CT 125 185 LT 24 lights.png 10
+ANIM_REL 10 CT 410 860 LT 24 gauge.png 10
+STOP_ANIM 1
+STOP_ANIM 2
+STOP_ANIM 3
+WAIT_STATE kcminit
+WAIT_STATE confupdate
+WAIT_STATE ksmserver
+WAIT_STATE wm
+WAIT_STATE desktop
+WAIT_STATE ready
+
+
+
+
+

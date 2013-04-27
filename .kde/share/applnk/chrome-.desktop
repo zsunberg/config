@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=TweetDeck
+Exec=/opt/google/chrome/google-chrome --app-id=hbdpomandigafcibbmofojjchbcdagbl
+Terminal=false
+Icon=chrome-
+Type=Application
+Categories=Network;WebBrowser;
+StartupWMClass=crx_hbdpomandigafcibbmofojjchbcdagbl
+OnlyShowIn=Old;

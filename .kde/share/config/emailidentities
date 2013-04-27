@@ -1,0 +1,15 @@
+[$Version]
+update_info=kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-emailidentities-split-sign-encr-keys
+
+[General]
+Default Identity=1225905000
+
+[Identity #0]
+Dictionary=English (United States of America)
+Identity=Zachary Sunberg
+Image Location=
+Inline Signature=
+Name=Zachary Sunberg
+Signature Enabled=false
+Signature Type=disabled
+uoid=1225905000

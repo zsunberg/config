@@ -1,0 +1,13 @@
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+ExecutableFile=/home/zach/HUSLSVN/HUSL_Software/Helicopter_Simulator/Debug/huslsim-cli
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=56,0
+NumExprs=0

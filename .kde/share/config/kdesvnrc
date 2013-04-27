@@ -1,0 +1,30 @@
+[Colors]
+CurrentPalette=Forty Colors
+
+[MainWindow]
+Height 1024=651
+Height 1080=1081
+Height 1280=471
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAABkAAAALeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBzAHUAYgB2AGUAcgBzAGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAAgP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1024=952
+Width 1280=845
+Width 1600=1601
+Width 1920=1921
+
+[Open-repository settings]
+History=file:///home/zach/HUSLSVN/the_narrow_path,file:///home/zach/HUSLSVN/Conflict_Measures,file:///home/zach/HUSLSVN/HUSL_Software,file:///home/zach/HUSLSVN/ACM
+
+[recent_files]
+File1[$e]=$HOME/HUSLSVN/ACM
+File2[$e]=$HOME/HUSLSVN/HUSL_Software
+File3[$e]=$HOME/HUSLSVN/Conflict_Measures
+File4[$e]=$HOME/HUSLSVN/the_narrow_path
+Name1[$e]=ACM
+Name2[$e]=HUSL_Software
+Name3[$e]=Conflict_Measures
+Name4[$e]=the_narrow_path
+
+[startup]
+lastURL=file:///home/zach/HUSLSVN/ACM

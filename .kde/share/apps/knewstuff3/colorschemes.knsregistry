@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>TeaSun</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=747419">747419</author>
+  <homepage>http://opendesktop.org/content/show.php?content=113982</homepage>
+  <licence>0</licence>
+  <version>0.874 RC1</version>
+  <rating>81</rating>
+  <downloads>786</downloads>
+  <installedfile>/home/zach/.kde/share/apps/color-schemes//113982-TeaSun.colors</installedfile>
+  <id>113982</id>
+  <releasedate>2010-07-31</releasedate>
+  <summary>A dark, yet warm and soothing colour scheme which marks the begin of a new era in KDE4-colour-scheming. </summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m113982-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/113982-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/113982-TeaSun.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Magnesium</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=downdiagonal">downdiagonal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=89859</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>80</rating>
+  <downloads>5987</downloads>
+  <installedfile>/home/zach/.kde/share/apps/color-schemes//89859-Magnesium.colors</installedfile>
+  <id>89859</id>
+  <releasedate>2008-09-22</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m89859-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/89859-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/89859-Magnesium.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>DarkFuture</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=C0D">C0D</author>
+  <homepage>http://opendesktop.org/content/show.php?content=132559</homepage>
+  <licence>0</licence>
+  <version>0.1</version>
+  <rating>67</rating>
+  <downloads>187</downloads>
+  <installedfile>/home/zach/.kde/share/apps/color-schemes//132559-DarkFuture.colors</installedfile>
+  <id>132559</id>
+  <releasedate>2010-09-13</releasedate>
+  <summary>As requested in DarkFuture KDE 4 Icon Theme, here is the color scheme I use.&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m132559-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/132559-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/132559-DarkFuture.colors</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

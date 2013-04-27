@@ -1,0 +1,24 @@
+<!DOCTYPE kopete-statuses>
+<group category="0" uid="{11d112b5-2815-4be2-b71f-bb6f51af7a59}">
+    <title></title>
+    <status category="2" uid="{6417cfb9-5da2-49ae-a518-360e19a5d4d4}">
+        <title>Online</title>
+        <message></message>
+    </status>
+    <status category="4" uid="{cb201b55-4b4f-4488-a034-2e3403cb4472}">
+        <title>Away</title>
+        <message>I am gone right now, but I will be back later</message>
+    </status>
+    <status category="32" uid="{d996f4de-3e35-472c-ae18-75f5da150d10}">
+        <title>Busy</title>
+        <message>Sorry, I am busy right now</message>
+    </status>
+    <status category="1024" uid="{16fb7efa-f768-4d83-bbc1-0e165487c398}">
+        <title>Invisible</title>
+        <message></message>
+    </status>
+    <status category="1" uid="{122ba77b-bc85-4096-b7c0-df6ed8c6f6c3}">
+        <title>Offline</title>
+        <message></message>
+    </status>
+</group>

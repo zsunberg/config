@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-xml
+Name=common.xml
+Type=Link
+URL[$e]=file://$HOME/HUSLSVN/ACM/mavlink/message_definitions/v1.0/common.xml
+X-KDE-LastOpenedWith=

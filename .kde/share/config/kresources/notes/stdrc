@@ -1,0 +1,11 @@
+[General]
+ResourceKeys=jguilFHdG3
+Standard=jguilFHdG3
+
+[Resource_jguilFHdG3]
+NotesURL[$e]=file://$HOME/.kde/share/apps/knotes/notes.ics
+ResourceIdentifier=jguilFHdG3
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Notes
+ResourceType=file

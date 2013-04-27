@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Elegant Air KDM Theme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=downdiagonal">downdiagonal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=110756</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>6426</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/welcome-time-shadowed.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/system_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/background.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/password.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/sessions.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/background.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/elegant_air.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/main-runner.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/sessions_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/background.jpg.orig</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/environment.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>110756</id>
+  <releasedate>2009-08-22</releasedate>
+  <summary>This is the KDM theme that I use. &#xd;
+Based on [url]http://www.kde-look.org/content/show.php/Modified+BlueLinux+Theme?content=89428[/url]&#xd;
+&#xd;
+It fits very well with the default KDE 4.2+ splash screen.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m110756-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/110756-1.png</previewBig>
+  <payload>http://lyricsdownloader.googlecode.com/files/Elegant-Air_KDM.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

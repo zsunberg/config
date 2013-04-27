@@ -1,0 +1,11 @@
+[Favorites]
+FavoriteURLs=/home/zach/.local/share/applications/firefox-2.desktop,/usr/share/applications/kde4/dolphin.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/share/applications/kde4/muon.desktop,/home/zach/.local/share/applications/cxmenu-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a-1qv24ea-Microsoft+Word+2010.desktop,/usr/share/applications/kde4/kdesvn.desktop,/usr/share/applications/eclipse.desktop
+
+[KRunner]
+loadAll=false
+
+[KRunner][PlasmaRunnerManager]
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
+
+[RecentlyUsed]
+Applications=xiphos.desktop,kde4-kate.desktop,system-config-printer-kde.desktop,kde4-kdesvn.desktop,eclipse.desktop

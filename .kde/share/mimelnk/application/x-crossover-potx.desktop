@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=application/x-crossover-potx
+Comment=Microsoft PowerPoint Template
+Icon=/home/zach/.cxoffice/Microsoft Office 2010/windata/Associations/2dd10ba6_pptico.11.xpm
+Patterns=*.POTX
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=application_vnd.openxmlformats-officedocument.presentationml.template;application_vnd.openxmlformats-officedocument.presentationml.template::edit;application_vnd.openxmlformats-officedocument.presentationml.template::open;application_vnd.openxmlformats-officedocument.presentationml.template::print;application_vnd.openxmlformats-officedocument.presentationml.template::show;application_vnd.openxmlformats-officedocument.presentationml.template::viewprotected
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=application_vnd.openxmlformats-officedocument.presentationml.template;application_vnd.openxmlformats-officedocument.presentationml.template::edit;application_vnd.openxmlformats-officedocument.presentationml.template::open;application_vnd.openxmlformats-officedocument.presentationml.template::print;application_vnd.openxmlformats-officedocument.presentationml.template::show;application_vnd.openxmlformats-officedocument.presentationml.template::viewprotected

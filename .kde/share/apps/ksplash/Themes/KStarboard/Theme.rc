@@ -1,0 +1,8 @@
+[KSplash Theme: KStarboard]
+Name = KStarboard Splash Screen for KDE.
+Description = KStarboard Splash Screen
+Version = 1.0
+Author = Codicem
+
+# Theme behaviour settings.
+Engine = KSplashX

@@ -1,0 +1,93 @@
+Height 1024=597
+Height 1080=1081
+Height 900=901
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACvAAADu/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAABwBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAADuwAAAGQBAAAFAAAAAQAAAKUAAAJX/AIAAAAC+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACAAAAOYAAAAHAEAAAX7AAAAFABzAGUAYQByAGMAaABEAG8AYwBrAAAAACAAAAJXAAAAHAEAAAUAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAE0BAAAFAAAGzgAAA7sAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1280=845
+Width 1600=1601
+Width 1920=1921
+
+[ColumnMode]
+FontWeight=50
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=128
+
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+EditableUrl=true
+FirstRun=false
+HomeUrl=file:///home/zach
+LockPanels=false
+Version=200
+ViewPropsTimestamp=2013,1,5,17,48,15
+
+[IconsMode]
+FontWeight=50
+IconSize=22
+ItemHeight=74
+ItemWidth=86
+PreviewSize=96
+
+[KFileDialog Settings]
+Height 1080=630
+Width 1920=1008
+
+[KPropertiesDialog]
+Height 1024=465
+Height 1080=440
+Height 1280=390
+Height 900=389
+Width 1024=405
+Width 1280=541
+Width 1600=366
+Width 1920=419
+
+[MainWindow]
+Height 1024=1025
+Height 1050=1051
+Height 1080=974
+Height 1280=1260
+Height 768=676
+Height 900=901
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADSAAAB5/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAeAAAAoQAAABwBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAyAAAB5wAAAGQBAAAFAAAAAQAAAKUAAALl/AIAAAAC+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACAAAAOYAAAAHAEAAAX7AAAAFABzAGUAYQByAGMAaABEAG8AYwBrAAAAAB4AAALlAAAAHAEAAAUAAAADAAADGAAAAP/8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAADGAAAAE0BAAAFAAACQwAAAecAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1024=1024
+Width 1280=952
+Width 1600=792
+Width 1680=261
+Width 1920=952
+
+[Open-with settings]
+CompletionMode=5
+History=gvim,libreoffice,winword,/opt/cxoffice/bin/wine --bottle "Microsoft Office 2010" --cx-app winword.exe,okular,pdfedit,gvim --remote-tab-silent,vlc %U,kate -b %U,/opt/google/chrome/google-chrome %U,/usr/bin/chromium-browser %U,kate,texmaker
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 1024=528
+Height 1080=400
+Height 900=495
+Width 1280=717
+Width 1600=576
+Width 1920=512
+
+[ViewPropertiesDialog]
+Height 1080=414
+Height 900=418
+Width 1600=360
+Width 1920=359

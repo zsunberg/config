@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=application/x-crossover-appref-ms
+Comment=Application Reference
+Icon=/opt/cxoffice/share/icons/32x32/crossover.png
+Patterns=*.APPREF-MS;*.appref-ms
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=application_x-crossover-appref-ms
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=application_x-crossover-appref-ms

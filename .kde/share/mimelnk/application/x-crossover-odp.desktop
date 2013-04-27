@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=application/x-crossover-odp
+Comment=OpenDocument Presentation
+Icon=/home/zach/.cxoffice/Microsoft Office 2010/windata/Associations/2dd10ba6_pptico.20.xpm
+Patterns=*.ODP
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=application_vnd.oasis.opendocument.presentation;application_vnd.oasis.opendocument.presentation::edit;application_vnd.oasis.opendocument.presentation::new;application_vnd.oasis.opendocument.presentation::openasreadonly;application_vnd.oasis.opendocument.presentation::print;application_vnd.oasis.opendocument.presentation::show;application_vnd.oasis.opendocument.presentation::viewprotected
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=application_vnd.oasis.opendocument.presentation;application_vnd.oasis.opendocument.presentation::edit;application_vnd.oasis.opendocument.presentation::new;application_vnd.oasis.opendocument.presentation::openasreadonly;application_vnd.oasis.opendocument.presentation::print;application_vnd.oasis.opendocument.presentation::show;application_vnd.oasis.opendocument.presentation::viewprotected

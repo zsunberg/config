@@ -1,0 +1,11 @@
+[Nikon DSC D60 (PTP mode)]
+Model=Nikon DSC D60 (PTP mode)
+Path=usb:001,006
+
+[Samsung GT-P7510/Galaxy Tab 10.1/S2/GT-N7000/Galaxy Nexus]
+Model=Samsung GT-P7510/Galaxy Tab 10.1/S2/GT-N7000/Galaxy Nexus
+Path=usb:003,021
+
+[USB PTP Class Camera]
+Model=USB PTP Class Camera
+Path=usb:003,006

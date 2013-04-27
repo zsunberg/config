@@ -1,0 +1,9 @@
+[$Version]
+update_info=klipper-kconfigxt.upd:KlipperNoSpacesInKeyNames
+
+[General]
+NoActionsForWM_CLASS=
+Number of Actions=0
+StripWhiteSpace=
+TimeoutForActionPopups=
+Version=v0.9.7

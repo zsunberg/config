@@ -1,0 +1,31 @@
+[General]
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=715,205
+
+[KFileDialog Settings]
+Height 1024=630
+Height 1080=630
+Recent Files[$e]=http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash3/614608_3327296310727_1079178475_o.jpg,http://upload.wikimedia.org/wikipedia/commons/0/05/Aeroport_de_Roissy.JPG
+Width 1280=1008
+Width 1920=1008
+
+[MainWindow]
+Height 1024=641
+Height 1080=1081
+Height 1280=1281
+Height 768=769
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAAA7gAAAOdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1025
+Width 1280=1272
+Width 1600=1601
+Width 1920=952
+
+[SideBar-FullScreenMode]
+IsVisible=true
+
+[SideBar-ViewMode]
+IsVisible=false

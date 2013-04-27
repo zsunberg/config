@@ -1,0 +1,93 @@
+# Xorg configuration file for using a tri-head display setup with a Thinkpad W520 in linux 
+
+Section "ServerLayout"
+    Identifier     "Layout0"
+    Screen      0  "DisplayPort Screen" 0 0
+    Screen      1  "VGA Screen" RightOf "DisplayPort Screen"
+    Screen         "Thinkpad Screen" LeftOf "DisplayPort Screen"
+    Option         "Xinerama" "on"
+EndSection
+
+Section "Monitor"
+    Identifier     "VGA Monitor"
+    VendorName     "Unknown"
+    ModelName      "DELL 1708FP"
+    # Option         "DPMS"
+    Option         "Rotate" "left"
+EndSection
+
+Section "Monitor"
+    Identifier     "DisplayPort Monitor"
+    VendorName     "Unknown"
+    ModelName      "LG Electronics IPS236"
+    # Option         "DPMS"
+EndSection
+
+Section "Monitor"
+    Identifier     "Thinkpad Display"
+    # Option         "DPMS"
+EndSection
+
+Section "Device"
+    Identifier     "Nvidia Device 0"
+    Driver         "nvidia"
+    VendorName     "NVIDIA Corporation"
+    BoardName      "Quadro 1000M"
+    BusID          "PCI:1:0:0"
+    # Option         "RandRRotation" "true"
+    Screen          0
+EndSection
+
+Section "Device"
+    Identifier     "Nvidia Device 1"
+    Driver         "nvidia"
+    VendorName     "NVIDIA Corporation"
+    BoardName      "Quadro 1000M"
+    BusID          "PCI:1:0:0"
+    # Option         "RandRRotation" "true"
+    Screen          1
+EndSection
+
+Section "Device"
+    Identifier     "Intel Device"
+    Driver         "intel"
+    BusID          "PCI:00:02:0"
+    VendorName     "Intel Corporation"
+    BoardName      "2nd Generation Core Processor Family"
+EndSection
+
+Section "Screen"
+    Identifier     "DisplayPort Screen"
+    Device         "Nvidia Device 0"
+    Monitor        "DisplayPort Monitor"
+    DefaultDepth    24
+    Option         "TwinView" "0"
+    Option         "TwinViewXineramaInfoOrder" "CRT-0"
+    Option         "metamodes" "DFP: nvidia-auto-select +0+0"
+    SubSection     "Display"
+        Depth       24
+    EndSubSection
+EndSection
+
+Section "Screen"
+    Identifier     "VGA Screen"
+    Device         "Nvidia Device 1"
+    Monitor        "VGA Monitor"
+    DefaultDepth    24
+    Option         "TwinView" "0"
+    Option         "metamodes" "CRT: nvidia-auto-select {Rotation=left} +0+0"
+    # Option         "metamodes" "CRT: nvidia-auto-select +0+0"
+    SubSection     "Display"
+        Depth       24
+    EndSubSection
+EndSection
+
+Section "Screen"
+    Identifier     "Thinkpad Screen"
+    Device         "Intel Device"
+    Monitor        "Thinkpad Display"
+    DefaultDepth    24
+    SubSection     "Display"
+    Depth       24
+    EndSubSection
+EndSection

@@ -1,0 +1,35 @@
+[Debugger]
+DebuggerCmdStr=
+
+[KFileDialog Settings]
+Height 1080=523
+Height 900=450
+Recent Files[$e]=huslsim-cli,$HOME/HUSLSVN/HUSL_Software/Helicopter_Simulator/Debug/huslsim-cli
+Width 1600=800
+Width 1920=960
+
+[LastSession]
+Width0Locals=100
+Width0Watches=100
+
+[MainWindow]
+Height 1080=984
+Height 900=804
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAACcfwCAAAAAfsAAAAMAEwAbwBjAGEAbABzAQAAADIAAAJxAAAAaAEAAAUAAAADAAAHgAAAAR38AQAAAAL8AAAAAAAABJEAAADTAP////oAAAAAAQAAAAX7AAAACgBTAHQAYQBjAGsBAAAAAP////8AAABSAQAABfsAAAAWAEIAcgBlAGEAawBwAG8AaQBuAHQAcwEAAAAA/////wAAANMBAAAF+wAAAAwATwB1AHQAcAB1AHQBAAAAAP////8AAABSAQAABfsAAAAMAE0AZQBtAG8AcgB5AQAAAAD/////AAAAXAEAAAX7AAAAEgBSAGUAZwBpAHMAdABlAHIAcwEAAAAA/////wAAAFIBAAAF/AAABJQAAALsAAAAnQD////6AAAAAAEAAAAC+wAAAA4AVwBhAHQAYwBoAGUAcwEAAAAA/////wAAAJ0BAAAF+wAAAA4AVABoAHIAZQBhAGQAcwEAAAIeAAABWQAAAFIBAAAFAAAGIwAAAnEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAAAAAN3AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1600=1600
+Width 1920=1920
+
+[OutputWindow]
+TermCmdStr=xterm -name kdbgio -title %T -e sh -c %C
+
+[Preferences]
+BackTimeout=1000
+HeaderFileFilter=*.h *.hh *.hpp *.h++
+PopForeground=false
+SourceFileFilter=*.c *.cc *.cpp *.c++ *.C *.CC
+TabWidth=0
+
+[RecentExecutables]
+File1[$e]=$HOME/HUSLSVN/HUSL_Software/Helicopter_Simulator/Debug/huslsim-cli
+Name1[$e]=huslsim-cli

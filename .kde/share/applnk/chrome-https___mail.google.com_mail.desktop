@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Gmail
+Exec=/usr/bin/chromium-browser --app=https://mail.google.com/mail
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=chrome-https___mail.google.com_mail
+Categories=Network;WebBrowser;
+StartupNotify=true
+StartupWMClass=mail.google.com__mail
+OnlyShowIn=Old;

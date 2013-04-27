@@ -1,0 +1,179 @@
+Height 1024=303
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAAAAAAAAPwCAAAAAfsAAAAYAFAAYQByAHQAaQBjAGkAcABhAG4AdABzAAAAAAD/////AAAAbQEAAAUAAAHrAAAA6AAAAAQAAAAEAAAACAAAAAj8AAAAAgAAAAIAAAADAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAYwBoAGEAdABUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAaAHMAdABhAHQAdQBzAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAGgBmAG8AcgBtAGEAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+Width 1280=491
+
+[$Version]
+update_info=kopete-gaim_to_pidgin_style.upd:kopete0.70.85/r1,kopete-jabberproxytype-kconf_update.upd:kopete0.9/r1,kopete-jabberpriorityaddition-kconf_update.upd:kopete0.9/r1,kopete-account-kconf_update.upd:kopete0.7/r1,kopete-account-kconf_update.upd:kopete0.10/r1,kopete-pluginloader2.upd:kopete0.8/r1,kopete-update_icq_server.upd:kopete-update-icq-server/r1,kopete-update_yahoo_server.upd:kopete-update-yahoo-server/r1,kopete-initialstatus.upd:kopete0.60.80/r1,kopete-pluginloader.upd:kopete0.7/r1,kopete-nameTracking.upd:kopete0.9/r1
+
+[Account_JabberProtocol_sunbergzach@gmail.com]
+AccountId=sunbergzach@gmail.com
+AllowPlainTextPassword=true
+CustomServer=false
+ExcludeConnect=false
+HideSystemInfo=false
+Identity=EiWuvGhRZD
+MergeMessages=true
+OldEncrypted=false
+Port=5222
+Priority=5
+Protocol=JabberProtocol
+ProxyJID=
+Resource=Kopete
+SendComposingEvent=true
+SendDeliveredEvent=true
+SendDisplayedEvent=true
+SendEvents=true
+SendGoneEvent=true
+Server=gmail.com
+UseSSL=false
+
+[Account_Kopete::Protocol_previewaccount]
+Identity=y4VAPJJloE
+
+[Appearance]
+chatFgOverride=true
+chatRtfOverride=true
+styleName=Hacker
+
+[Behavior]
+showSystemTray=true
+startDocked=true
+
+[ChatWindowSettings]
+Tab Placement=0
+
+[ContactList]
+contactListIconMode=IconPic
+
+[ContactList Layout]
+CurrentLayout=Compact
+
+[General Options]
+Geometry=428,796
+Height 1024=796
+Height 1080=796
+Height 900=796
+Position=2899,104
+ShownIdentityId=
+State=AAAA/wAAAAD9AAAAAAAAAawAAALQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHABxAHUAaQBjAGsAUwBlAGEAcgBjAGgAQgBhAHIBAAAA6/////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1280=428
+Width 1440=428
+Width 1600=428
+Width 1920=428
+WindowState=Hidden
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[IdentityManager]
+DefaultIdentity=EiWuvGhRZD
+
+[Identity_EiWuvGhRZD]
+Id=EiWuvGhRZD
+Label=Default Identity
+
+[Jabber]
+LocalIP=
+LocalPort=8010
+
+[KopeteChatWindowIndividualMode]
+ChatViewSplitter=AAAA/wAAAAAAAAACAAAA8AAAACgAAAAAAwEAAAAC
+Height 1024=351
+Height 1080=502
+Height 900=502
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAAAAAAAAPwCAAAAAfsAAAAYAFAAYQByAHQAaQBjAGkAcABhAG4AdABzAAAAAAD/////AAAAbQEAAAUAAAHWAAABtwAAAAQAAAAEAAAACAAAAAj8AAAABAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABoAcwB0AGEAdAB1AHMAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAaAGYAbwByAG0AYQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBjAGgAYQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAMAAAAA
+Width 1280=491
+Width 1440=470
+Width 1600=500
+Width 1920=470
+
+[MainWindow]
+Height 1024=351
+Height 1080=502
+Height 900=502
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAAAAAAAAPwCAAAAAfsAAAAYAFAAYQByAHQAaQBjAGkAcABhAG4AdABzAAAAAAD/////AAAAbQEAAAUAAAHWAAABtwAAAAQAAAAEAAAACAAAAAj8AAAABAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABoAcwB0AGEAdAB1AHMAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAaAGYAbwByAG0AYQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBjAGgAYQB0AFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAMAAAAA
+ToolBarsMovable=Disabled
+Width 1280=491
+Width 1440=470
+Width 1600=500
+Width 1920=470
+
+[Notification Messages]
+dockInIndicatorOnCloseInfo=false
+hideOnCloseInfo=false
+
+[Plugins]
+kopete_jabberEnabled=true
+
+[Status Manager]
+GlobalStatusCategory=2
+GlobalStatusMessage=
+GlobalStatusTitle=Online
+
+[chatwindow_{0139f079-daaf-476a-bdf4-a35afea4e20f}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{094f3cd5-ed9f-4819-92e3-75fde8217cc3}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{1eec4e57-25b6-46e1-adf0-e649451b2010}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{35da80bc-e65f-4a1b-a4cb-4f947b1559b4}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{5a05973f-716d-40ff-af98-63cdf515e0af}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{5f87661e-1958-4f66-9dcb-ba328e0876c1}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{7eacdf9d-d1f0-400e-8582-4caf9efcab41}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,10,-1,5,50,0,0,0,0,0
+
+[chatwindow_{cca1cfd7-21d3-4499-98d9-db1e327ba1e6}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{d000bd8c-5079-4acd-88d4-07fbe525923a}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{f39b7110-e893-41e1-8f13-6e7c1beafd3c}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,9,-1,5,50,0,0,0,0,0
+
+[chatwindow_{fd85fd50-dc12-405f-a9d0-a597884a3977}]
+EditAlignment=1
+TextBgColor=36,36,39
+TextFgColor=255,220,168
+TextFont=Ubuntu,10,-1,5,50,0,0,0,0,0

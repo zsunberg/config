@@ -1,0 +1,202 @@
+[$Version]
+update_info=ksmserver.upd:kde3
+
+[General]
+confirmLogout=true
+excludeApps=chromium-browser
+loginMode=restorePreviousLogout
+offerShutdown=true
+screenCount=1
+shutdownType=0
+windowManager=kwin
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10b9dbc672000136095814400000190440000
+clientId10=10b9dbc672000135854298900000177700101
+clientId11=10b9dbc672000136693798900000021120023
+clientId12=10b9dbc672000136699027200000021990016
+clientId2=10b9dbc672000136699026800000021990004
+clientId3=10b9dbc672000136699026800000021990005
+clientId4=10b9dbc672000136699026800000021990006
+clientId5=10b9dbc672000135674710500000022370005
+clientId6=10b9dbc672000135674710500000022370008
+clientId7=10b9dbc672000135674710500000022370011
+clientId8=10b9dbc672000135675555200000050030024
+clientId9=10b9dbc672000135813274300000020080045
+count=12
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/kwin_10b9dbc672000136095814400000190440000_1367020117_93809
+discardCommand10[$e]=rm,$HOME/.kde/share/config/session/konversation_10b9dbc672000135854298900000177700101_1367020117_18474
+discardCommand11[$e]=rm,$HOME/.kde/share/config/session/konsole_10b9dbc672000136693798900000021120023_1367020117_18494
+discardCommand12[$e]=rm,$HOME/.kde/share/config/session/printer-applet_10b9dbc672000136699027200000021990016_1367020117_18466
+discardCommand2[$e]=
+discardCommand3[$e]=
+discardCommand4[$e]=
+discardCommand5[$e]=\\0
+discardCommand6[$e]=\\0
+discardCommand7[$e]=rm,$HOME/.kde/share/config/session/kmix_10b9dbc672000135674710500000022370011_1367020117_18322
+discardCommand8[$e]=\\0
+discardCommand9[$e]=\\0
+program1=kwin
+program10=/usr/bin/konversation
+program11=/usr/bin/konsole
+program12=/usr/bin/printer-applet
+program2=/usr/bin/akonadi_agent_launcher
+program3=/usr/bin/akonadi_agent_launcher
+program4=/usr/bin/akonadi_agent_launcher
+program5=/usr/bin/akonaditray
+program6=/usr/bin/nepomukcontroller
+program7=/usr/bin/kmix
+program8=/usr/bin/synaptiks
+program9=/usr/bin/knotes
+restartCommand1=kwin,-session,10b9dbc672000136095814400000190440000_1367020117_93809
+restartCommand10=/usr/bin/konversation,-session,10b9dbc672000135854298900000177700101_1367020117_18474
+restartCommand11=/usr/bin/konsole,-session,10b9dbc672000136693798900000021120023_1367020117_18494
+restartCommand12=/usr/bin/printer-applet,-session,10b9dbc672000136699027200000021990016_1367020117_18466
+restartCommand2=/usr/bin/akonadi_agent_launcher,-session,10b9dbc672000136699026800000021990004_1367020117_18124
+restartCommand3=/usr/bin/akonadi_agent_launcher,-session,10b9dbc672000136699026800000021990005_1367020117_18079
+restartCommand4=/usr/bin/akonadi_agent_launcher,-session,10b9dbc672000136699026800000021990006_1367020117_18142
+restartCommand5=/usr/bin/akonaditray,-session,10b9dbc672000135674710500000022370005_1367020117_18307
+restartCommand6=/usr/bin/nepomukcontroller,-session,10b9dbc672000135674710500000022370008_1367020117_18156
+restartCommand7=/usr/bin/kmix,-session,10b9dbc672000135674710500000022370011_1367020117_18322
+restartCommand8=/usr/bin/synaptiks,-session,10b9dbc672000135675555200000050030024_1367020117_18326
+restartCommand9=/usr/bin/knotes,-session,10b9dbc672000135813274300000020080045_1367020117_18326
+restartStyleHint1=0
+restartStyleHint10=0
+restartStyleHint11=0
+restartStyleHint12=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+restartStyleHint6=0
+restartStyleHint7=0
+restartStyleHint8=0
+restartStyleHint9=0
+userId1=zach
+userId10=zach
+userId11=zach
+userId12=zach
+userId2=zach
+userId3=zach
+userId4=zach
+userId5=zach
+userId6=zach
+userId7=zach
+userId8=zach
+userId9=zach
+wasWm1=true
+wasWm10=false
+wasWm11=false
+wasWm12=false
+wasWm2=false
+wasWm3=false
+wasWm4=false
+wasWm5=false
+wasWm6=false
+wasWm7=false
+wasWm8=false
+wasWm9=false
+
+[SubSession: 0abd92c9-edb6-44c0-a56e-09cfeb4526c9]
+count=0
+
+[SubSession: 10ffefef-55ba-44ed-bc82-f2c9d48de4bf]
+count=0
+
+[SubSession: 16e01eac-a0a1-49e1-8aa5-eb2b4f702633]
+count=0
+
+[SubSession: 19eb8f20-5f5e-4ebd-b4d5-6abf2d118645]
+count=0
+
+[SubSession: 1d970207-0bf3-4d8b-b061-653869ee37cf]
+count=0
+
+[SubSession: 3f0d68cd-366f-4b8d-9681-dfe1541e8a36]
+count=0
+
+[SubSession: 4861540b-4a2a-4d0d-ba59-3615c7d1a324]
+clientId1=10b9dbc672000132549026700000016690045
+count=1
+discardCommand1[$e]=
+program1=firefox
+restartCommand1=/usr/bin/firefox,--sm-config-prefix,/firefox-NnB7dL/,--sm-client-id,10b9dbc672000132549026700000016690045,--screen,0
+restartStyleHint1=0
+userId1=zach
+wasWm1=false
+
+[SubSession: 4c27fb0d-93d0-476b-85d3-723d0e4c17b2]
+count=0
+
+[SubSession: 4caf22aa-1c82-4573-8656-191fa8177e81]
+count=0
+
+[SubSession: 5df32b75-c9cd-4f6d-a6d2-672d4b84b672]
+count=0
+
+[SubSession: 602b4ad7-5cd8-43f5-a922-4d6e57655a41]
+count=0
+
+[SubSession: 6333860c-9b73-46e5-972a-a2ccf6edf1d6]
+count=0
+
+[SubSession: 6856be4f-d037-4267-ab95-8fe52843f0f2]
+count=0
+
+[SubSession: 6bdcab26-4213-4716-9130-f057b7293bcf]
+count=0
+
+[SubSession: 707e46cd-dc07-4b12-8764-c09fa984eb9a]
+count=0
+
+[SubSession: 7a3754ac-7b25-48c8-92f6-9a7553a5de64]
+count=0
+
+[SubSession: a00903be-bfc3-444b-b26c-eb1b16d05da0]
+count=0
+
+[SubSession: a4e21157-8722-49f3-99a4-9c6905e7882c]
+count=0
+
+[SubSession: a8e57f16-1de3-4b05-bc3d-f379f5485982]
+count=0
+
+[SubSession: ab87a1f7-3772-400d-84ab-f0d8f8e2d558]
+count=0
+
+[SubSession: b1c0dfd2-b942-48d7-9994-00a742bbbd81]
+count=0
+
+[SubSession: bc54214b-ed70-4278-ba63-a2ed615f36cd]
+count=0
+
+[SubSession: c9dcba5f-6af6-4078-bc8d-dfcdf98802dd]
+clientId1=10b9dbc672000132865217500000023200077
+count=1
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/okular_10b9dbc672000132865217500000023200077_1328720995_560063
+program1=/usr/bin/okular
+restartCommand1=/usr/bin/okular,-session,10b9dbc672000132865217500000023200077_1328720995_560063
+restartStyleHint1=0
+userId1=zach
+wasWm1=false
+
+[SubSession: cf5d3747-27bc-4a15-b858-a5365cc8e2f7]
+count=0
+
+[SubSession: db36925e-4c7d-4ad1-be40-372db89475a5]
+count=0
+
+[SubSession: e25f22c7-6711-4d30-87d6-bfc7b515a66e]
+count=0
+
+[SubSession: ea93b558-9bef-4802-9c9f-098f39453a78]
+count=0
+
+[SubSession: f8e95b4a-a2af-4fef-8a39-b4f6f894ced4]
+count=0
+
+[SubSession: fea90362-d531-453a-93ff-1ce2c2380e1b]
+count=0

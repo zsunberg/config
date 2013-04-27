@@ -1,0 +1,193 @@
+[ActivityManager HiddenTemplates]
+plasma-layout-org.kde.plasma-desktop.SaL.desktop=true
+plasma-layout-org.kde.plasma-desktop.desktopIcons.desktop=true
+plasma-layout-org.kde.plasma-desktop.photoActivity.desktop=true
+
+[BackgroundConfigDialog]
+Height 1024=719
+Height 1080=719
+Height 900=719
+Width 1280=1126
+Width 1600=1260
+Width 1920=1260
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[KPropertiesDialog]
+Height 1024=440
+Height 1080=455
+Height 900=440
+Width 1280=449
+Width 1600=449
+Width 1920=487
+
+[PlasmaViews][1]
+Alignment=1
+panelVisibility=0
+
+[PlasmaViews][1][Horizontal1600]
+offset=0
+
+[PlasmaViews][1][Horizontal1920]
+offset=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1920
+
+[PlasmaViews][1][Sizes][Horizontal1024]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1024,40
+
+[PlasmaViews][1][Sizes][Horizontal1152]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,38
+
+[PlasmaViews][1][Sizes][Horizontal1280]
+max=1280,40
+min=1280,40
+offset=0
+size=1280,40
+
+[PlasmaViews][1][Sizes][Horizontal1440]
+max=1440,38
+min=1440,38
+offset=0
+size=1440,38
+
+[PlasmaViews][1][Sizes][Horizontal1600]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,40
+
+[PlasmaViews][1][Sizes][Horizontal1680]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,40
+
+[PlasmaViews][1][Sizes][Horizontal1920]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,40
+
+[PlasmaViews][11]
+Alignment=1
+panelVisibility=0
+
+[PlasmaViews][11][Horizontal1600]
+offset=0
+
+[PlasmaViews][11][Horizontal1920]
+offset=0
+
+[PlasmaViews][11][Sizes]
+lastsize=1920
+
+[PlasmaViews][11][Sizes][Horizontal1024]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1024,35
+
+[PlasmaViews][11][Sizes][Horizontal1280]
+max=1280,35
+min=1280,35
+offset=0
+size=1280,35
+
+[PlasmaViews][11][Sizes][Horizontal1600]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,35
+
+[PlasmaViews][11][Sizes][Horizontal1680]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,35
+
+[PlasmaViews][11][Sizes][Horizontal1920]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,35
+
+[PlasmaViews][11][Sizes][Vertical1080]
+max=35,1080
+min=35,1080
+offset=0
+size=35,1080
+
+[PlasmaViews][11][Sizes][Vertical900]
+max=35,900
+min=35,900
+offset=0
+size=35,900
+
+[PlasmaViews][11][Vertical1080]
+offset=0
+
+[PlasmaViews][11][Vertical900]
+offset=0
+
+[Plugins]
+PowerDevilEnabled=true
+bookmarksEnabled=true
+calculatorEnabled=true
+desktopsessionsEnabled=true
+killEnabled=true
+locationsEnabled=true
+nepomuksearchEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.windowedwidgetsEnabled=true
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+solidEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=true
+
+[Runners][bookmarks]
+dbfile=/home/zach/.mozilla/firefox/voa2k717.default/places.sqlite
+
+[Shortcuts-Containment]
+configure=none
+remove=Meta+W
+
+[Updates]
+performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js
+
+[ViewIds]
+218=12
+226=11
+3=1
+
+[invokeAction]
+__file=
+predicate=test-predicate-openinwindow.desktop
+
+[mount]
+__file=
+
+[unmount]
+__file=

@@ -1,0 +1,62 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.suddenlink.net]
+search.suddenlink.net ""                   "/"          1634618082    0 langPref             4    en
+search.suddenlink.net ""                   "/"          1634618082    0 sgUID                4    64188fc219976f09e2489a2193e68578
+search.suddenlink.net ""                   "/"          1634618082    0 sid                  4    2e2a78c77eff99fb9755d37a1b4c9863
+search.suddenlink.net ""                   "/"          1634618082    0 ooep                 4    nxd
+[.labs.qt.nokia.com]
+labs.qt.nokia.com    ".labs.qt.nokia.com" "/"          1382336704    0 __utma               4    126580880.310602023.1319264705.1319264705.1319264705.1
+[.twitter.com]
+platform.twitter.com ".twitter.com"       "/"          1382378526    0 guest_id             4    v1%3A131926470623665579
+[.lyricsdownloader.googlecode.com]
+lyricsdownloader.googlecode.com ".lyricsdownloader.googlecode.com" "/"          1382336725    0 PREF                 4    ID=ac3abe0a3f96fc85:TM=1319264725:LM=1319264725:S=QReq2IZFTcdJ6dwp
+[.2shared.com]
+www.2shared.com      ""                   "/"          1634712547    0 hostid               4    -88917443
+[.mediafire.com]
+www.mediafire.com    ".mediafire.com"     "/"          1379832689    0 ukey                 6    oou9m67hza0gjaovd07o9ojp4okwa93m
+[.facebook.com]
+www.facebook.com     ".facebook.com"      "/"          1383026614    0 datr                 6    cuisTqk4d8wg_0srUeQ7QBni
+[.google.com]
+accounts.google.com  ".google.com"        "/mail/help/" 1383026707    0 __utma               4    173272373.1870369423.1319954707.1319954707.1319954707.1
+accounts.google.com  ".google.com"        "/accounts/" 1383026707    0 __utma               4    173272373.1870369423.1319954707.1319954707.1319954707.1
+www.google.com       ""                   "/calendar"  1653528142    0 CAL                  4    DQAAAMcAAADOTC-QQUI9olLGsb8fu__zNQMMXO6vHxR0N4ed6MIoAJWXJG1-FfzMEPqKU4DH09Atkm5AAAgCaXJn09sjY9b_F9qYYBJYREvWfU_BpPuL-RbE0tnoASBFeaOV8bAmt-b6ky1P1g3C7icn2aWlNZmAhP3urA499uWKBzDhMqBG1Jx0N73MqWnmq3FWlaOuEm14EvjJ3yToKVFiPBZstZSJB0t2ElaCr5KLTZf4615Wu9V_NYc-9VTqpOtau9m1DxKzM1trJMvtEcZWsSpM-mHK
+www.google.com       ""                   "/accounts"  1429389078    0 GAPS                 7    1:vfQdjUY6mMsQV2skvu6Qmd5TAsVvng:cZ_59v0EwPQkwgl7
+accounts.google.com  ""                   "/"          1639772373    0 GAUSR                5    cl|mail:sunbergzach@gmail.com
+accounts.google.com  ".google.com"        "/"          1667497531    0 HSID                 6    AGyoWWd3lC7q-DIfl
+accounts.google.com  ".google.com"        "/"          1667497531    0 SSID                 7    AX4o0k3JZ0L-i0ClT
+accounts.google.com  ".google.com"        "/"          1667497531    0 APISID               4    pgOTw7PtzF2xQeKV/AHED02iWtWc3XeCYw
+accounts.google.com  ".google.com"        "/"          1667497531    0 SAPISID              5    rPhB70yx9KbWYWet/Ab0hM75GKimTCt_kf
+www.google.com       ".google.com"        "/"          1420607830    0 PREF                 4    ID=38e03ff466babc9c:U=854ba8946df768b4:FF=0:LD=en:TM=1324412374:LM=1357535830:GM=1:S=gCmXggpKPwxe-Qix
+www.google.com       ".google.com"        "/"          1375327800    0 NID                  6    56=HDuObFSR_56ZHjqF333GOnhTKujaKShXLzGOuwulYwlV53YBOn8dVwvpVwXN-O9kYoaC-cFWxOlmhkYnjxCMOB2MeD9UwPtnjfXPtmMiT0K75TSqcCnn1WDE1tHsVZxRTAv2YgVb5cYtQdu4vv_D-lFVxznd27SYuLw7-0639MddGb33mxzaqqVB-NiotLVuFWOb
+accounts.google.com  ""                   "/"          1430071299    0 GAPS                 7    1:qe7v-T4dUF_db5f5PSc1ZINVyX0VwA:y8QmpqRKuLUg6rgg
+accounts.google.com  ""                   "/"          1682359299    0 LSID                 7    cl|goanna_mobile|mail:DQAAAMoAAAAavTO9A58q8FD0CZksQd8uiM-2DtzXIq-bETWxsEjvcvKkg4u41KraZTZvQqnIFRW3puIF6NZd0bXKnZiOK03_vC1QY25LxtKkXlzfyobsnpIN7HZlbnkZ_RaGSbZypViGuV-KmeGzPV3-vfy9mvsUKCN_Rrd6ZqRTn_jwU7vNfOJp5Xfgvo8qEJjUp9w33Wp4sPSZWiR423UwVor6jHMyEm8geJcXb-MzNg2heIWIwAr9Hs6vmqAQxHwX2FA9KtWO6mN_uGIY-nVFy_DJY-l1
+accounts.google.com  ".google.com"        "/"          1682359299    0 SID                  4    DQAAAMcAAABEx_htFz7E3uphuocQb8kGCW_JA19qgBE7KRrQhQk_JZ8oOXQKT9xZQVxChnJDgi0IhKKIe_di9gARt-zClgwU4nnGONxX8-y0EED1Qtc72oSzbgZp-Qk7iBh3A-ZN9E4QPzThjhR0JjRtdoOixjjxkodBlCNrraTGpCLk7Y5R274AJRGlI0skra-TpBtxvND_hcbbPPpTN7huQuc8ukExEUQBMODXH7HFNMAwAuvzn9MHcSN7N7f4f321coWf-L3q0NBAPY6reGnfDMPCXRLf
+[.npr.org]
+www.npr.org          ".npr.org"           "/"          1582122480    0 v1st                 4    2EBE6075DD7C2000
+www.npr.org          ".npr.org"           "/"          1383026721    0 __gads               4    ID=0fab75d54227ac19:T=1319954721:S=ALNI_MYbwJuQOEu2OGCS0y0mB8-UN8GxaA
+metrics.npr.org      ".npr.org"           "/"          1477634721    0 s_vi                 4    [CS]v1|27567490851D3209-4000010B4008AB1C[CE]
+www.npr.org          ".npr.org"           "/"          1383026722    0 __utma               4    80228936.962351273.1319954721.1319954721.1319954721.1
+[opendesktop.org]
+opendesktop.org      ""                   "/"          1393286897    0 __utma               4    145449326.812275174.1330214898.1330214898.1330214898.1
+[.adobe.com]
+promotion.adobe.com  ""                   "/"          1368024052    0 OAID                 4    7cbd130ad4e6938a590eda67e640b336
+sstats.adobe.com     ".adobe.com"         "/"          1494179665    0 s_vi                 4    [CS]v1|27D4AEE8851D1D1C-4000010500181B61[CE]
+[.spotify.com]
+www.spotify.com      ""                   "/"          1452123938    0 spot                 4    %7B%22t%22%3A1336607138%2C%22m%22%3A%22us%22%2C%22p%22%3A%22open%22%2C%22u%22%3Anull%7D
+www.spotify.com      ".spotify.com"       "/"          1399679141    0 __utma               4    269535539.494617074.1336607141.1336607141.1336607141.1
+[.dropbox.com]
+www.dropbox.com      ""                   "/"          1504981096    0 gvc                  6    MzIzMTU0NTY4ODYyMjQ0NDA0MDczNDIzNDI0MTM5NjIyMzk1MDgy
+[.www.dropbox.com]
+www.dropbox.com      ".www.dropbox.com"   "/"          1410373112    0 __utma               4    74146836.262201326.1347301112.1347301112.1347301112.1
+[.amazon.com]
+read.amazon.com      ""                   "/"          2082758401    0 x-wl-uid             4    1Ith8S6VxFU+gdpgU/jNk0v0wyei2JY21f3JhXT8mOhQeD1zlrSzvEEzk/SE+A6ABGWfLE2AIKdI=
+read.amazon.com      ""                   "/"          2082758401    0 ubid-main            4    184-1321139-1674619
+read.amazon.com      ""                   "/"          2082758401    0 session-id-time      4    2082758401l
+read.amazon.com      ""                   "/"          2082758401    0 session-id           4    191-8024202-6408853
+[.kdenlive.org]
+kdenlive.org         ".kdenlive.org"      "/"          1425768829    0 __utma               4    168241275.1674643136.1362696829.1362696829.1362696829.1
+kdenlive.org         ".kdenlive.org"      "/"          1378464829    0 __utmz               4    168241275.1362696829.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+[.wikia.com]
+lyrics.wikia.com     ".wikia.com"         "/"          1378658624    0 wikia_beacon_id      4    CtuG7dSCHI

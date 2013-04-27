@@ -1,0 +1,885 @@
+Sun Mar 18 21:01:07 2012: Bound to [::]:6881
+Sun Mar 18 21:01:07 2012: Cannot bind to port 0.0.0.0:6881 : Address already in use
+Sun Mar 18 21:01:07 2012: Bound to TCP port 6881
+Sun Mar 18 21:01:07 2012: Cannot open /home/zach/.kde/share/apps/ktorrent/groups : No such file or directory
+Sun Mar 18 21:01:07 2012: Qt Warning: QWidget::insertAction: Attempt to insert null action
+Sun Mar 18 21:01:07 2012: Qt Warning: QWidget::insertAction: Attempt to insert null action
+Sun Mar 18 21:01:07 2012: Qt Warning: QWidget::insertAction: Attempt to insert null action
+Sun Mar 18 21:01:07 2012: Loading script /usr/share/kde4/apps/ktorrent/scripts/auto_remove/auto_remove.py
+Sun Mar 18 21:01:07 2012: Adding script from /usr/share/kde4/apps/ktorrent/scripts/auto_remove/auto_remove.py
+Sun Mar 18 21:01:07 2012: Loading script /usr/share/kde4/apps/ktorrent/scripts/auto_resume/auto_resume.py
+Sun Mar 18 21:01:07 2012: Adding script from /usr/share/kde4/apps/ktorrent/scripts/auto_resume/auto_resume.py
+Sun Mar 18 21:01:07 2012: Loading script /usr/share/kde4/apps/ktorrent/scripts/email_notifications/email_notifications.py
+Sun Mar 18 21:01:07 2012: Adding script from /usr/share/kde4/apps/ktorrent/scripts/email_notifications/email_notifications.py
+Sun Mar 18 21:01:07 2012: Loading script /usr/share/kde4/apps/ktorrent/scripts/tracker_groups/tracker_groups.py
+Sun Mar 18 21:01:07 2012: Adding script from /usr/share/kde4/apps/ktorrent/scripts/tracker_groups/tracker_groups.py
+Sun Mar 18 21:01:07 2012: Supported interpreters : 
+Sun Mar 18 21:01:07 2012: javascript
+Sun Mar 18 21:01:07 2012: qtscript
+Sun Mar 18 21:01:07 2012: Loading isohunt.com
+Sun Mar 18 21:01:07 2012: Loading www.torrentz.com
+Sun Mar 18 21:01:08 2012: Loading home page from /usr/share/kde4/apps/ktorrent/search/home/home.html
+Sun Mar 18 21:01:08 2012: Starting minimized
+Sun Mar 18 21:01:08 2012: Started update timer
+Sun Mar 18 21:01:08 2012: Suppressing sleep
+Sun Mar 18 21:01:08 2012: Loading file /tmp/2010.jpg.torrent
+Sun Mar 18 21:01:08 2012: Encoding : UTF-8
+Sun Mar 18 21:01:08 2012: Bound to [::]:8881
+Sun Mar 18 21:01:08 2012: Bound to 0.0.0.0:8881
+Sun Mar 18 21:01:08 2012: Cannot open /home/zach/.kde/share/apps/ktorrent/tor0/webseeds to load webseeds
+Sun Mar 18 21:01:08 2012: Codec: UTF-8 1
+Sun Mar 18 21:01:08 2012: Stopped update timer
+Sun Mar 18 21:01:08 2012: Stopped suppressing sleep
+Sun Mar 18 21:01:16 2012: QM Starting: 2010.jpg
+Sun Mar 18 21:01:16 2012: FreeBytes 37.36 GiB
+Sun Mar 18 21:01:16 2012: Downloaded 0 B
+Sun Mar 18 21:01:16 2012: Remaining 146.31 KiB
+Sun Mar 18 21:01:16 2012: Starting download 2010.jpg
+Sun Mar 18 21:01:16 2012: Pre-allocating diskspace
+Sun Mar 18 21:01:16 2012: Preallocating file /home/zach/2010.jpg (149822 bytes)
+Sun Mar 18 21:01:16 2012: file_size = 149822
+Sun Mar 18 21:01:16 2012: PreallocationThread has finished
+Sun Mar 18 21:01:16 2012: Started update timer
+Sun Mar 18 21:01:16 2012: Suppressing sleep
+Sun Mar 18 21:01:16 2012: preallocFinished  1
+Sun Mar 18 21:01:16 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:01:16 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:01:16 2012: Starting socketmonitor threads
+Sun Mar 18 21:01:16 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:01:16 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:01:16 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:01:16 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:01:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:01:17 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:01:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:01:47 2012: Starting socketmonitor threads
+Sun Mar 18 21:01:47 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:02:08 2012: FreeBytes 37.36 GiB
+Sun Mar 18 21:02:08 2012: Downloaded 0 B
+Sun Mar 18 21:02:08 2012: Remaining 146.31 KiB
+Sun Mar 18 21:02:16 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:02:16 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:02:18 2012: Starting socketmonitor threads
+Sun Mar 18 21:02:18 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:02:46 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:02:46 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:02:47 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:02:47 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:02:47 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:02:47 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:02:47 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:02:49 2012: Starting socketmonitor threads
+Sun Mar 18 21:02:49 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:03:08 2012: FreeBytes 37.37 GiB
+Sun Mar 18 21:03:08 2012: Downloaded 0 B
+Sun Mar 18 21:03:08 2012: Remaining 146.31 KiB
+Sun Mar 18 21:03:16 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:03:16 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:03:16 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:03:16 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:03:16 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:03:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:03:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:03:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:03:17 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:03:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:03:20 2012: Starting socketmonitor threads
+Sun Mar 18 21:03:20 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:03:50 2012: Starting socketmonitor threads
+Sun Mar 18 21:03:51 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:04:08 2012: FreeBytes 37.37 GiB
+Sun Mar 18 21:04:08 2012: Downloaded 0 B
+Sun Mar 18 21:04:08 2012: Remaining 146.31 KiB
+Sun Mar 18 21:04:16 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:04:16 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:04:22 2012: Starting socketmonitor threads
+Sun Mar 18 21:04:22 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:04:44 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:04:44 2012: Saving 0 chunk downloads
+Sun Mar 18 21:04:44 2012: Saving list of peers to /home/zach/.kde/share/apps/ktorrent/tor0/peer_list
+Sun Mar 18 21:04:44 2012: Stopped update timer
+Sun Mar 18 21:04:44 2012: Stopped suppressing sleep
+Sun Mar 18 21:04:46 2012: FreeBytes 37.37 GiB
+Sun Mar 18 21:04:46 2012: Downloaded 0 B
+Sun Mar 18 21:04:46 2012: Remaining 146.31 KiB
+Sun Mar 18 21:04:46 2012: QM Starting: 2010.jpg
+Sun Mar 18 21:04:46 2012: FreeBytes 37.37 GiB
+Sun Mar 18 21:04:46 2012: Downloaded 0 B
+Sun Mar 18 21:04:46 2012: Remaining 146.31 KiB
+Sun Mar 18 21:04:46 2012: Starting download 2010.jpg
+Sun Mar 18 21:04:46 2012: Loading list of peers from /home/zach/.kde/share/apps/ktorrent/tor0/peer_list
+Sun Mar 18 21:04:46 2012: Loading 0 active chunk downloads
+Sun Mar 18 21:04:46 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:04:46 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:04:46 2012: Started update timer
+Sun Mar 18 21:04:46 2012: Suppressing sleep
+Sun Mar 18 21:04:47 2012: Starting socketmonitor threads
+Sun Mar 18 21:04:47 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:04:47 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:04:47 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:04:47 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:04:48 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:04:48 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:04:48 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:04:57 2012: Saving 0 chunk downloads
+Sun Mar 18 21:04:57 2012: Paused 2010.jpg
+Sun Mar 18 21:04:57 2012: Data check finished
+Sun Mar 18 21:04:57 2012: Loading 0 active chunk downloads
+Sun Mar 18 21:04:57 2012: Unpaused 2010.jpg
+Sun Mar 18 21:05:10 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:05:10 2012: Saving 0 chunk downloads
+Sun Mar 18 21:05:10 2012: Saving list of peers to /home/zach/.kde/share/apps/ktorrent/tor0/peer_list
+Sun Mar 18 21:05:10 2012: Cannot open /home/zach/.kde/share/apps/ktorrent/tor0/webseeds to save webseeds
+Sun Mar 18 21:05:10 2012: Stopped update timer
+Sun Mar 18 21:05:10 2012: Stopped suppressing sleep
+Sun Mar 18 21:05:14 2012: Loading file /tmp/2010.jpg.torrent
+Sun Mar 18 21:05:14 2012: Encoding : UTF-8
+Sun Mar 18 21:05:14 2012: Bound to [::]:8881
+Sun Mar 18 21:05:14 2012: Bound to 0.0.0.0:8881
+Sun Mar 18 21:05:14 2012: Cannot open /home/zach/.kde/share/apps/ktorrent/tor0/webseeds to load webseeds
+Sun Mar 18 21:05:14 2012: Codec: UTF-8 18
+Sun Mar 18 21:05:16 2012: QM Starting: 2010.jpg
+Sun Mar 18 21:05:16 2012: FreeBytes 37.37 GiB
+Sun Mar 18 21:05:16 2012: Downloaded 0 B
+Sun Mar 18 21:05:16 2012: Remaining 146.31 KiB
+Sun Mar 18 21:05:16 2012: Starting download 2010.jpg
+Sun Mar 18 21:05:16 2012: Pre-allocating diskspace
+Sun Mar 18 21:05:16 2012: Preallocating file /home/zach/2010.jpg (149822 bytes)
+Sun Mar 18 21:05:16 2012: file_size = 149822
+Sun Mar 18 21:05:16 2012: PreallocationThread has finished
+Sun Mar 18 21:05:16 2012: Started update timer
+Sun Mar 18 21:05:16 2012: Suppressing sleep
+Sun Mar 18 21:05:16 2012: preallocFinished  1
+Sun Mar 18 21:05:16 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:05:16 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:05:16 2012: Starting socketmonitor threads
+Sun Mar 18 21:05:17 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:05:17 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:05:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:05:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:05:17 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:05:47 2012: Starting socketmonitor threads
+Sun Mar 18 21:05:48 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:06:14 2012: FreeBytes 37.37 GiB
+Sun Mar 18 21:06:14 2012: Downloaded 0 B
+Sun Mar 18 21:06:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:06:16 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:06:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:06:18 2012: Starting socketmonitor threads
+Sun Mar 18 21:06:18 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:06:46 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:06:47 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:06:49 2012: Starting socketmonitor threads
+Sun Mar 18 21:06:49 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:07:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:07:14 2012: Downloaded 0 B
+Sun Mar 18 21:07:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:07:16 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:07:16 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:07:16 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:07:17 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:07:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:07:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:07:17 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:07:20 2012: Starting socketmonitor threads
+Sun Mar 18 21:07:20 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:07:51 2012: Starting socketmonitor threads
+Sun Mar 18 21:07:51 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:08:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:08:14 2012: Downloaded 0 B
+Sun Mar 18 21:08:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:08:16 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:08:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:08:22 2012: Starting socketmonitor threads
+Sun Mar 18 21:08:22 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:08:46 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:08:47 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:08:47 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:08:47 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:08:47 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:08:47 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:08:53 2012: Starting socketmonitor threads
+Sun Mar 18 21:08:53 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:09:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:09:14 2012: Downloaded 0 B
+Sun Mar 18 21:09:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:09:17 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:09:17 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:09:17 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:09:17 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:09:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:09:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:09:17 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:09:24 2012: Starting socketmonitor threads
+Sun Mar 18 21:09:24 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:09:54 2012: Starting socketmonitor threads
+Sun Mar 18 21:09:55 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:10:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:10:14 2012: Downloaded 0 B
+Sun Mar 18 21:10:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:10:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:10:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:10:25 2012: Starting socketmonitor threads
+Sun Mar 18 21:10:25 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:10:47 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:10:47 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:10:47 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:10:47 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:10:48 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:10:48 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:10:56 2012: Starting socketmonitor threads
+Sun Mar 18 21:10:56 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:11:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:11:14 2012: Downloaded 0 B
+Sun Mar 18 21:11:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:11:17 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:11:17 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:11:17 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:11:17 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:11:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:11:17 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:11:17 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:11:27 2012: Starting socketmonitor threads
+Sun Mar 18 21:11:27 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:11:58 2012: Starting socketmonitor threads
+Sun Mar 18 21:11:58 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:12:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:12:14 2012: Downloaded 0 B
+Sun Mar 18 21:12:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:12:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:12:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:12:29 2012: Starting socketmonitor threads
+Sun Mar 18 21:12:29 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:12:47 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:12:47 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:12:47 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:12:48 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:12:48 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:12:48 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:13:00 2012: Starting socketmonitor threads
+Sun Mar 18 21:13:00 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:13:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:13:14 2012: Downloaded 0 B
+Sun Mar 18 21:13:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:13:17 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:13:17 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:13:17 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:13:17 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:13:17 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:13:18 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:13:18 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:13:31 2012: Starting socketmonitor threads
+Sun Mar 18 21:13:31 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:14:01 2012: Starting socketmonitor threads
+Sun Mar 18 21:14:02 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:14:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:14:14 2012: Downloaded 0 B
+Sun Mar 18 21:14:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:14:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:14:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:14:32 2012: Starting socketmonitor threads
+Sun Mar 18 21:14:32 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:14:47 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:14:47 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:14:48 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:14:48 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:14:48 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:14:48 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:15:03 2012: Starting socketmonitor threads
+Sun Mar 18 21:15:03 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:15:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:15:14 2012: Downloaded 0 B
+Sun Mar 18 21:15:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:15:17 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:15:17 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:15:17 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:15:18 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:15:18 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:15:18 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:15:18 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:15:34 2012: Starting socketmonitor threads
+Sun Mar 18 21:15:34 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:16:05 2012: Starting socketmonitor threads
+Sun Mar 18 21:16:05 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:16:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:16:14 2012: Downloaded 0 B
+Sun Mar 18 21:16:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:16:17 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:16:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:16:36 2012: Starting socketmonitor threads
+Sun Mar 18 21:16:36 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:16:47 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:16:48 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:16:48 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:16:48 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:16:48 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:16:48 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:17:07 2012: Starting socketmonitor threads
+Sun Mar 18 21:17:07 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:17:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:17:14 2012: Downloaded 0 B
+Sun Mar 18 21:17:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:17:18 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:17:18 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:17:18 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:17:18 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:17:18 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:17:18 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:17:18 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:17:37 2012: Starting socketmonitor threads
+Sun Mar 18 21:17:38 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:18:09 2012: Starting socketmonitor threads
+Sun Mar 18 21:18:09 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:18:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:18:14 2012: Downloaded 0 B
+Sun Mar 18 21:18:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:18:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:18:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:18:39 2012: Starting socketmonitor threads
+Sun Mar 18 21:18:40 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:18:48 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:18:48 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:18:48 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:18:48 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:18:49 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:18:49 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:19:10 2012: Starting socketmonitor threads
+Sun Mar 18 21:19:10 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:19:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:19:14 2012: Downloaded 0 B
+Sun Mar 18 21:19:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:19:18 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:19:18 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:19:18 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:19:18 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:19:18 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:19:18 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:19:18 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:19:41 2012: Starting socketmonitor threads
+Sun Mar 18 21:19:41 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:20:12 2012: Starting socketmonitor threads
+Sun Mar 18 21:20:12 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:20:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:20:14 2012: Downloaded 0 B
+Sun Mar 18 21:20:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:20:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:20:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:20:43 2012: Starting socketmonitor threads
+Sun Mar 18 21:20:43 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:20:48 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:20:48 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:20:48 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:20:49 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:20:49 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:20:49 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:21:14 2012: Starting socketmonitor threads
+Sun Mar 18 21:21:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:21:14 2012: Downloaded 0 B
+Sun Mar 18 21:21:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:21:14 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:21:18 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:21:18 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:21:18 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:21:18 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:21:18 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:21:19 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:21:19 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:21:45 2012: Starting socketmonitor threads
+Sun Mar 18 21:21:45 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:22:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:22:14 2012: Downloaded 0 B
+Sun Mar 18 21:22:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:22:15 2012: Starting socketmonitor threads
+Sun Mar 18 21:22:16 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:22:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:22:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:22:46 2012: Starting socketmonitor threads
+Sun Mar 18 21:22:46 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:22:48 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:22:48 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:22:49 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:22:49 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:22:49 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:22:49 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:23:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:23:14 2012: Downloaded 0 B
+Sun Mar 18 21:23:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:23:17 2012: Starting socketmonitor threads
+Sun Mar 18 21:23:17 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:23:18 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:23:18 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:23:18 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:23:19 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:23:19 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:23:19 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:23:19 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:23:48 2012: Starting socketmonitor threads
+Sun Mar 18 21:23:48 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:24:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:24:14 2012: Downloaded 0 B
+Sun Mar 18 21:24:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:24:18 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:24:18 2012: Starting socketmonitor threads
+Sun Mar 18 21:24:19 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:24:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:24:48 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:24:49 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:24:49 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:24:49 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:24:49 2012: Starting socketmonitor threads
+Sun Mar 18 21:24:49 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:24:49 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:24:49 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:25:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:25:14 2012: Downloaded 0 B
+Sun Mar 18 21:25:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:25:19 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:25:19 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:25:19 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:25:19 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:25:19 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:25:19 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:25:19 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:25:20 2012: Starting socketmonitor threads
+Sun Mar 18 21:25:20 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:25:51 2012: Starting socketmonitor threads
+Sun Mar 18 21:25:51 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:26:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:26:14 2012: Downloaded 0 B
+Sun Mar 18 21:26:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:26:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:26:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:26:22 2012: Starting socketmonitor threads
+Sun Mar 18 21:26:22 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:26:49 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:26:49 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:26:49 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:26:49 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:26:49 2012: Scrape : leechers = 1, seeders = 0, downloaded = 0
+Sun Mar 18 21:26:50 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:26:52 2012: Starting socketmonitor threads
+Sun Mar 18 21:26:53 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:27:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:27:14 2012: Downloaded 0 B
+Sun Mar 18 21:27:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:27:19 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:27:19 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:27:19 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:27:19 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:27:19 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:27:19 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:27:23 2012: Starting socketmonitor threads
+Sun Mar 18 21:27:24 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:27:54 2012: Starting socketmonitor threads
+Sun Mar 18 21:27:55 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:28:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:28:14 2012: Downloaded 0 B
+Sun Mar 18 21:28:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:28:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:28:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:28:25 2012: Starting socketmonitor threads
+Sun Mar 18 21:28:25 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:28:49 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:28:49 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:28:49 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:28:50 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:28:50 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:28:50 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:28:50 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:28:50 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:28:56 2012: Starting socketmonitor threads
+Sun Mar 18 21:28:56 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:29:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:29:14 2012: Downloaded 0 B
+Sun Mar 18 21:29:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:29:19 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:29:19 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:29:19 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:29:19 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:29:19 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:29:19 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:29:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:29:20 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:29:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:29:27 2012: Starting socketmonitor threads
+Sun Mar 18 21:29:27 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:29:57 2012: Starting socketmonitor threads
+Sun Mar 18 21:29:58 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:30:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:30:14 2012: Downloaded 0 B
+Sun Mar 18 21:30:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:30:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:30:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:30:28 2012: Starting socketmonitor threads
+Sun Mar 18 21:30:29 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:30:49 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:30:49 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:30:59 2012: Starting socketmonitor threads
+Sun Mar 18 21:30:59 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:31:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:31:14 2012: Downloaded 0 B
+Sun Mar 18 21:31:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:31:19 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:31:19 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:31:19 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:31:20 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:31:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:31:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:31:20 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:31:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:31:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:31:30 2012: Starting socketmonitor threads
+Sun Mar 18 21:31:30 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:32:01 2012: Starting socketmonitor threads
+Sun Mar 18 21:32:01 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:32:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:32:14 2012: Downloaded 0 B
+Sun Mar 18 21:32:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:32:19 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:32:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:32:32 2012: Starting socketmonitor threads
+Sun Mar 18 21:32:32 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:32:49 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:32:50 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:32:50 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:32:50 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:32:50 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:32:50 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:32:51 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:32:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:33:02 2012: Starting socketmonitor threads
+Sun Mar 18 21:33:03 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:33:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:33:14 2012: Downloaded 0 B
+Sun Mar 18 21:33:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:33:20 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:33:20 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:33:20 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:33:20 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:33:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:33:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:33:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:33:20 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:33:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:33:33 2012: Starting socketmonitor threads
+Sun Mar 18 21:33:33 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:34:04 2012: Starting socketmonitor threads
+Sun Mar 18 21:34:04 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:34:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:34:14 2012: Downloaded 0 B
+Sun Mar 18 21:34:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:34:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:34:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:34:35 2012: Starting socketmonitor threads
+Sun Mar 18 21:34:35 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:34:50 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:34:50 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:34:50 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:34:50 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:34:50 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:34:51 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:34:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:34:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:35:06 2012: Starting socketmonitor threads
+Sun Mar 18 21:35:06 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:35:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:35:14 2012: Downloaded 0 B
+Sun Mar 18 21:35:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:35:20 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:35:20 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:35:20 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:35:20 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:35:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:35:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:35:20 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:35:20 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:35:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:35:36 2012: Starting socketmonitor threads
+Sun Mar 18 21:35:37 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:36:08 2012: Starting socketmonitor threads
+Sun Mar 18 21:36:08 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:36:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:36:14 2012: Downloaded 0 B
+Sun Mar 18 21:36:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:36:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:36:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:36:38 2012: Starting socketmonitor threads
+Sun Mar 18 21:36:39 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:36:50 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:36:50 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:36:50 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:36:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:36:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:36:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:36:51 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:36:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:37:09 2012: Starting socketmonitor threads
+Sun Mar 18 21:37:10 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:37:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:37:14 2012: Downloaded 0 B
+Sun Mar 18 21:37:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:37:20 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:37:20 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:37:20 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:37:20 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:37:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:37:20 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:37:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:37:21 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:37:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:37:40 2012: Starting socketmonitor threads
+Sun Mar 18 21:37:40 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:38:11 2012: Starting socketmonitor threads
+Sun Mar 18 21:38:12 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:38:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:38:14 2012: Downloaded 0 B
+Sun Mar 18 21:38:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:38:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:38:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:38:42 2012: Starting socketmonitor threads
+Sun Mar 18 21:38:42 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:38:50 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:38:50 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:38:51 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:38:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:38:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:38:51 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:38:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:38:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:39:13 2012: Starting socketmonitor threads
+Sun Mar 18 21:39:13 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:39:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:39:14 2012: Downloaded 0 B
+Sun Mar 18 21:39:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:39:20 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:39:20 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:39:20 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:39:21 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:39:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:39:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:39:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:39:21 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:39:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:39:44 2012: Starting socketmonitor threads
+Sun Mar 18 21:39:44 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:40:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:40:14 2012: Downloaded 0 B
+Sun Mar 18 21:40:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:40:15 2012: Starting socketmonitor threads
+Sun Mar 18 21:40:15 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:40:20 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:40:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:40:46 2012: Starting socketmonitor threads
+Sun Mar 18 21:40:46 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:40:50 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:40:51 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:40:51 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:40:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:40:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:40:51 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:40:51 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:40:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:41:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:41:14 2012: Downloaded 0 B
+Sun Mar 18 21:41:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:41:16 2012: Starting socketmonitor threads
+Sun Mar 18 21:41:17 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:41:21 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:41:21 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:41:21 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:41:21 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:41:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:41:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:41:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:41:21 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:41:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:41:47 2012: Starting socketmonitor threads
+Sun Mar 18 21:41:47 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:42:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:42:14 2012: Downloaded 0 B
+Sun Mar 18 21:42:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:42:18 2012: Starting socketmonitor threads
+Sun Mar 18 21:42:18 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:42:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:42:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:42:49 2012: Starting socketmonitor threads
+Sun Mar 18 21:42:49 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:42:51 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:42:51 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:42:51 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:42:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:42:51 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:42:52 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:42:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:42:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:43:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:43:14 2012: Downloaded 0 B
+Sun Mar 18 21:43:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:43:20 2012: Starting socketmonitor threads
+Sun Mar 18 21:43:20 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:43:21 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:43:21 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:43:21 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:43:21 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:43:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:43:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:43:21 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:43:21 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:43:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:43:51 2012: Starting socketmonitor threads
+Sun Mar 18 21:43:51 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:44:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:44:14 2012: Downloaded 0 B
+Sun Mar 18 21:44:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:44:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:44:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:44:21 2012: Starting socketmonitor threads
+Sun Mar 18 21:44:22 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:44:51 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:44:51 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:44:51 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:44:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:44:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:44:52 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:44:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:44:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:44:52 2012: Starting socketmonitor threads
+Sun Mar 18 21:44:52 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:45:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:45:14 2012: Downloaded 0 B
+Sun Mar 18 21:45:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:45:21 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:45:21 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:45:21 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:45:21 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:45:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:45:21 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:45:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:45:22 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:45:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:45:23 2012: Starting socketmonitor threads
+Sun Mar 18 21:45:23 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:45:54 2012: Starting socketmonitor threads
+Sun Mar 18 21:45:54 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:46:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:46:14 2012: Downloaded 0 B
+Sun Mar 18 21:46:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:46:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:46:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:46:25 2012: Starting socketmonitor threads
+Sun Mar 18 21:46:25 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:46:51 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:46:51 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:46:52 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:46:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:46:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:46:52 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:46:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:46:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:46:56 2012: Starting socketmonitor threads
+Sun Mar 18 21:46:56 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:47:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:47:14 2012: Downloaded 0 B
+Sun Mar 18 21:47:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:47:21 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:47:21 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:47:21 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:47:22 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:47:22 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:47:22 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:47:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:47:22 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:47:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:47:26 2012: Starting socketmonitor threads
+Sun Mar 18 21:47:27 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:47:57 2012: Starting socketmonitor threads
+Sun Mar 18 21:47:58 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:48:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:48:14 2012: Downloaded 0 B
+Sun Mar 18 21:48:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:48:21 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:48:22 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:48:28 2012: Starting socketmonitor threads
+Sun Mar 18 21:48:28 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:48:51 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:48:52 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:48:52 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:48:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:48:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:48:52 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:48:52 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:48:53 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:48:59 2012: Starting socketmonitor threads
+Sun Mar 18 21:48:59 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:49:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:49:14 2012: Downloaded 0 B
+Sun Mar 18 21:49:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:49:22 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:49:22 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:49:22 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:49:22 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:49:22 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:49:22 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:49:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:49:22 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:49:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:49:30 2012: Starting socketmonitor threads
+Sun Mar 18 21:49:30 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:50:01 2012: Starting socketmonitor threads
+Sun Mar 18 21:50:01 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:50:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:50:14 2012: Downloaded 0 B
+Sun Mar 18 21:50:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:50:22 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:50:22 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:50:32 2012: Starting socketmonitor threads
+Sun Mar 18 21:50:32 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:50:52 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:50:52 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:50:52 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:50:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:50:52 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:50:53 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:50:53 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:50:53 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:51:03 2012: Starting socketmonitor threads
+Sun Mar 18 21:51:03 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:51:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:51:14 2012: Downloaded 0 B
+Sun Mar 18 21:51:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:51:22 2012: Stalled for too long, time to get some fresh blood
+Sun Mar 18 21:51:22 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:51:22 2012: Doing tracker request to url : udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:51:22 2012: Doing scrape request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:51:22 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:51:22 2012: Initiating connection to 74.195.97.82 via (TCP)
+Sun Mar 18 21:51:22 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:51:22 2012: Scrape : leechers = 1, seeders = 1, downloaded = 0
+Sun Mar 18 21:51:23 2012: Authentication to 74.195.97.82 : failure
+Sun Mar 18 21:51:34 2012: Starting socketmonitor threads
+Sun Mar 18 21:51:34 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:52:05 2012: Starting socketmonitor threads
+Sun Mar 18 21:52:05 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:52:14 2012: FreeBytes 37.35 GiB
+Sun Mar 18 21:52:14 2012: Downloaded 0 B
+Sun Mar 18 21:52:14 2012: Remaining 146.31 KiB
+Sun Mar 18 21:52:22 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.publicbt.com:80/announce
+Sun Mar 18 21:52:22 2012: UDPTracker::error : Timeout contacting tracker udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:52:36 2012: Starting socketmonitor threads
+Sun Mar 18 21:52:36 2012: Redirected to https://remote.utorrent.com/talon/seed/3613783623/content/108620
+Sun Mar 18 21:52:51 2012: Doing tracker request to url : udp://tracker.openbittorrent.com:80/announce
+Sun Mar 18 21:52:51 2012: Saving 0 chunk downloads
+Sun Mar 18 21:52:51 2012: Saving list of peers to /home/zach/.kde/share/apps/ktorrent/tor0/peer_list
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sun Mar 18 21:52:51 2012: Qt Debug: ktorrent(4659)/kdeui (kdelibs) KXMLGUIClient::~KXMLGUIClient: 0x1dbcab0 deleted without having been removed from the factory first. This will leak standalone popupmenus and could lead to crashes. 

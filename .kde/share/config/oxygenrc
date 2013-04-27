@@ -1,0 +1,13 @@
+[ActiveShadow]
+InnerColor=#ffdca8
+OuterColor=#ffdca8
+Size=20
+
+[InactiveShadow]
+UseOuterColor=true
+
+[Windeco]
+BlendTitlebarColors[$d]
+DrawSeparator=true
+FrameBorder=Normal
+SeparatorActiveOnly=false

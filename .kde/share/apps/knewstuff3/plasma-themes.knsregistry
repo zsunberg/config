@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Ember</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=garthecho">garthecho</author>
+  <homepage>http://opendesktop.org/content/show.php?content=124303</homepage>
+  <licence>1</licence>
+  <version>2.0</version>
+  <rating>86</rating>
+  <downloads>593</downloads>
+  <installedfile>/tmp/kde-zach///124303-Ember-2.0.tar.gz</installedfile>
+  <id>124303</id>
+  <releasedate>2010-09-07</releasedate>
+  <summary>A flat black and transparent plasma theme.  It's very much based on 'Perfection' by Lukas Gianinazzi, with some borrowed elements from 'Glassified' by M. Nowaczyk.  Hope you enjoy.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m124303-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/124303-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/124303-Ember-2.0.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

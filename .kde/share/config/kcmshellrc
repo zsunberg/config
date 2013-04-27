@@ -1,0 +1,20 @@
+[Colors]
+CurrentPalette=Forty Colors
+
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Height 1024=630
+Height 1080=630
+Recent Files[$e]=elegant-air_kdm.tar.bz2,/etc/cups/ppd/HUSL_Brother.ppd,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmtt10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmsy10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmsltt10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmsl10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmmib10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmmi10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmitt10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmex10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmbxti10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmbxsl10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmbx10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmbsy10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmti10.ttf,/usr/local/MATLAB/R2011b/sys/fonts/ttf/cm/mwa_cmr10.ttf
+Width 1280=1008
+Width 1920=1008
+
+[Open-with settings]
+CompletionMode=5
+History=thunderbird %u,firefox

@@ -1,0 +1,93 @@
+[Devices]
+MATSHITA DVD-RAM UJ8A0A=11080,11080
+
+[External Programs]
+cdrdao default=/usr/bin/cdrdao
+cdrdao last seen newest version=1.2.3
+cdrdao user parameters=
+cdrecord default=/usr/bin/wodim
+cdrecord last seen newest version=1.1.11
+cdrecord user parameters=
+dvd+rw-format default=/usr/bin/dvd+rw-format
+dvd+rw-format last seen newest version=7.1
+dvd+rw-format user parameters=
+eMovix user parameters=
+growisofs default=/usr/bin/growisofs
+growisofs last seen newest version=7.1
+growisofs user parameters=
+mkisofs default=/usr/bin/genisoimage
+mkisofs last seen newest version=1.1.11
+mkisofs user parameters=
+normalize-audio user parameters=
+readcd default=/usr/bin/readom
+readcd last seen newest version=1.1.11
+readcd user parameters=
+search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/opt/schily/bin/,/sbin
+sox user parameters=
+transcode user parameters=
+vcdxbuild user parameters=
+vcdxminfo user parameters=
+vcdxrip user parameters=
+
+[General Options]
+Allow overburning=false
+Fifo buffer=4
+Force unsafe operations=false
+Last system check version=2.0.2
+Lock Panels=true
+Manual buffer size=false
+Navigator breadcrumb mode=true
+No cd eject=false
+Show Document Header=true
+Temp Dir=/tmp/kde-zach/
+action dialog startup settings=1
+burnfree=true
+check system config=true
+config version=2.0.2
+current theme=quant
+current_writer=/dev/sr0
+
+[OSD Position]
+Position=0,0
+Screen=0
+
+[Welcome Widget]
+welcome_actions=file_new_data,file_new_audio,tools_copy_medium
+
+[file view]
+Decoration position=0
+Previews=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=Simple
+last url[$e]=$HOME/
+show bookmarks=false
+
+[last used Disk Copy]
+audio retries=5
+copies=1
+copy cdtext=true
+copy mode=normal
+data retries=128
+delete_images=true
+ignore audio read errors=true
+ignore data read errors=false
+image path[$e]=/tmp/kde-zach/window_7_aio_odin.iso
+no correction=false
+on_the_fly=false
+only_create_image=true
+paranoia_mode=0
+simulate=false
+source_device=/dev/sr0
+verify data=false
+writer_device=/dev/sr0
+writing_app=Auto
+writing_mode=auto
+writing_speed=0
+
+[main_window_settings]
+State=AAAA/wAAAAD9AAAAAgAAAAIAAAMMAAAAwPwBAAAAAvsAAAAWAGQAaQByAHQAcgBlAGUAZABvAGMAawEAAAAAAAAAvwAAAFIBAAAF+wAAABgAYwBvAG4AdABlAG4AdABzAGQAbwBjAGsBAAAAwgAAAkoAAADgAQAABQAAAAMAAAMMAAABHPwBAAAAAfsAAAAYAGQAbwBjAHUAbQBlAG4AdABkAG8AYwBrAQAAAAAAAAMMAAAB2AEAAAUAAAMMAAAAAAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled

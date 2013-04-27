@@ -1,0 +1,5 @@
+[core_display]
+active_plugins=core,bailer,detection,composite,opengl,compiztoolbox,decor,resize,imgpng,kde,mousepoll,regex,move,vpswitch,grid,place,animation,workarounds,wall,session,kdecompat,wobbly,expo,ezoom,staticswitcher,fade,opacify
+
+[resize_display]
+mode (Integrated)=0

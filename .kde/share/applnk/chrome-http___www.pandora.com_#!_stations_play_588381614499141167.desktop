@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Pandora Radio - Listen to Free Internet Radio, Find New Music
+Exec=/usr/bin/chromium-browser "--app=http://www.pandora.com/#!/stations/play/588381614499141167"
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=chrome-http___www.pandora.com_#!_stations_play_588381614499141167
+Categories=Network;WebBrowser;
+StartupNotify=true
+StartupWMClass=www.pandora.com
+OnlyShowIn=Old;

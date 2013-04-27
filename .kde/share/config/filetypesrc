@@ -1,0 +1,6 @@
+[EmbedSettings]
+embed-application/pdf=false
+embed-application/vnd.openxmlformats-officedocument.wordprocessingml.document=false
+embed-application/x-wine-extension-ini=false
+embed-text/plain=false
+embed-text/x-c++src=false

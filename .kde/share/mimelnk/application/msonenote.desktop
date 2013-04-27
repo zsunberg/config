@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=MimeType
+MimeType=application/msonenote
+Comment=Microsoft OneNote Section
+Icon=/home/zach/.cxoffice/Microsoft Office 2010/windata/Associations/12878101_joticon.1.xpm
+Patterns=
+X-Created-By=CrossOver
+X-Created-By-xdg-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202=application_msonenote;application_msonenote::edit;application_msonenote::new;application_msonenote::openasreadonly;application_msonenote::print
+X-Created-By-xdg-cxoffice-8b5504b1-2467-422b-a2a6-7d9bbbb2101a=application_msonenote;application_msonenote::edit;application_msonenote::new;application_msonenote::openasreadonly;application_msonenote::print

@@ -1,0 +1,55 @@
+[EdgePositions]
+Offset=0.5
+Screen0=430,0
+Screen1=750,0
+Screen2=750,0
+
+[General]
+PastQueries=ecli,,spoti,ecl,lightrun mendeleydesktop,texlipse,xclock,spot,glxgears,eclip,lightrun lodraw,gtkrun lodraw,matlab,eclipse,mend,mendele,pkill plasma-desktop,comptext,okul,gtkrun mendeleydesktop,gvim,amarok,spotif,lightrun eclipse,crypt,winword,nep,nepo,win,spotify,cryptkeeper,Autorota,google.com,tex,spo,t
+
+[Interface]
+Size=550,500
+
+[PlasmaRunnerManager]
+LaunchCounts=7 shell_comptext,3 shell_winword,2 services_cryptkeeper.desktop,1 nepomuksearch_nepomuk:/res/b6f3970a-3ae0-41c0-a6bb-7bb6d9e600aa,1 shell_lightrun lodraw,1 services_kde4-okular.desktop,4 shell_lightrun mendeleydesktop,1 shell_spotify,1 shell_xclock,1 shell_tex,1 services_kde4-amarok.desktop,1 nepomuksearch_nepomuk:/res/6cbf3ae8-a564-481f-9e37-a9a1e5668b55,1 shell_cryptkeeper,1 shell_glxgears,1 services_chrome-https___mail.google.com_mail.desktop,2 services_cxmenu-cxoffice-4f0e0064-dbea-4cc4-a891-dae1c6284202-3ii0rqp-Spotify.desktop,1 solid_/org/freedesktop/UDisks/devices/sda2,1 nepomuksearch_nepomuk:/res/383b79de-1040-44c4-b908-4e8a349099de,71 services_eclipse.desktop,1 shell_lightrun eclipse,1 services_kde4-nepomukcleaner.desktop,1 shell_gtkrun lodraw,1 windows_0_113609928,1 shell_pkill plasma-desktop,75 shell_texlipse,12 services_spotify.desktop,1 services_gvim.desktop,1 services_matlab.desktop,1 places_file:///home/zach/Research/HUSL/Autorotation,1 shell_gtkrun mendeleydesktop,1 services_kcm_nepomuk.desktop,1 nepomuksearch_nepomuk:/res/ffe56f8f-4730-4646-8aa9-141462dd4b02,3 services_mendeleydesktop.desktop
+
+[Plugins]
+PowerDevilEnabled=true
+bookmarksEnabled=true
+calculatorEnabled=true
+desktopsessionsEnabled=true
+killEnabled=true
+locationsEnabled=true
+nepomuksearchEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.windowedwidgetsEnabled=true
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+solidEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=true
+
+[Runners][bookmarks]
+dbfile=/home/zach/.mozilla/firefox/voa2k717.default/places.sqlite
+
+[TaskDialog]
+Height 1024=419
+Height 1080=419
+Height 900=419
+Width 1280=649
+Width 1600=649
+Width 1920=649
+filterState=0
+headerState=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\n\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0f‹3\x00\x00\x00\t\x00\x00\x00\r\x00\x00\x00d\x00\x00\x00\x0c\x00\x00\x00d\x00\x00\x00\t\x00\x00\x00d\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x06\x00\x00\x00d\x00\x00\x00\x04\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x02\x00\x00\x00d\x00\x00\x02…\x00\x00\x00\x0f\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00†\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00a\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00n\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00í\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00
+ioInformation=5
+ioUnits=1
+normalizeCPUUsage=true
+showCommandLineOptions=false
+showTooltips=true
+showTotals=true
+units=1
+updateIntervalMSecs=2000
+version=5

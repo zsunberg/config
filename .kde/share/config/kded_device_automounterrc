@@ -1,0 +1,100 @@
+[Devices][/org/freedesktop/UDisks/devices/dm_2d0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=9.8 MiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/loop0]
+EverMounted=true
+Icon=media-optical
+LastNameSeen=934.0 MiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/mmcblk0p1]
+EverMounted=true
+Icon=media-flash-sd-mmc
+LastNameSeen=7.4 GiB Removable Media
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=SYSTEM_DRV
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Windows7_OS
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sda3]
+Icon=drive-harddisk
+LastNameSeen=Lenovo_Recovery
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda6]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Home
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sdb]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Flash Disk
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sdb1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=50.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sdb3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=59.3 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sdc]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Flash Disk
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sdc1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=FreeAgent Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sdd]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=General USB Flash Disk
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sdd1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=FreeAgent Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sde]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Android UMS Composite
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sde1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=ZACH'S USB
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sr0:media]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=XPLANE10
+LastSeenMounted=false

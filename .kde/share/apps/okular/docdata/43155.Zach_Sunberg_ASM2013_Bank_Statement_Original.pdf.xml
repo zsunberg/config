@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/zach/Desktop/Zach_Sunberg_ASM2013_Bank_Statement_Original.pdf">
+ <pageList>
+  <page number="0">
+   <annotationList>
+    <annotation type="4">
+     <base creationDate="2013-01-18T10:57:55" uniqueName="okular-0-1" author="Zachary Sunberg" modifyDate="2013-01-18T10:57:55" color="#ffff00">
+      <boundary l="0.159627" r="0.55528" b="0.301488" t="0.275084"/>
+     </base>
+     <hl>
+      <quad dx="0.160131" cx="0.555556" dy="0.275253" bx="0.555556" cy="0.275253" ax="0.160131" by="0.287879" ay="0.287879" feather="1"/>
+      <quad dx="0.160131" cx="0.25" dy="0.289141" bx="0.25" cy="0.289141" ax="0.160131" by="0.301768" ay="0.301768" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base creationDate="2013-01-18T10:58:01" uniqueName="okular-0-2" author="Zachary Sunberg" modifyDate="2013-01-18T10:58:01" color="#ffff00">
+      <boundary l="0.751553" r="0.795652" b="0.287566" t="0.275084"/>
+     </base>
+     <hl>
+      <quad dx="0.751634" cx="0.795752" dy="0.275253" bx="0.795752" cy="0.275253" ax="0.751634" by="0.287879" ay="0.287879" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base creationDate="2013-01-18T10:58:12" uniqueName="okular-0-3" author="Zachary Sunberg" modifyDate="2013-01-18T10:58:12" color="#ffff00">
+      <boundary l="0.159627" r="0.56646" b="0.3735" t="0.347096"/>
+     </base>
+     <hl>
+      <quad dx="0.160131" cx="0.566993" dy="0.347222" bx="0.566993" cy="0.347222" ax="0.160131" by="0.359848" ay="0.359848" feather="1"/>
+      <quad dx="0.160131" cx="0.387255" dy="0.361111" bx="0.387255" cy="0.361111" ax="0.160131" by="0.373737" ay="0.373737" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base creationDate="2013-01-18T10:58:16" uniqueName="okular-0-4" author="Zachary Sunberg" modifyDate="2013-01-18T10:58:16" color="#ffff00">
+      <boundary l="0.751553" r="0.859006" b="0.359578" t="0.347096"/>
+     </base>
+     <hl>
+      <quad dx="0.751634" cx="0.795752" dy="0.347222" bx="0.795752" cy="0.347222" ax="0.751634" by="0.359848" ay="0.359848" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.499689:0.260922:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="2.63072"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

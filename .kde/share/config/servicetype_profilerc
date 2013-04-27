@@ -1,0 +1,10 @@
+[SolidNetworkManager]
+Entry0_Preference=4
+Entry0_Service=solidbackends/solid_wicd.desktop
+Entry1_Preference=3
+Entry1_Service=solidbackends/solid_networkmanager09.desktop
+Entry2_Preference=2
+Entry2_Service=solidbackends/solid_networkmanager09_fake.desktop
+Entry3_Preference=1
+Entry3_Service=solidbackends/solid_fakenet.desktop
+NumberOfEntries=4

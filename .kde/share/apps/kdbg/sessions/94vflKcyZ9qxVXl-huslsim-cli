@@ -1,0 +1,43 @@
+[Breakpoint 0]
+Enabled=true
+File=../huslsim-cli.cpp
+Line=132
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=../huslsim-cli.cpp
+Line=131
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=../huslsim-cli.cpp
+Line=50
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=../huslsim-cli.cpp
+Line=52
+Temporary=false
+
+[Breakpoint 4]
+Enabled=true
+File=../huslsim-cli.cpp
+Line=201
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+ExecutableFile=/home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/Debug/huslsim-cli
+FileVersion=1
+OptionsSelected=
+ProgramArgs=sim --input /home/zach/HUSLSVN/HUSL_Software/Helicopter Simulator/default.list
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=56,0
+NumExprs=0

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Dropbox ServiceMenu</name>
+  <providerid>http://download.kde.org/khotnewstuff/servicemenu/servicemenu.xml</providerid>
+  <author>hash87</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>0.16.1</version>
+  <rating>91</rating>
+  <downloads>5990</downloads>
+  <installedfile>/home/zach/.kde/share/apps/servicemenu-download//124416-DropboxServiceMenu-0.16.1.tar.gz</installedfile>
+  <id>124416</id>
+  <releasedate>2012-01-29</releasedate>
+  <summary>Dropbox ServiceMenu is a servicemenu which allows easy access to most of Dropbox features. It uses Dropbox CLI to generate public urls, and pyndexer to allow sharing directories in public folder.&#xd;
+&#xd;
+[b]Features:[/b]&#xd;
+* Copy Public URL to clipboard&#xd;
+* Share folder (via web browser)&#xd;
+* Copy file/directory to public folder and paste the URL to clipboard&#xd;
+* Move file/directory to public folder and paste the URL to clipboard&#xd;
+* Support for sharing directories in public folder using pyndexer ( [url]http://dl.dropbox.com/u/552/pyndexer/index.html[/url] )&#xd;
+* Send generated public url via default email client and GMail (via webbrowser)&#xd;
+* View previous versions of file (via web browser)&#xd;
+* Encrypt directory listing with password (only works for directories in public folder)&#xd;
+* Automatic detection of Dropbox directory path&#xd;
+&#xd;
+[b]Installation:[/b]&#xd;
+1. Copy .desktop files to ~/.kde4/share/kde4/services/ServiceMenus/&#xd;
+2. Copy content of dropbox-script to your $PATH - e.g. /usr/bin or /usr/local/bin&#xd;
+&#xd;
+[b]or run installation script (it will install scripts and .desktop files in ~/.kde4/share/kde4/services/ServiceMenus):[/b]&#xd;
+./install-it.sh&#xd;
+&#xd;
+[b]or if you're running Fedora:[/b]&#xd;
+1. Install following RPM [url]http://magnu5.fedorapeople.org/repo/magnu5-1.0-1.fc13.noarch.rpm[/url]&#xd;
+2. Now run following command: su -c 'yum install dropbox-servicemenu'&#xd;
+&#xd;
+Thanks to Magnus Tuominen for providing Fedora RPMs.&#xd;
+&#xd;
+[b]or if you're running openSUSE:[/b]&#xd;
+You can install dropbox-servicemenu from KDE:Extras repository.&#xd;
+&#xd;
+&#xd;
+[b]Additional dependencies:[/b]&#xd;
+- dropbox&#xd;
+- klipper&#xd;
+- kdialog&#xd;
+- sqlite3&#xd;
+- python&#xd;
+- python-m2crypto (required for encrypting directory listing)&#xd;
+- xdg-utils&#xd;
+- uudecode (can be found in sharutils package)&#xd;
+- recode&#xd;
+- perl&#xd;
+&#xd;
+Currently translated to following languages:&#xd;
+[b]Fully translated[/b]: Czech, Danish, Dutch, English, French, German, Italian, Lithuanian, Polish, Russian, Spanish, Traditional Chinese (Taiwan)&#xd;
+&#xd;
+[b]Not fully translated:[/b] (.desktop files, dropbox_menu_translations.sh): Portuguese, Turkish&#xd;
+&#xd;
+if you want to translate this servicemenu then feel free to contact me via private message.&#xd;
+&#xd;
+[b]KNOWN ISSUES:[/b] This servicemenu requires python2. If your distro uses python3 as main python binary then this servicemenu won't work. In order to make it work you'll have to do some "sed magic" e.g. sed 's/python/python2/g' on dropbox_menu.sh and .py scripts, assuming that your distro provides python version 2 as python2.</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/servicemenu/previews/m124416-1.png</preview>
+  <previewBig>http://download.kde.org/khotnewstuff/servicemenu/previews/m124416-1.png</previewBig>
+  <payload>http://download.kde.org/khotnewstuff/servicemenu/downloads/124416-DropboxServiceMenu-0.16.1.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Root Actions Servicemenu</name>
+  <providerid>http://download.kde.org/khotnewstuff/servicemenu/servicemenu.xml</providerid>
+  <author>kubicle</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>2.7.3</version>
+  <rating>89</rating>
+  <downloads>28048</downloads>
+  <installedfile>/home/zach/.kde/share/apps/servicemenu-download//48411-rootactions_servicemenu_2.7.3.tar.gz</installedfile>
+  <id>48411</id>
+  <releasedate>2012-03-30</releasedate>
+  <summary>****&#xd;
+- Automatic installation via dolphin in KDE SC 4 is still a new feature, but should work.&#xd;
+- You need to have "ruby" installed for Automatic installation to work&#xd;
+****&#xd;
+&#xd;
+***NOTES***&#xd;
+- My mail address can be found in the README file in the package if you wish to contact me for translations or feedback (You can of course also post a comment here)&#xd;
+- I can't test the menu on KDE3 anymore, so I can't guarantee the menu works 100% on KDE3&#xd;
+&#xd;
+KNOWN ISSUES:&#xd;
+- Kdesu in KDE SC 4.6 does not work with the menu (or the other way around, I'm still on the fence with it)...I'm investigating the cause and possible solutions. Kdesudo still works as expected. &#xd;
+UPDATE: should be fixed in 2.6.92, testing appreciated.&#xd;
+- Some KDE3 distributions (like Debian Lenny) may still use an old version of kdesudo, which has a bug handling filenames with spaces, and unexpected results may occur. Workarounds: 1. uninstall kdesudo (and use kdesu instead), 2. avoid using root actions on filenames with spaces, 3. "bug" your distributors to update kdesudo to the latest. 4. build your own kdesudo from the latest sources.&#xd;
+*************&#xd;
+&#xd;
+&#xd;
+Root Actions servicemenu provides a convenient way to perform several actions 'as root', from the right-click context menu in KDE filemanagers.&#xd;
+&#xd;
+It aims to be distribution agnostic, if you experience issues in your distribution, drop me an email describing the issue.&#xd;
+&#xd;
+The menu needs a properly configured kdesu/kdesudo to work (kdesudo is preferred, for some added functionality, like remembering password for a period of time...timeout is configurable by sudo settings)&#xd;
+&#xd;
+Any comments, criticism and improvement suggestions welcomed :)&#xd;
+&#xd;
+Included in the download are .desktop file versions for KDE3 konqueror, KDE3 dolphin, KDE4 (both konqueror and dolphin) and an importable user action xml file for krusader KDE4...see installation for details. &#xd;
+&#xd;
+README:&#xd;
+&#xd;
+I've dropped version 1.x from the package since 2.x is stable and can do a lot more than 1.x. If you're still interested in the 1.x version, drop me a mail and I'll send it to you.&#xd;
+&#xd;
+Thanks to:&#xd;
+Stefan Majewsky		- German translation (1.1.x and 2.x)&#xd;
+Pierre Buard		- French translation (1.1.x)&#xd;
+Guillaume Millet &amp;&#xd;
+Jean-Marc Detourmignies	- French translation (2.x)&#xd;
+Alessio			- Italian translation (1.1.x)&#xd;
+Massimo Pissarello 	- Italian translation (2.x)&#xd;
+JoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o Pedro Gomes	- Portuguese translation (2.x)&#xd;
+Viruscg			- Brazilian Portuguese translation (1.1.x amd 2.x partial)&#xd;
+Eduardo Grau		- Spanish translation (1.1.x and 2.x)&#xd;
+Kenny Verstraete	- Dutch translation (1.1.x and 2.x)&#xd;
+Paul KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶rÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶ssy		- Hungarian translation (2.x)&#xd;
+nikt_taki		- Polish translation (2.x)&#xd;
+Andreas Nordal		- Norwegian translation (2.x)&#xd;
+Jakub Matas		- Czech translation (2.x)&#xd;
+Donatas Glodenis	- Lithuanian translation (2.x)&#xd;
+Mladen PejakoviÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ	- Serbian translation (2.x)&#xd;
+Netrebin Alexey		- Russian translation (2.x)&#xd;
+Cihat Imamoglu		- Turkish translation (2.x)&#xd;
+Manuel Tortosa Moreno	- Catalan translation (2.x)&#xd;
+Neo Tet			- Greek translation (2.x)&#xd;
+AdriÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡n Chaves FernÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ndez - Galician translation (2.x)&#xd;
+Mihael SimoniÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ		- Slovene translation (2.x)&#xd;
+Niklas ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂkerstrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶m	- Swedish translation (2.x)&#xd;
+&#xd;
+----Requirements:-----------------------------------------------------&#xd;
+Essential: (these should already be installed on a standard KDE installation)&#xd;
+perl                 -the script is written in perl&#xd;
+kdesu | kdesudo      -to gain administrative privileges&#xd;
+kdialog              -to show dialogs&#xd;
+kreadconfig          -to read kde configuration&#xd;
+dolphin | konqueror  -filemanager&#xd;
+kwrite | kate        -editor&#xd;
+ark                  -handles compression&#xd;
+&#xd;
+Optional:&#xd;
+krename              -for multiple file (batch) renaming&#xd;
+krusader	     -to use the included krusader actions&#xd;
+xdg-utils            -for default application support (2.5.x-)&#xd;
+&#xd;
+----Installation:-----------------------------------------------------&#xd;
+&#xd;
+Some distributions have packages available in either their main repos or community repos. For easy installation and possible distro specific patches you can use them if available. Manual installation instructions below:&#xd;
+&#xd;
+Version 2.3 -> &#xd;
+	1. Uncompress the rootactions-servicemenu.pl script in Root_Actions_2.x to a directory in your $PATH. /usr/local/bin or /usr/bin are two valid options. Make the script executable (if it's not).&#xd;
+&#xd;
+	2a. (Konqueror for KDE3) Uncompress the three .desktop files in /konqueror-KDE3 to ~/.kde/share/apps/konqueror/servicemenus (This will enable the menu for individual users, if you wish to enable the menu for all users, copy the files to /usr/share/apps/konqueror/servicemenus instead).&#xd;
+&#xd;
+	2b. (Dolphin for KDE3) Uncompress the two .desktop files in /dolphin-KDE3 to ~/.kde/share/apps/d3lphin/servicemenus (This will enable the menu for individual users, if you wish to enable the menu for all users, copy the files to /usr/share/apps/d3lphin/servicemenus instead).&#xd;
+&#xd;
+	2c. (Dolphin and Konqueror for KDE4) Uncompress the two .desktop files in /dolphin-KDE4 to your kde4 servicemenu folder (possibly ~/.kde/share/kde4/services/ServiceMenus...although $KDEHOME [".kde"] can be something else in your distribution). If you wish to use konqueror instead of dolphin as your filemanager, edit 10-rootactionsfolders.desktop by changing 'dolphin' to 'konqueror'.&#xd;
+&#xd;
+	2d. (Krusader for KDE4) Import krusader_rootactions.xml file in /krusader-KDE4 with krusader's action manager.&#xd;
+&#xd;
+----Available Actions----------------------------------------------------------------&#xd;
+&#xd;
+Version 2.x&#xd;
+	- Open Terminal Here (folders) - open a root terminal session in chosen folder&#xd;
+	- Open in File Manager (folders) - open chosen folder(s) in file manager&#xd;
+	- Open as Text (files) - open chosen folder(s) in text editor&#xd;
+	- Open With ... (both) - open chosen items in a program of your choice&#xd;
+&#xd;
+	- Copy (both) - copy a single file or folder (ADDED in 2.1)&#xd;
+	- Move/Rename (both) - if multiple items selected and a batch renamer installed (default is krename) start renamer, otherwise use a simple move/rename dialog&#xd;
+	- Compress (both) - Compress selected files/folders (ADDED in 2.7)&#xd;
+	- Delete (both) - Completely removes chosen items (as this is potentially hazardous, there is an extra confirmation dialog), handy for removing back-up files etc.&#xd;
+&#xd;
+	- Ownership to Root (both) - change ownership of chosen items to root:root&#xd;
+	- Ownership to Active User (both) - change ownership of chosen items to current user&#xd;
+	- Ownership to ...  (both) - change ownership of chosen items to UID:GID of your choice&#xd;
+&#xd;
+	- Change Permissions (both) - change permissions of chosen items&#xd;
+	If only a single folder is selected, permissions/ownership can be set recursively. If changing permissions recursively, files are only set executable if they already are executable (Otherwise all files in a directory would be set executable if the parent folder is set executable, which is necessary for the folder to be accessible)&#xd;
+&#xd;
+&#xd;
+----Translating and customizing:-----------------------------------------------------&#xd;
+&#xd;
+Read the README file in the package for instructions on translating and customizing the menu&#xd;
+&#xd;
+&#xd;
+----Disclaimer-------------------------------------------------------&#xd;
+&#xd;
+ This program is free software; you can redistribute it and/or modify&#xd;
+ it under the terms of the GNU General Public License as published by&#xd;
+ the Free Software Foundation; either version 2, or (at your option)&#xd;
+ any later version.&#xd;
+&#xd;
+ This program is distributed in the hope that it will be useful,&#xd;
+ but WITHOUT ANY WARRANTY; without even the implied warranty of&#xd;
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&#xd;
+ GNU General Public License for more details.&#xd;
+&#xd;
+ You should have received a copy of the GNU General Public License&#xd;
+ along with this program; if not, write to the Free Software&#xd;
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA&#xd;
+ 02110-1301, USA.</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/servicemenu/previews/m48411-1.png</preview>
+  <previewBig>http://download.kde.org/khotnewstuff/servicemenu/previews/m48411-1.png</previewBig>
+  <payload>http://download.kde.org/khotnewstuff/servicemenu/downloads/48411-rootactions_servicemenu_2.7.3.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
