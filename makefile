@@ -8,8 +8,8 @@ git:
 vim: vundle vimrc
 
 vimrc:
-	mv -n ~/.vimrc ~/.vimrc.old
-	ln -s .vimrc ~/
+	-mv -n ~/.vimrc ~/.vimrc.old
+	ln -s dotfiles/.vimrc ~/.vimrc
 
 vundle: vimrc ~/.vim/bundle/vundle/README.md
 	vim +BundleInstall +qall
@@ -18,12 +18,12 @@ vundle: vimrc ~/.vim/bundle/vundle/README.md
 	git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 bashrc:
-	mv -n ~/.bashrc ~/.bashrc.old
-	ln -s .bashrc ~/
+	-mv -n ~/.bashrc ~/.bashrc.old
+	ln -s dotfiles/.bashrc ~/
 
 kde:
-	mv -n ~/.kde ~/.kde.old
-	ln -s .kde ~/
+	-mv -n ~/.kde ~/.kde.old
+	ln -s dotfiles/.kde ~/
 
 
 BACKUP=mv -f $@ $@.old || cp $< $@
