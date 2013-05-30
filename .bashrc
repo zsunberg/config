@@ -136,3 +136,8 @@ export PATH
 # matlab-like history search
 bind '"\e[A": history-search-backward'
 bind '"\e[B": history-search-forward'
+
+# http://mjo.tc/atelier/2009/02/arduino-cli.html
+export ARDUINO_DIR=/usr/share/arduino
+export ARDMK_DIR=/usr/local
+export AVR_TOOLS_DIR=/usr

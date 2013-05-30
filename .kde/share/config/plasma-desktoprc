@@ -19,6 +19,7 @@ CompletionMode=5
 History=okular %U %i -caption "%c","/home/zach/.cxoffice/PDF-XChange Viewer 2.x/desktopdata/cxmenu/StartMenu.C^3A_users_Public_Start+Menu/Programs/PDF-XChange PDF Viewer/PDF-Viewer.lnk"
 
 [PlasmaViews][1]
+Migrations=
 panelVisibility=0
 
 [PlasmaViews][1][Horizontal1280]
@@ -34,11 +35,11 @@ offset=0
 offset=0
 
 [PlasmaViews][1][Sizes]
-lastsize=1600
+lastsize=1920
 
 [PlasmaViews][1][Sizes][Horizontal1024]
-max=-1,-1
-min=-1,-1
+max=1024,40
+min=1024,40
 offset=0
 size=1024,40
 
@@ -72,11 +73,23 @@ min=-1,-1
 offset=0
 size=2133,720
 
+[PlasmaViews][1][Sizes][Vertical1080]
+max=40,1080
+min=40,1080
+offset=0
+size=40,1080
+
 [PlasmaViews][1][Sizes][Vertical900]
 max=40,900
 min=40,900
 offset=0
 size=40,900
+
+[PlasmaViews][1][Vertical1080]
+offset=0
+
+[PlasmaViews][1][Vertical900]
+offset=0
 
 [PlasmaViews][11]
 panelVisibility=0
@@ -94,11 +107,11 @@ offset=0
 offset=0
 
 [PlasmaViews][11][Sizes]
-lastsize=1600
+lastsize=1920
 
 [PlasmaViews][11][Sizes][Horizontal1024]
-max=-1,-1
-min=-1,-1
+max=1024,35
+min=1024,35
 offset=0
 size=1024,35
 
@@ -138,6 +151,12 @@ min=35,900
 offset=0
 size=35,900
 
+[PlasmaViews][11][Vertical900]
+offset=0
+
+[PlasmaViews][15]
+panelVisibility=0
+
 [Runners][bookmarks]
 dbfile=/home/zach/.mozilla/firefox/voa2k717.default/places.sqlite
 
@@ -148,13 +167,11 @@ performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/pl
 226=11
 3=1
 332=14
-333=12
-334=13
 
 [invokeAction]
 __file=
 actionId=default
-predicate=solid_camera.desktop
+predicate=test-predicate-openinwindow.desktop
 
 [mount]
 __file=

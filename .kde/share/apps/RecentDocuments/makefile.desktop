@@ -2,5 +2,5 @@
 Icon=text-x-makefile
 Name=makefile
 Type=Link
-URL[$e]=file://$HOME/dotfiles/makefile
+URL[$e]=file://$HOME/Research/HUSL/Autorotation/AHS_Journal_Paper/makefile
 X-KDE-LastOpenedWith=gvim-4

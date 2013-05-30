@@ -8,6 +8,10 @@ Bundle 'gmarik/vundle'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'vim-scripts/HTML-AutoCloseTag'
 Bundle 'git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex'
+Bundle 'sukima/xmledit'
+Bundle 'kien/ctrlp.vim'
+
+" to update run :BundleInstall
 
 filetype plugin indent on
 
@@ -65,3 +69,9 @@ au BufRead,BufNewFile *.tex set wrap|set linebreak|set nolist
 au Filetype html,xml,xsl source ~/.vim/scripts/closetag.vim 
 
 au Filetype tex set spell
+
+"http://statico.github.io/vim.html
+:nmap ; :CtrlP .<CR>
+
+"for DOS line endings
+:nmap <C-m> :e ++ff=dos<CR>

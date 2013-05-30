@@ -30,9 +30,9 @@ accounts.google.com  ".google.com"        "/"          1667497531    0 APISID   
 accounts.google.com  ".google.com"        "/"          1667497531    0 SAPISID              5    rPhB70yx9KbWYWet/Ab0hM75GKimTCt_kf
 www.google.com       ".google.com"        "/"          1420607830    0 PREF                 4    ID=38e03ff466babc9c:U=854ba8946df768b4:FF=0:LD=en:TM=1324412374:LM=1357535830:GM=1:S=gCmXggpKPwxe-Qix
 www.google.com       ".google.com"        "/"          1375327800    0 NID                  6    56=HDuObFSR_56ZHjqF333GOnhTKujaKShXLzGOuwulYwlV53YBOn8dVwvpVwXN-O9kYoaC-cFWxOlmhkYnjxCMOB2MeD9UwPtnjfXPtmMiT0K75TSqcCnn1WDE1tHsVZxRTAv2YgVb5cYtQdu4vv_D-lFVxznd27SYuLw7-0639MddGb33mxzaqqVB-NiotLVuFWOb
-accounts.google.com  ""                   "/"          1430071299    0 GAPS                 7    1:qe7v-T4dUF_db5f5PSc1ZINVyX0VwA:y8QmpqRKuLUg6rgg
-accounts.google.com  ""                   "/"          1682359299    0 LSID                 7    cl|goanna_mobile|mail:DQAAAMoAAAAavTO9A58q8FD0CZksQd8uiM-2DtzXIq-bETWxsEjvcvKkg4u41KraZTZvQqnIFRW3puIF6NZd0bXKnZiOK03_vC1QY25LxtKkXlzfyobsnpIN7HZlbnkZ_RaGSbZypViGuV-KmeGzPV3-vfy9mvsUKCN_Rrd6ZqRTn_jwU7vNfOJp5Xfgvo8qEJjUp9w33Wp4sPSZWiR423UwVor6jHMyEm8geJcXb-MzNg2heIWIwAr9Hs6vmqAQxHwX2FA9KtWO6mN_uGIY-nVFy_DJY-l1
-accounts.google.com  ".google.com"        "/"          1682359299    0 SID                  4    DQAAAMcAAABEx_htFz7E3uphuocQb8kGCW_JA19qgBE7KRrQhQk_JZ8oOXQKT9xZQVxChnJDgi0IhKKIe_di9gARt-zClgwU4nnGONxX8-y0EED1Qtc72oSzbgZp-Qk7iBh3A-ZN9E4QPzThjhR0JjRtdoOixjjxkodBlCNrraTGpCLk7Y5R274AJRGlI0skra-TpBtxvND_hcbbPPpTN7huQuc8ukExEUQBMODXH7HFNMAwAuvzn9MHcSN7N7f4f321coWf-L3q0NBAPY6reGnfDMPCXRLf
+accounts.google.com  ""                   "/"          1433008279    0 GAPS                 7    1:cvXxCsXuMbClzwgER35Z8MJGn4UNqQ:1uVNuYlJkaDu2LZy
+accounts.google.com  ""                   "/"          1685296279    0 LSID                 7    cl|goanna_mobile|mail:DQAAAMkAAAAavTO9A58q8FD0CZksQd8ukvBjyAzMh5ehtNTEYhUwD5RIq70Ygz5Yy8REsJoUYWvR6qeOqJyDZk81oZBc1Pda8O_4fZT3kipbj6V663s39AwA-95NlCCooA_XhupUwO974MWuJWqPhT-KAJJ8Ak6dmmgLAjzixRKh22RHHQ7UqdCB8xJwcA0FtvN9uPGBwOX1_KRSA4YdmtJkIyy70hueHxhGKjqqwttMjcdZcPUaUe4dogPpLzOTLNjdfxT3CdSrY-vfQj8RmPI9DRhkZ9gV
+accounts.google.com  ".google.com"        "/"          1685296279    0 SID                  4    DQAAAMcAAABEx_htFz7E3uphuocQb8kG4A1Y5QBN3jvUb6RL2a4sUZf003WP0uJ3dn_a3-uQeb4EjpvzbnxxEQQ_HtB4UPUEYqzKufDQpNY1B780qiOlh45FCYP9MSNxiJZqdffbYbiCkvSc_zKZELq7x9kxpCyTP1VALjgqPJXH26HES0VA_CZrPGywecO0e-8EnVnnFPqYxqEAppVmeMn0n_8G_sitDZmrERUvV0jA-PFoBIQP9ZS7lYCz0NgHb11bPn04OGlklc3gY_4ijhganUgTIQdi
 [.npr.org]
 www.npr.org          ".npr.org"           "/"          1582122480    0 v1st                 4    2EBE6075DD7C2000
 www.npr.org          ".npr.org"           "/"          1383026721    0 __gads               4    ID=0fab75d54227ac19:T=1319954721:S=ALNI_MYbwJuQOEu2OGCS0y0mB8-UN8GxaA
@@ -41,7 +41,6 @@ www.npr.org          ".npr.org"           "/"          1383026722    0 __utma   
 [opendesktop.org]
 opendesktop.org      ""                   "/"          1393286897    0 __utma               4    145449326.812275174.1330214898.1330214898.1330214898.1
 [.adobe.com]
-promotion.adobe.com  ""                   "/"          1368024052    0 OAID                 4    7cbd130ad4e6938a590eda67e640b336
 sstats.adobe.com     ".adobe.com"         "/"          1494179665    0 s_vi                 4    [CS]v1|27D4AEE8851D1D1C-4000010500181B61[CE]
 [.spotify.com]
 www.spotify.com      ""                   "/"          1452123938    0 spot                 4    %7B%22t%22%3A1336607138%2C%22m%22%3A%22us%22%2C%22p%22%3A%22open%22%2C%22u%22%3Anull%7D

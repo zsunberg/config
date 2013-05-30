@@ -1,4 +1,46 @@
 BEGIN:VCALENDAR
 PRODID:-//K Desktop Environment//NONSGML libkcal 4.3//EN
 VERSION:2.0
+BEGIN:VJOURNAL
+DTSTAMP:20130529T223958Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20130510T183235Z
+UID:libkcal-904517325.744
+LAST-MODIFIED:20130510T183301Z
+DESCRIPTION:421-594
+SUMMARY:05/10/13 01:32 PM
+END:VJOURNAL
+BEGIN:VJOURNAL
+DTSTAMP:20130529T223958Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20130529T223927Z
+UID:libkcal-754841962.433
+LAST-MODIFIED:20130529T223958Z
+DESCRIPTION:There are two distinct ways that the time to impact is used: 
+ The predicted constant velocity time to impact (-h/hdot) is used to 
+ determine which phase of descent the rotorcraft is in\, while the 
+ prescribed (desired) time to impact is used to determine the descent 
+ trajectory in the flare and landing phases. Since the predicted time to 
+ impact determines the phase that the helicopter is in\, it indirectly has 
+ a part in determining the desired trajectory\, so both of these are 
+ important\, however the prescribed (desired) time to impact (determined 
+ by the controller) directly determines the desired trajectory in the 
+ flare and landing phases.
+SUMMARY:05/29/13 10:39 PM
+END:VJOURNAL
+BEGIN:VJOURNAL
+DTSTAMP:20130529T223958Z
+X-KDE-KNotes-BgColor:#ffffbd
+X-KDE-KNotes-FgColor:#000000
+X-KDE-KNotes-RichText:false
+CREATED:20130510T231554Z
+UID:libkcal-2017397600.279
+LAST-MODIFIED:20130510T231603Z
+DESCRIPTION:alt_sensor_flag
+SUMMARY:05/10/13 06:15 PM
+END:VJOURNAL
 END:VCALENDAR

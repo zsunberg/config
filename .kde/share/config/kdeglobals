@@ -131,7 +131,7 @@ Size=32
 
 [DirSelect Dialog]
 DirSelectDialog Size=1016,577
-History Items[$e]=file://$HOME/Music/Relient K,file://$HOME/Downloads,file://$HOME/Music/Mumford & Sons/Sigh No More,file://$HOME/Pictures/Background Pictures,file://$HOME/HUSLSVN/the_narrow_path,file://$HOME/MATLAB/zsim,file://$HOME/HUSLSVN/Conflict_Measures,file://$HOME/HUSLSVN,file://$HOME/HUSLSVN/HUSL_Software,file://$HOME/MATLAB,file://$HOME/Dropbox/Util/Papers,file://$HOME/HUSLSVN/ACM,file:///usr/local/eclipse,file://$HOME/HUSLSVN/HUSL_Software/Helicopter Simulator/Debug,file://$HOME/Dropbox/Classes/MEEN 676 (Fuzzy Logic and Intelligent Systems),file://$HOME/Research,file://$HOME/Documents,file://$HOME/Classes/AERO 630 Introduction to Random Dynamic Systems),file://$HOME/Classes/MEEN 676 (Fuzzy Logic and Intelligent Systems),file://$HOME/Dropbox/MATLAB,file://$HOME/Documents/Papers,file://$HOME/Dropbox/Research/HUSL/Conflict Measures,file://$HOME/Pictures,file://$HOME/Music,file:///media/Windows_7/Users/Zach/Music,file://$HOME/Tools
+History Items[$e]=file://$HOME/Music/Mumford & Sons,file://$HOME/Music/Relient K,file://$HOME/Downloads,file://$HOME/Music/Mumford & Sons/Sigh No More,file://$HOME/Pictures/Background Pictures,file://$HOME/HUSLSVN/the_narrow_path,file://$HOME/MATLAB/zsim,file://$HOME/HUSLSVN/Conflict_Measures,file://$HOME/HUSLSVN,file://$HOME/HUSLSVN/HUSL_Software,file://$HOME/MATLAB,file://$HOME/Dropbox/Util/Papers,file://$HOME/HUSLSVN/ACM,file:///usr/local/eclipse,file://$HOME/HUSLSVN/HUSL_Software/Helicopter Simulator/Debug,file://$HOME/Dropbox/Classes/MEEN 676 (Fuzzy Logic and Intelligent Systems),file://$HOME/Research,file://$HOME/Documents,file://$HOME/Classes/AERO 630 Introduction to Random Dynamic Systems),file://$HOME/Classes/MEEN 676 (Fuzzy Logic and Intelligent Systems),file://$HOME/Dropbox/MATLAB,file://$HOME/Documents/Papers,file://$HOME/Dropbox/Research/HUSL/Conflict Measures,file://$HOME/Pictures,file://$HOME/Music,file:///media/Windows_7/Users/Zach/Music,file://$HOME/Tools
 
 [Directories-default]
 prefixes=/usr/share/kubuntu-default-settings/kde4-profile/default/
@@ -168,7 +168,7 @@ Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
 Previews=true
-Recent URLs[$e]=$HOME/HUSLSVN/HUSL_Software/Helicopter_Simulator/Helicopter/,$HOME/Util/alt_characterization/,$HOME/Research/HUSL/Autorotation/Thesis/,$HOME/HUSLSVN/ACM/Docs/Collective_Mapping/,/etc/cups/ppd/,$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/,$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/flight5/
+Recent URLs[$e]=$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/,$HOME/Util/Flight_Tests/ALIGN600E/logs/2013-04-25/flight5/,$HOME/Downloads/,$HOME/Documents/,/tmp/,/home/,$HOME/Research/HUSL/Autorotation/Thesis/
 Show Bookmarks=false
 Show Full Path=false
 Show Preview=false

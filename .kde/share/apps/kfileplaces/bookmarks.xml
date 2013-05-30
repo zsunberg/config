@@ -458,6 +458,22 @@
   </info>
   <title>Kindle</title>
  </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks/devices/sde1</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks/devices/sde</UDI>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </separator>
  <bookmark href="bluetooth:/">
   <title>Bluetooth</title>
   <info>
@@ -465,7 +481,7 @@
     <bookmark:icon name="preferences-system-bluetooth"/>
    </metadata>
    <metadata owner="http://www.kde.org">
-    <ID>1367029120/0</ID>
+    <ID>1369927224/0</ID>
    </metadata>
   </info>
  </bookmark>

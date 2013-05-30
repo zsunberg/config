@@ -99,7 +99,7 @@ activity=
 activityId=
 desktop=-1
 formfactor=2
-geometry=0,-289,1600,35
+geometry=0,-289,1920,35
 immutability=1
 lastDesktop=-1
 lastScreen=0
@@ -127,7 +127,7 @@ Order=0
 global=Meta+K
 
 [Containments][226][Applets][231]
-geometry=1131.4,0,25.6,32
+geometry=1617.4,0,25.6,32
 immutability=1
 plugin=systemloadviewer
 zvalue=379
@@ -157,8 +157,8 @@ visibilityUnit=2007
 Order=8
 
 [Containments][226][Applets][238][PopupApplet]
-DialogHeight=178
-DialogWidth=257
+DialogHeight=177
+DialogWidth=269
 
 [Containments][226][Applets][240]
 geometry=216,0,32,32
@@ -174,7 +174,7 @@ Url=file:///home/zach/.local/share/applications/firefox-2.desktop
 Order=6
 
 [Containments][226][Applets][246]
-geometry=1092.4,0,35,32
+geometry=1578.4,0,35,32
 immutability=1
 plugin=sm_temperature
 zvalue=435
@@ -188,7 +188,7 @@ temps=acpi/Thermal_Zone/0/Temperature
 Order=13
 
 [Containments][226][Applets][265]
-geometry=1161,0,35,32
+geometry=1647,0,35,32
 immutability=1
 plugin=sm_cpu
 zvalue=378
@@ -254,7 +254,7 @@ Url=file:///home/zach/.local/share/applications/chrome-https___www.google.com_ca
 Order=2
 
 [Containments][226][Applets][298]
-geometry=1200,0,376,32
+geometry=1686,0,210,32
 immutability=1
 plugin=pager
 zvalue=0
@@ -269,10 +269,10 @@ showWindowIcons=false
 Order=16
 
 [Containments][226][Applets][305]
-geometry=432,0,656.4,32
+geometry=432,0,1142.4,32
 immutability=1
 plugin=panelspacer_internal
-zvalue=431
+zvalue=444
 
 [Containments][226][Applets][305][Configuration]
 FixedSize=false
@@ -348,8 +348,8 @@ Url=file:///home/zach/.local/share/applications/chrome-https___mail.google.com_m
 Order=1
 
 [Containments][226][Configuration]
-maximumSize=1600,35
-minimumSize=1600,35
+maximumSize=1920,35
+minimumSize=1920,35
 
 [Containments][244]
 ActionPluginsSource=Global
@@ -381,7 +381,7 @@ activity=
 activityId=
 desktop=-1
 formfactor=2
-geometry=0,-208,1600,40
+geometry=0,-208,1920,40
 immutability=1
 lastDesktop=-1
 lastScreen=0
@@ -394,7 +394,7 @@ zvalue=0
 RightButton;NoModifier=contextmenu
 
 [Containments][3][Applets][228]
-geometry=1539,3,37,37
+geometry=1859,3,37,37
 immutability=1
 plugin=org.kde.showActivityManager
 zvalue=430
@@ -403,10 +403,10 @@ zvalue=430
 Order=3
 
 [Containments][3][Applets][309]
-geometry=0,3,1151,37
+geometry=0,3,1471,37
 immutability=1
 plugin=tasks
-zvalue=434
+zvalue=445
 
 [Containments][3][Applets][309][Configuration]
 Share=false
@@ -426,7 +426,7 @@ sortingStrategy=2
 Order=0
 
 [Containments][3][Applets][8]
-geometry=1155,3,302,37
+geometry=1475,3,302,37
 immutability=1
 plugin=systemtray
 zvalue=433
@@ -453,7 +453,7 @@ Share=false
 
 [Containments][3][Applets][8][Configuration][Applets][104][PopupApplet]
 DialogHeight=295
-DialogWidth=634
+DialogWidth=684
 
 [Containments][3][Applets][8][Configuration][Applets][104][Shortcuts]
 global=
@@ -466,7 +466,7 @@ zvalue=0
 
 [Containments][3][Applets][8][Configuration][Applets][156][PopupApplet]
 DialogHeight=46
-DialogWidth=125
+DialogWidth=134
 
 [Containments][3][Applets][8][Configuration][Applets][156][Shortcuts]
 global=
@@ -482,8 +482,8 @@ Share=false
 showBatteryString=false
 
 [Containments][3][Applets][8][Configuration][Applets][170][PopupApplet]
-DialogHeight=190
-DialogWidth=388
+DialogHeight=200
+DialogWidth=407
 
 [Containments][3][Applets][8][Configuration][Applets][170][Shortcuts]
 global=
@@ -511,8 +511,8 @@ sourceAppletId=312
 sourceAppletPluginName=notifications
 
 [Containments][3][Applets][8][Configuration][Applets][312][PopupApplet]
-DialogHeight=164
-DialogWidth=306
+DialogHeight=116
+DialogWidth=466
 
 [Containments][3][Applets][8][Configuration][Applets][312][Shortcuts]
 global=
@@ -542,7 +542,7 @@ DialogHeight=226
 DialogWidth=225
 
 [Containments][3][Applets][9]
-geometry=1461,3,74,37
+geometry=1781,3,74,37
 immutability=1
 plugin=digital-clock
 zvalue=431
@@ -583,8 +583,8 @@ DialogHeight=303
 DialogWidth=466
 
 [Containments][3][Configuration]
-maximumSize=1600,40
-minimumSize=1600,40
+maximumSize=1920,40
+minimumSize=1920,40
 
 [Containments][326]
 ActionPluginsSource=Global
@@ -711,7 +711,7 @@ activity=Main
 activityId=00000000-0000-0000-0000-000000000000
 desktop=-1
 formfactor=0
-geometry=1926,4108,1024,1280
+geometry=1926,4108,1920,1080
 immutability=1
 lastDesktop=-1
 lastScreen=1
@@ -736,7 +736,7 @@ activity=Main
 activityId=00000000-0000-0000-0000-000000000000
 desktop=-1
 formfactor=0
-geometry=0,5544,1920,1080
+geometry=0,5344,1920,1080
 immutability=1
 lastDesktop=-1
 lastScreen=2

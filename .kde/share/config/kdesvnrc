@@ -3,15 +3,15 @@ CurrentPalette=Forty Colors
 
 [MainWindow]
 Height 1024=651
-Height 1080=1081
-Height 1280=471
+Height 1080=640
+Height 1280=640
 Height 900=901
-State=AAAA/wAAAAD9AAAAAAAABkAAAALeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBzAHUAYgB2AGUAcgBzAGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAAgP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAABPgAAAI5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBzAHUAYgB2AGUAcgBzAGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAAh/////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
-Width 1024=952
+Width 1024=1025
 Width 1280=845
 Width 1600=1601
-Width 1920=1921
+Width 1920=1272
 
 [Open-repository settings]
 History=file:///home/zach/HUSLSVN/the_narrow_path,file:///home/zach/HUSLSVN/Conflict_Measures,file:///home/zach/HUSLSVN/HUSL_Software,file:///home/zach/HUSLSVN/ACM
@@ -27,4 +27,4 @@ Name3[$e]=Conflict_Measures
 Name4[$e]=the_narrow_path
 
 [startup]
-lastURL=file:///home/zach/HUSLSVN/ACM
+lastURL=file:///home/zach/HUSLSVN/the_narrow_path

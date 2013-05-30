@@ -1,2 +1,6 @@
+[InitialIndexing]
+IndexCompatLevel=3
+InitialIndexingComplete=true
+
 [akonadi_nepomuk_feeder]
 DisableIdleDetection=false

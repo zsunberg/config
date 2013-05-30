@@ -7,7 +7,7 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks/devices/loop0]
 EverMounted=true
 Icon=media-optical
-LastNameSeen=934.0 MiB Hard Drive
+LastNameSeen=928.0 MiB Hard Drive
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/mmcblk0p1]
@@ -61,12 +61,12 @@ LastSeenMounted=false
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=Flash Disk
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sdc1]
 EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=FreeAgent Drive
+Icon=drive-removable-media-usb
+LastNameSeen=7.4 GiB Removable Media
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sdd]
@@ -77,21 +77,21 @@ LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdd1]
 EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=FreeAgent Drive
-LastSeenMounted=false
+Icon=multimedia-player
+LastNameSeen=Kindle
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sde]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=Android UMS Composite
-LastSeenMounted=false
+LastNameSeen=Linux File-CD Gadget
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sde1]
 EverMounted=true
-Icon=drive-removable-media-usb
-LastNameSeen=ZACH'S USB
-LastSeenMounted=true
+Icon=multimedia-player
+LastNameSeen=Kindle
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sr0:media]
 EverMounted=true
