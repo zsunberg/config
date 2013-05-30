@@ -3,7 +3,7 @@
 .PHONY: backup vim vimrc vundle bashrc git
 
 git:
-	git commit -a || ( git pull origin master && git push origin master )
+	git commit -a && ( git pull origin master && git push origin master )
 
 vim: vundle vimrc
 
