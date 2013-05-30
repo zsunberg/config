@@ -1,5 +1,10 @@
 # makefile for restoring settings
 
+.PHONY: backup vim vimrc vundle bashrc git
+
+git:
+	git commit || ( git pull origin master && git push origin master )
+
 vim: vundle vimrc
 
 vimrc:
@@ -22,6 +27,7 @@ kde:
 
 
 BACKUP=mv -f $@ $@.old || cp $< $@
+
 
 backup: fstab xorg.conf.archforum xorg.conf.home xorg.conf.homer xorg.conf.triple 
 
